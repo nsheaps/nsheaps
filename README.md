@@ -10,7 +10,7 @@
 ## &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/nsheaps/nsheaps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsheaps&title_color=000000&text_color=000000" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsheaps&hide=php&langs_count=10&title_color=000000&text_color=000000" />
 </a>
 
 <a href="https://github.com/bhaskar20/bhaskar20">
