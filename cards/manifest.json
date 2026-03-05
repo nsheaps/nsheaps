@@ -1,0 +1,317 @@
+[
+  {
+    "name": "cors-proxy",
+    "full_name": "nsheaps/cors-proxy",
+    "description": "",
+    "language": "TypeScript",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/cors-proxy"
+  },
+  {
+    "name": "private-pages",
+    "full_name": "nsheaps/private-pages",
+    "description": "A git/GitHub client that uses GitHub app/oauth app auth to load and serve static pages from private repos as if they were served as GitHub pages",
+    "language": "TypeScript",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/private-pages"
+  },
+  {
+    "name": "github-actions",
+    "full_name": "nsheaps/github-actions",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/github-actions"
+  },
+  {
+    "name": ".github",
+    "full_name": "nsheaps/.github",
+    "description": "",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/.github"
+  },
+  {
+    "name": "iac",
+    "full_name": "nsheaps/iac",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/iac"
+  },
+  {
+    "name": "cept",
+    "full_name": "nsheaps/cept",
+    "description": "Share your ideas and con-cept-ions with the world",
+    "language": "TypeScript",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/cept"
+  },
+  {
+    "name": "ai-mktpl",
+    "full_name": "nsheaps/ai-mktpl",
+    "description": "",
+    "language": "Shell",
+    "stars": 1,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/ai-mktpl"
+  },
+  {
+    "name": "portainer-stacks",
+    "full_name": "nsheaps/portainer-stacks",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/portainer-stacks"
+  },
+  {
+    "name": "homebrew-devsetup",
+    "full_name": "nsheaps/homebrew-devsetup",
+    "description": "A template for your own homebrew tap. Fork this repo (or copy it) and add your own formula to set up new devices how you want.",
+    "language": "Ruby",
+    "stars": 1,
+    "forks": 1,
+    "url": "https://github.com/nsheaps/homebrew-devsetup"
+  },
+  {
+    "name": "workspaces",
+    "full_name": "nsheaps/workspaces",
+    "description": "",
+    "language": "",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/workspaces"
+  },
+  {
+    "name": "obsidian-vaults",
+    "full_name": "nsheaps/obsidian-vaults",
+    "description": "",
+    "language": "",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/obsidian-vaults"
+  },
+  {
+    "name": "renovate-config",
+    "full_name": "nsheaps/renovate-config",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/renovate-config"
+  },
+  {
+    "name": "claude-utils",
+    "full_name": "nsheaps/claude-utils",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/claude-utils"
+  },
+  {
+    "name": "agent-team",
+    "full_name": "nsheaps/agent-team",
+    "description": "Provider-agnostic agent team orchestration",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/agent-team"
+  },
+  {
+    "name": "n8-renovate",
+    "full_name": "nsheaps/n8-renovate",
+    "description": "",
+    "language": "",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/n8-renovate"
+  },
+  {
+    "name": "op-exec",
+    "full_name": "nsheaps/op-exec",
+    "description": "Execute commands with 1Password secrets as environment variables",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/op-exec"
+  },
+  {
+    "name": "git-wt",
+    "full_name": "nsheaps/git-wt",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/git-wt"
+  },
+  {
+    "name": "dotfiles",
+    "full_name": "nsheaps/dotfiles",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/dotfiles"
+  },
+  {
+    "name": "aitkit",
+    "full_name": "nsheaps/aitkit",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/aitkit"
+  },
+  {
+    "name": ".org",
+    "full_name": "nsheaps/.org",
+    "description": "Organization-level shared resources for nsheaps",
+    "language": "",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/.org"
+  },
+  {
+    "name": ".claude",
+    "full_name": "nsheaps/.claude",
+    "description": "Dotfiles-style repo for ~/.claude configuration",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/.claude"
+  },
+  {
+    "name": "github2",
+    "full_name": "nsheaps/github2",
+    "description": "",
+    "language": "TypeScript",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/github2"
+  },
+  {
+    "name": "gs-stack-status",
+    "full_name": "nsheaps/gs-stack-status",
+    "description": "Terminal dashboard for git-spice stacked branch workflows",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/gs-stack-status"
+  },
+  {
+    "name": "claude-team",
+    "full_name": "nsheaps/claude-team",
+    "description": "Shell-based orchestration for Claude Code agent teams",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/claude-team"
+  },
+  {
+    "name": "agent",
+    "full_name": "nsheaps/agent",
+    "description": "Agent launcher with premade MCP configs and settings management",
+    "language": "Go Template",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/agent"
+  },
+  {
+    "name": "mcp",
+    "full_name": "nsheaps/mcp",
+    "description": "A CLI tool for managing MCP servers on any client (machine/user level: like claude code, claude desktop, ... AND project level: additionally gemini, cursor, vscode/copilot, q, qwen, ...)",
+    "language": "",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/mcp"
+  },
+  {
+    "name": "vscode-claude-log-plugin",
+    "full_name": "nsheaps/vscode-claude-log-plugin",
+    "description": "A plugin which reads a claude conversation jsonl file and offers a preview pane (like ANSI Colors extension) which updates after file update, showing a more human readable output of the log, similar to https://github.com/seifghazi/claude-code-proxy)",
+    "language": "",
+    "stars": 1,
+    "forks": 1,
+    "url": "https://github.com/nsheaps/vscode-claude-log-plugin"
+  },
+  {
+    "name": ".ai-agent-jack",
+    "full_name": "nsheaps/.ai-agent-jack",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/.ai-agent-jack"
+  },
+  {
+    "name": "pull-from-upstream",
+    "full_name": "nsheaps/pull-from-upstream",
+    "description": "A github action to continuously pull in changes from an upstream repo.",
+    "language": "",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/pull-from-upstream"
+  },
+  {
+    "name": ".ai-agent-henry",
+    "full_name": "nsheaps/.ai-agent-henry",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/.ai-agent-henry"
+  },
+  {
+    "name": "tiltenv",
+    "full_name": "nsheaps/tiltenv",
+    "description": "Make managing multi-service tilt deployments easier",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/tiltenv"
+  },
+  {
+    "name": "greasemonkey-scripts",
+    "full_name": "nsheaps/greasemonkey-scripts",
+    "description": "Monorepo for Greasy Fork userscripts",
+    "language": "TypeScript",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/greasemonkey-scripts"
+  },
+  {
+    "name": "tmux-ui",
+    "full_name": "nsheaps/tmux-ui",
+    "description": "",
+    "language": "",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/tmux-ui"
+  },
+  {
+    "name": "webrtc-graph-demo",
+    "full_name": "nsheaps/webrtc-graph-demo",
+    "description": "",
+    "language": "",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/webrtc-graph-demo"
+  },
+  {
+    "name": "chrome-ext-github-swapper",
+    "full_name": "nsheaps/chrome-ext-github-swapper",
+    "description": "",
+    "language": "",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/chrome-ext-github-swapper"
+  }
+]
