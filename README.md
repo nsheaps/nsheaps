@@ -18,16 +18,6 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Shell-89e051?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell" />
-  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Ruby-701516?style=flat-square&logo=ruby&logoColor=white" alt="Ruby" />
-  <img src="https://img.shields.io/badge/Go%20Template-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go Template" />
-</div>
-
-<br>
-
-<div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy#readme">
     <picture>
       <source media="(prefers-color-scheme: dark)"
@@ -67,246 +57,184 @@
 
 ### AI & Agent Tooling
 
-<table><tr>
-<td>
-      <a href="https://github.com/nsheaps/agent-team">
+<p align="center">
+  <a href="https://github.com/nsheaps/agent-team">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/agent-team-dark.svg">
           <img src="cards/agent-team-light.svg" alt="agent-team" width="400">
         </picture>
       </a>
-    </td>
-<td>
-      <a href="https://github.com/nsheaps/claude-team">
+  <a href="https://github.com/nsheaps/claude-team">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/claude-team-dark.svg">
           <img src="cards/claude-team-light.svg" alt="claude-team" width="400">
         </picture>
       </a>
-    </td>
-</tr><tr>
-<td>
-      <a href="https://github.com/nsheaps/agent">
+  <a href="https://github.com/nsheaps/agent">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/agent-dark.svg">
           <img src="cards/agent-light.svg" alt="agent" width="400">
         </picture>
       </a>
-    </td>
-<td>
-      <a href="https://github.com/nsheaps/mcp">
+  <a href="https://github.com/nsheaps/mcp">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/mcp-dark.svg">
           <img src="cards/mcp-light.svg" alt="mcp" width="400">
         </picture>
       </a>
-    </td>
-</tr><tr>
-<td>
-      <a href="https://github.com/nsheaps/claude-utils">
+  <a href="https://github.com/nsheaps/claude-utils">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/claude-utils-dark.svg">
           <img src="cards/claude-utils-light.svg" alt="claude-utils" width="400">
         </picture>
       </a>
-    </td>
-<td>
-      <a href="https://github.com/nsheaps/.claude">
+  <a href="https://github.com/nsheaps/.claude">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/.claude-dark.svg">
           <img src="cards/.claude-light.svg" alt=".claude" width="400">
         </picture>
       </a>
-    </td>
-</tr><tr>
-<td>
-      <a href="https://github.com/nsheaps/vscode-claude-log-plugin">
+  <a href="https://github.com/nsheaps/vscode-claude-log-plugin">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/vscode-claude-log-plugin-dark.svg">
           <img src="cards/vscode-claude-log-plugin-light.svg" alt="vscode-claude-log-plugin" width="400">
         </picture>
       </a>
-    </td>
-<td>
-      <a href="https://github.com/nsheaps/ai-mktpl">
+  <a href="https://github.com/nsheaps/ai-mktpl">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/ai-mktpl-dark.svg">
           <img src="cards/ai-mktpl-light.svg" alt="ai-mktpl" width="400">
         </picture>
       </a>
-    </td>
-</tr><tr>
-<td>
-      <a href="https://github.com/nsheaps/aitkit">
+  <a href="https://github.com/nsheaps/aitkit">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/aitkit-dark.svg">
           <img src="cards/aitkit-light.svg" alt="aitkit" width="400">
         </picture>
       </a>
-    </td>
-</tr></table>
+</p>
 
 ### DevOps & Infrastructure
 
-<table><tr>
-<td>
-      <a href="https://github.com/nsheaps/iac">
+<p align="center">
+  <a href="https://github.com/nsheaps/iac">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/iac-dark.svg">
           <img src="cards/iac-light.svg" alt="iac" width="400">
         </picture>
       </a>
-    </td>
-<td>
-      <a href="https://github.com/nsheaps/portainer-stacks">
+  <a href="https://github.com/nsheaps/portainer-stacks">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/portainer-stacks-dark.svg">
           <img src="cards/portainer-stacks-light.svg" alt="portainer-stacks" width="400">
         </picture>
       </a>
-    </td>
-</tr><tr>
-<td>
-      <a href="https://github.com/nsheaps/tiltenv">
+  <a href="https://github.com/nsheaps/tiltenv">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/tiltenv-dark.svg">
           <img src="cards/tiltenv-light.svg" alt="tiltenv" width="400">
         </picture>
       </a>
-    </td>
-<td>
-      <a href="https://github.com/nsheaps/n8-renovate">
+  <a href="https://github.com/nsheaps/n8-renovate">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/n8-renovate-dark.svg">
           <img src="cards/n8-renovate-light.svg" alt="n8-renovate" width="400">
         </picture>
       </a>
-    </td>
-</tr></table>
+</p>
 
 ### GitHub Actions & Automation
 
-<table><tr>
-<td>
-      <a href="https://github.com/nsheaps/github-actions">
+<p align="center">
+  <a href="https://github.com/nsheaps/github-actions">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/github-actions-dark.svg">
           <img src="cards/github-actions-light.svg" alt="github-actions" width="400">
         </picture>
       </a>
-    </td>
-<td>
-      <a href="https://github.com/nsheaps/pull-from-upstream">
+  <a href="https://github.com/nsheaps/pull-from-upstream">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/pull-from-upstream-dark.svg">
           <img src="cards/pull-from-upstream-light.svg" alt="pull-from-upstream" width="400">
         </picture>
       </a>
-    </td>
-</tr><tr>
-<td>
-      <a href="https://github.com/nsheaps/renovate-config">
+  <a href="https://github.com/nsheaps/renovate-config">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/renovate-config-dark.svg">
           <img src="cards/renovate-config-light.svg" alt="renovate-config" width="400">
         </picture>
       </a>
-    </td>
-</tr></table>
+</p>
 
 ### Developer Tools
 
-<table><tr>
-<td>
-      <a href="https://github.com/nsheaps/private-pages">
+<p align="center">
+  <a href="https://github.com/nsheaps/private-pages">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/private-pages-dark.svg">
           <img src="cards/private-pages-light.svg" alt="private-pages" width="400">
         </picture>
       </a>
-    </td>
-<td>
-      <a href="https://github.com/nsheaps/cors-proxy">
+  <a href="https://github.com/nsheaps/cors-proxy">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/cors-proxy-dark.svg">
           <img src="cards/cors-proxy-light.svg" alt="cors-proxy" width="400">
         </picture>
       </a>
-    </td>
-</tr><tr>
-<td>
-      <a href="https://github.com/nsheaps/op-exec">
+  <a href="https://github.com/nsheaps/op-exec">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/op-exec-dark.svg">
           <img src="cards/op-exec-light.svg" alt="op-exec" width="400">
         </picture>
       </a>
-    </td>
-<td>
-      <a href="https://github.com/nsheaps/git-wt">
+  <a href="https://github.com/nsheaps/git-wt">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/git-wt-dark.svg">
           <img src="cards/git-wt-light.svg" alt="git-wt" width="400">
         </picture>
       </a>
-    </td>
-</tr><tr>
-<td>
-      <a href="https://github.com/nsheaps/gs-stack-status">
+  <a href="https://github.com/nsheaps/gs-stack-status">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/gs-stack-status-dark.svg">
           <img src="cards/gs-stack-status-light.svg" alt="gs-stack-status" width="400">
         </picture>
       </a>
-    </td>
-<td>
-      <a href="https://github.com/nsheaps/homebrew-devsetup">
+  <a href="https://github.com/nsheaps/homebrew-devsetup">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/homebrew-devsetup-dark.svg">
           <img src="cards/homebrew-devsetup-light.svg" alt="homebrew-devsetup" width="400">
         </picture>
       </a>
-    </td>
-</tr><tr>
-<td>
-      <a href="https://github.com/nsheaps/dotfiles">
+  <a href="https://github.com/nsheaps/dotfiles">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/dotfiles-dark.svg">
           <img src="cards/dotfiles-light.svg" alt="dotfiles" width="400">
         </picture>
       </a>
-    </td>
-</tr></table>
+</p>
 
 ### Web & Extensions
 
-<table><tr>
-<td>
-      <a href="https://github.com/nsheaps/cept">
+<p align="center">
+  <a href="https://github.com/nsheaps/cept">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/cept-dark.svg">
           <img src="cards/cept-light.svg" alt="cept" width="400">
         </picture>
       </a>
-    </td>
-<td>
-      <a href="https://github.com/nsheaps/greasemonkey-scripts">
+  <a href="https://github.com/nsheaps/greasemonkey-scripts">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/greasemonkey-scripts-dark.svg">
           <img src="cards/greasemonkey-scripts-light.svg" alt="greasemonkey-scripts" width="400">
         </picture>
       </a>
-    </td>
-</tr><tr>
-<td>
-      <a href="https://github.com/nsheaps/chrome-ext-github-swapper">
+  <a href="https://github.com/nsheaps/chrome-ext-github-swapper">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/chrome-ext-github-swapper-dark.svg">
           <img src="cards/chrome-ext-github-swapper-light.svg" alt="chrome-ext-github-swapper" width="400">
         </picture>
       </a>
-    </td>
-</tr></table>
+</p>
 
 ---
 

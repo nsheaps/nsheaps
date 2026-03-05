@@ -61,16 +61,14 @@ def generate_repo_card_html(repo: dict) -> str:
 
 
 def generate_category_section(heading: str, repos: list[dict]) -> str:
-    """Generate a category section with cards in a grid."""
+    """Generate a category section with cards in a centered flow layout."""
     lines = [f"### {heading}\n"]
-    lines.append('<table><tr>')
+    lines.append('<p align="center">')
 
-    for i, repo in enumerate(repos):
-        if i > 0 and i % 2 == 0:
-            lines.append("</tr><tr>")
-        lines.append(f"<td>\n      {generate_repo_card_html(repo)}\n    </td>")
+    for repo in repos:
+        lines.append(f"  {generate_repo_card_html(repo)}")
 
-    lines.append("</tr></table>\n")
+    lines.append("</p>\n")
     return "\n".join(lines)
 
 
@@ -107,40 +105,7 @@ def main():
     readme_parts = []
 
     # Header
-    # Build language stats from manifest for tech stack badges
-    lang_counts: dict[str, int] = {}
-    for r in manifest:
-        lang = r.get("language", "")
-        if lang:
-            lang_counts[lang] = lang_counts.get(lang, 0) + 1
-    top_langs = sorted(lang_counts.items(), key=lambda x: x[1], reverse=True)
-
-    # shields.io logo slugs for common languages
-    lang_logos = {
-        "Shell": ("gnu-bash", "89e051"),
-        "TypeScript": ("typescript", "3178c6"),
-        "Python": ("python", "3572A5"),
-        "Ruby": ("ruby", "701516"),
-        "Go": ("go", "00ADD8"),
-        "Go Template": ("go", "00ADD8"),
-        "JavaScript": ("javascript", "f1e05a"),
-        "Rust": ("rust", "dea584"),
-        "HTML": ("html5", "e34c26"),
-        "CSS": ("css3", "563d7c"),
-    }
-
-    tech_badges = []
-    for lang, _ in top_langs:
-        if lang in lang_logos:
-            logo, color = lang_logos[lang]
-            badge_label = lang.replace(" ", "%20")
-            tech_badges.append(
-                f'  <img src="https://img.shields.io/badge/{badge_label}-{color}?style=flat-square&logo={logo}&logoColor=white" alt="{lang}" />'
-            )
-
-    tech_line = "\n".join(tech_badges)
-
-    readme_parts.append(f"""<div align="center">
+    readme_parts.append("""<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
       srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=header&text=Nathan%20Heaps&fontSize=32&animation=fadeIn&fontAlignY=30&desc=Staff%20Full-Stack%20DevOps%20Engineer&descSize=14&descAlignY=50&fontColor=fefefe">
@@ -155,12 +120,6 @@ def main():
   <img src="https://komarev.com/ghpvc/?username=nsheaps&color=FAC151&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/nsheaps?style=flat&color=FAC151" alt="Followers" />
   <img src="https://img.shields.io/github/stars/nsheaps?style=flat&color=FAC151&affiliations=OWNER" alt="Stars" />
-</div>
-
-<br>
-
-<div align="center">
-{tech_line}
 </div>
 
 <br>
