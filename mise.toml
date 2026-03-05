@@ -1,0 +1,4 @@
+[tools]
+node = "lts"
+editorconfig-checker = "latest"
+"npm:prettier" = "latest"

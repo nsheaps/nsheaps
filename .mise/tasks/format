@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+#MISE description="Format files with prettier and editorconfig-checker"
+set -euo pipefail
+
+echo "Running prettier..."
+prettier --write .
+
+echo "Checking editorconfig compliance..."
+editorconfig-checker

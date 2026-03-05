@@ -18,6 +18,16 @@
 <br>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Shell-89e051?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell" />
+  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Ruby-701516?style=flat-square&logo=ruby&logoColor=white" alt="Ruby" />
+  <img src="https://img.shields.io/badge/Go%20Template-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go Template" />
+</div>
+
+<br>
+
+<div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy#readme">
     <picture>
       <source media="(prefers-color-scheme: dark)"
@@ -51,72 +61,252 @@
   </picture>
 </div>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=nsheaps&theme=github-dark&hide_border=true&bg_color=00000000">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nsheaps&hide_border=true&bg_color=00000000" alt="Activity Graph" />
-  </picture>
-</div>
-
 ---
 
 ## Recent Projects
 
 ### AI & Agent Tooling
 
-| Repository | Description | Language | Stars |
-|:-----------|:------------|:---------|:-----:|
-| [agent-team](https://github.com/nsheaps/agent-team) | Provider-agnostic agent team orchestration | `Shell` | ![](https://img.shields.io/github/stars/nsheaps/agent-team?style=flat-square&label=) |
-| [claude-team](https://github.com/nsheaps/claude-team) | Shell-based orchestration for Claude Code agent teams | `Shell` | ![](https://img.shields.io/github/stars/nsheaps/claude-team?style=flat-square&label=) |
-| [agent](https://github.com/nsheaps/agent) | Agent launcher with premade MCP configs and settings management | `Go Template` | ![](https://img.shields.io/github/stars/nsheaps/agent?style=flat-square&label=) |
-| [mcp](https://github.com/nsheaps/mcp) | CLI tool for managing MCP servers on any client | | ![](https://img.shields.io/github/stars/nsheaps/mcp?style=flat-square&label=) |
-| [claude-utils](https://github.com/nsheaps/claude-utils) | Utilities for Claude Code workflows | `Shell` | ![](https://img.shields.io/github/stars/nsheaps/claude-utils?style=flat-square&label=) |
-| [.claude](https://github.com/nsheaps/.claude) | Dotfiles-style repo for ~/.claude configuration | `Shell` | ![](https://img.shields.io/github/stars/nsheaps/.claude?style=flat-square&label=) |
-| [vscode-claude-log-plugin](https://github.com/nsheaps/vscode-claude-log-plugin) | VSCode plugin for human-readable Claude conversation log preview | | ![](https://img.shields.io/github/stars/nsheaps/vscode-claude-log-plugin?style=flat-square&label=) |
-| [ai-mktpl](https://github.com/nsheaps/ai-mktpl) | AI marketplace | `Shell` | ![](https://img.shields.io/github/stars/nsheaps/ai-mktpl?style=flat-square&label=) |
-| [aitkit](https://github.com/nsheaps/aitkit) | AI toolkit | `Shell` | ![](https://img.shields.io/github/stars/nsheaps/aitkit?style=flat-square&label=) |
-| [awesome-ai](https://github.com/nsheaps/awesome-ai) | Curated list of AI resources | | ![](https://img.shields.io/github/stars/nsheaps/awesome-ai?style=flat-square&label=) |
+<table><tr>
+<td>
+      <a href="https://github.com/nsheaps/agent-team">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/agent-team-dark.svg">
+          <img src="cards/agent-team-light.svg" alt="agent-team" width="400">
+        </picture>
+      </a>
+    </td>
+<td>
+      <a href="https://github.com/nsheaps/claude-team">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/claude-team-dark.svg">
+          <img src="cards/claude-team-light.svg" alt="claude-team" width="400">
+        </picture>
+      </a>
+    </td>
+</tr><tr>
+<td>
+      <a href="https://github.com/nsheaps/agent">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/agent-dark.svg">
+          <img src="cards/agent-light.svg" alt="agent" width="400">
+        </picture>
+      </a>
+    </td>
+<td>
+      <a href="https://github.com/nsheaps/mcp">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/mcp-dark.svg">
+          <img src="cards/mcp-light.svg" alt="mcp" width="400">
+        </picture>
+      </a>
+    </td>
+</tr><tr>
+<td>
+      <a href="https://github.com/nsheaps/claude-utils">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/claude-utils-dark.svg">
+          <img src="cards/claude-utils-light.svg" alt="claude-utils" width="400">
+        </picture>
+      </a>
+    </td>
+<td>
+      <a href="https://github.com/nsheaps/.claude">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/.claude-dark.svg">
+          <img src="cards/.claude-light.svg" alt=".claude" width="400">
+        </picture>
+      </a>
+    </td>
+</tr><tr>
+<td>
+      <a href="https://github.com/nsheaps/vscode-claude-log-plugin">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/vscode-claude-log-plugin-dark.svg">
+          <img src="cards/vscode-claude-log-plugin-light.svg" alt="vscode-claude-log-plugin" width="400">
+        </picture>
+      </a>
+    </td>
+<td>
+      <a href="https://github.com/nsheaps/ai-mktpl">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/ai-mktpl-dark.svg">
+          <img src="cards/ai-mktpl-light.svg" alt="ai-mktpl" width="400">
+        </picture>
+      </a>
+    </td>
+</tr><tr>
+<td>
+      <a href="https://github.com/nsheaps/aitkit">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/aitkit-dark.svg">
+          <img src="cards/aitkit-light.svg" alt="aitkit" width="400">
+        </picture>
+      </a>
+    </td>
+</tr></table>
 
 ### DevOps & Infrastructure
 
-| Repository | Description | Language | Stars |
-|:-----------|:------------|:---------|:-----:|
-| [iac](https://github.com/nsheaps/iac) | Infrastructure as code | `Shell` | ![](https://img.shields.io/github/stars/nsheaps/iac?style=flat-square&label=) |
-| [portainer-stacks](https://github.com/nsheaps/portainer-stacks) | Portainer stack definitions | `Shell` | ![](https://img.shields.io/github/stars/nsheaps/portainer-stacks?style=flat-square&label=) |
-| [tiltenv](https://github.com/nsheaps/tiltenv) | Make managing multi-service tilt deployments easier | `Shell` | ![](https://img.shields.io/github/stars/nsheaps/tiltenv?style=flat-square&label=) |
-| [n8-ansible](https://github.com/nsheaps/n8-ansible) | Ansible playbooks and configuration | `Vim Script` | ![](https://img.shields.io/github/stars/nsheaps/n8-ansible?style=flat-square&label=) |
-| [local-environment](https://github.com/nsheaps/local-environment) | Local development environment setup | | ![](https://img.shields.io/github/stars/nsheaps/local-environment?style=flat-square&label=) |
+<table><tr>
+<td>
+      <a href="https://github.com/nsheaps/iac">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/iac-dark.svg">
+          <img src="cards/iac-light.svg" alt="iac" width="400">
+        </picture>
+      </a>
+    </td>
+<td>
+      <a href="https://github.com/nsheaps/portainer-stacks">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/portainer-stacks-dark.svg">
+          <img src="cards/portainer-stacks-light.svg" alt="portainer-stacks" width="400">
+        </picture>
+      </a>
+    </td>
+</tr><tr>
+<td>
+      <a href="https://github.com/nsheaps/tiltenv">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/tiltenv-dark.svg">
+          <img src="cards/tiltenv-light.svg" alt="tiltenv" width="400">
+        </picture>
+      </a>
+    </td>
+<td>
+      <a href="https://github.com/nsheaps/n8-renovate">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/n8-renovate-dark.svg">
+          <img src="cards/n8-renovate-light.svg" alt="n8-renovate" width="400">
+        </picture>
+      </a>
+    </td>
+</tr></table>
 
 ### GitHub Actions & Automation
 
-| Repository | Description | Language | Stars |
-|:-----------|:------------|:---------|:-----:|
-| [github-actions](https://github.com/nsheaps/github-actions) | Reusable GitHub Actions workflows | `Shell` | ![](https://img.shields.io/github/stars/nsheaps/github-actions?style=flat-square&label=) |
-| [pull-from-upstream](https://github.com/nsheaps/pull-from-upstream) | GitHub Action to continuously pull changes from upstream repos | | ![](https://img.shields.io/github/stars/nsheaps/pull-from-upstream?style=flat-square&label=) |
-| [actions--mise-vlocked](https://github.com/nsheaps/actions--mise-vlocked) | Passthrough to jdx/mise-action with version-locked mise managed by Renovate | | ![](https://img.shields.io/github/stars/nsheaps/actions--mise-vlocked?style=flat-square&label=) |
-| [renovate-config](https://github.com/nsheaps/renovate-config) | Shared Renovate configuration presets | `Shell` | ![](https://img.shields.io/github/stars/nsheaps/renovate-config?style=flat-square&label=) |
-| [n8-renovate](https://github.com/nsheaps/n8-renovate) | Renovate bot configuration | | ![](https://img.shields.io/github/stars/nsheaps/n8-renovate?style=flat-square&label=) |
+<table><tr>
+<td>
+      <a href="https://github.com/nsheaps/github-actions">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/github-actions-dark.svg">
+          <img src="cards/github-actions-light.svg" alt="github-actions" width="400">
+        </picture>
+      </a>
+    </td>
+<td>
+      <a href="https://github.com/nsheaps/pull-from-upstream">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/pull-from-upstream-dark.svg">
+          <img src="cards/pull-from-upstream-light.svg" alt="pull-from-upstream" width="400">
+        </picture>
+      </a>
+    </td>
+</tr><tr>
+<td>
+      <a href="https://github.com/nsheaps/renovate-config">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/renovate-config-dark.svg">
+          <img src="cards/renovate-config-light.svg" alt="renovate-config" width="400">
+        </picture>
+      </a>
+    </td>
+</tr></table>
 
 ### Developer Tools
 
-| Repository | Description | Language | Stars |
-|:-----------|:------------|:---------|:-----:|
-| [private-pages](https://github.com/nsheaps/private-pages) | GitHub client that serves static pages from private repos via GitHub app/OAuth auth | `TypeScript` | ![](https://img.shields.io/github/stars/nsheaps/private-pages?style=flat-square&label=) |
-| [cors-proxy](https://github.com/nsheaps/cors-proxy) | CORS proxy server | `TypeScript` | ![](https://img.shields.io/github/stars/nsheaps/cors-proxy?style=flat-square&label=) |
-| [op-exec](https://github.com/nsheaps/op-exec) | Execute commands with 1Password secrets as environment variables | `Shell` | ![](https://img.shields.io/github/stars/nsheaps/op-exec?style=flat-square&label=) |
-| [git-wt](https://github.com/nsheaps/git-wt) | Git worktree management utilities | `Shell` | ![](https://img.shields.io/github/stars/nsheaps/git-wt?style=flat-square&label=) |
-| [gs-stack-status](https://github.com/nsheaps/gs-stack-status) | Terminal dashboard for git-spice stacked branch workflows | `Shell` | ![](https://img.shields.io/github/stars/nsheaps/gs-stack-status?style=flat-square&label=) |
-| [homebrew-devsetup](https://github.com/nsheaps/homebrew-devsetup) | Homebrew tap template for setting up new devices | `Ruby` | ![](https://img.shields.io/github/stars/nsheaps/homebrew-devsetup?style=flat-square&label=) |
-| [dotfiles](https://github.com/nsheaps/dotfiles) | Personal dotfiles | `Shell` | ![](https://img.shields.io/github/stars/nsheaps/dotfiles?style=flat-square&label=) |
+<table><tr>
+<td>
+      <a href="https://github.com/nsheaps/private-pages">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/private-pages-dark.svg">
+          <img src="cards/private-pages-light.svg" alt="private-pages" width="400">
+        </picture>
+      </a>
+    </td>
+<td>
+      <a href="https://github.com/nsheaps/cors-proxy">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/cors-proxy-dark.svg">
+          <img src="cards/cors-proxy-light.svg" alt="cors-proxy" width="400">
+        </picture>
+      </a>
+    </td>
+</tr><tr>
+<td>
+      <a href="https://github.com/nsheaps/op-exec">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/op-exec-dark.svg">
+          <img src="cards/op-exec-light.svg" alt="op-exec" width="400">
+        </picture>
+      </a>
+    </td>
+<td>
+      <a href="https://github.com/nsheaps/git-wt">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/git-wt-dark.svg">
+          <img src="cards/git-wt-light.svg" alt="git-wt" width="400">
+        </picture>
+      </a>
+    </td>
+</tr><tr>
+<td>
+      <a href="https://github.com/nsheaps/gs-stack-status">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/gs-stack-status-dark.svg">
+          <img src="cards/gs-stack-status-light.svg" alt="gs-stack-status" width="400">
+        </picture>
+      </a>
+    </td>
+<td>
+      <a href="https://github.com/nsheaps/homebrew-devsetup">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/homebrew-devsetup-dark.svg">
+          <img src="cards/homebrew-devsetup-light.svg" alt="homebrew-devsetup" width="400">
+        </picture>
+      </a>
+    </td>
+</tr><tr>
+<td>
+      <a href="https://github.com/nsheaps/dotfiles">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/dotfiles-dark.svg">
+          <img src="cards/dotfiles-light.svg" alt="dotfiles" width="400">
+        </picture>
+      </a>
+    </td>
+</tr></table>
 
 ### Web & Extensions
 
-| Repository | Description | Language | Stars |
-|:-----------|:------------|:---------|:-----:|
-| [cept](https://github.com/nsheaps/cept) | Share your ideas and con-cept-ions with the world | `TypeScript` | ![](https://img.shields.io/github/stars/nsheaps/cept?style=flat-square&label=) |
-| [greasemonkey-scripts](https://github.com/nsheaps/greasemonkey-scripts) | Monorepo for Greasy Fork userscripts | `TypeScript` | ![](https://img.shields.io/github/stars/nsheaps/greasemonkey-scripts?style=flat-square&label=) |
-| [chrome-ext-github-swapper](https://github.com/nsheaps/chrome-ext-github-swapper) | Chrome extension for GitHub account switching | | ![](https://img.shields.io/github/stars/nsheaps/chrome-ext-github-swapper?style=flat-square&label=) |
+<table><tr>
+<td>
+      <a href="https://github.com/nsheaps/cept">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/cept-dark.svg">
+          <img src="cards/cept-light.svg" alt="cept" width="400">
+        </picture>
+      </a>
+    </td>
+<td>
+      <a href="https://github.com/nsheaps/greasemonkey-scripts">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/greasemonkey-scripts-dark.svg">
+          <img src="cards/greasemonkey-scripts-light.svg" alt="greasemonkey-scripts" width="400">
+        </picture>
+      </a>
+    </td>
+</tr><tr>
+<td>
+      <a href="https://github.com/nsheaps/chrome-ext-github-swapper">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/chrome-ext-github-swapper-dark.svg">
+          <img src="cards/chrome-ext-github-swapper-light.svg" alt="chrome-ext-github-swapper" width="400">
+        </picture>
+      </a>
+    </td>
+</tr></table>
 
 ---
 
