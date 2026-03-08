@@ -45,6 +45,11 @@ jobs:
       - name: Generate README
         run: python .github/scripts/generate-readme.py
 
+      - name: Configure git credentials
+        if: ${{ steps.auth.conclusion == 'success' }}
+        run: |
+          git remote set-url origin "https://x-access-token:${{ steps.auth.outputs.token }}@github.com/${{ github.repository }}"
+
       - name: Commit and push updates
         if: ${{ steps.auth.conclusion == 'success' }}
         uses: stefanzweifel/git-auto-commit-action@v5
