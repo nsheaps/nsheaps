@@ -19,19 +19,20 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Checkout Code
-        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4
-        with:
-          persist-credentials: false
-          fetch-depth: 0
-
-      - name: Authenticate as GitHub App
-        id: auth
+      - name: Checkout as GitHub App
+        id: checkout
         if: ${{ secrets.AUTOMATION_GITHUB_APP_ID != '' }}
-        uses: nsheaps/github-actions/.github/actions/github-app-auth@main
+        uses: nsheaps/github-actions/.github/actions/checkout-as-app@main
         with:
           app-id: ${{ secrets.AUTOMATION_GITHUB_APP_ID }}
           private-key: ${{ secrets.AUTOMATION_GITHUB_APP_PRIVATE_KEY }}
+          fetch-depth: 0
+
+      - name: Checkout Code (fallback)
+        if: ${{ steps.checkout.conclusion == 'skipped' }}
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4
+        with:
+          fetch-depth: 0
 
       - name: Install mise
         uses: jdx/mise-action@v2
@@ -52,13 +53,8 @@ jobs:
           exit $FORMAT_EXIT
         continue-on-error: true
 
-      - name: Configure git credentials
-        if: steps.auth.conclusion == 'success'
-        run: |
-          git remote set-url origin "https://x-access-token:${{ steps.auth.outputs.token }}@github.com/${{ github.repository }}"
-
       - name: Commit and push formatting fixes
-        if: steps.format.outputs.has_changes == 'true' && steps.auth.conclusion == 'success' && !cancelled()
+        if: steps.format.outputs.has_changes == 'true' && steps.checkout.conclusion == 'success' && !cancelled()
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: |
@@ -66,8 +62,8 @@ jobs:
 
             Triggered by: ${{ github.sha }}
             Workflow run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
-          commit_user_name: ${{ steps.auth.outputs.user-name }}
-          commit_user_email: ${{ steps.auth.outputs.user-id }}+${{ steps.auth.outputs.user-name }}@users.noreply.github.com
+          commit_user_name: ${{ steps.checkout.outputs.user-name }}
+          commit_user_email: ${{ steps.checkout.outputs.user-email }}
 
       - name: Fail if changes were made
         if: steps.format.outputs.has_changes == 'true' && !cancelled()
