@@ -20,17 +20,10 @@ jobs:
     steps:
       - name: Checkout as GitHub App
         id: checkout
-        if: ${{ secrets.AUTOMATION_GITHUB_APP_ID != '' }}
         uses: nsheaps/github-actions/.github/actions/checkout-as-app@main
         with:
           app-id: ${{ secrets.AUTOMATION_GITHUB_APP_ID }}
           private-key: ${{ secrets.AUTOMATION_GITHUB_APP_PRIVATE_KEY }}
-          fetch-depth: 0
-
-      - name: Checkout Code (fallback)
-        if: ${{ steps.checkout.conclusion == 'skipped' }}
-        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4
-        with:
           fetch-depth: 0
 
       - name: Setup Python
@@ -40,14 +33,13 @@ jobs:
 
       - name: Generate SVG cards
         env:
-          GH_TOKEN: ${{ steps.checkout.outputs.token || github.token }}
+          GH_TOKEN: ${{ steps.checkout.outputs.token }}
         run: python .github/scripts/generate-cards.py
 
       - name: Generate README
         run: python .github/scripts/generate-readme.py
 
       - name: Commit and push updates
-        if: ${{ steps.checkout.conclusion == 'success' }}
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: |
