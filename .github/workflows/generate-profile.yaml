@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
   schedule:
     # Regenerate daily at 6am UTC
-    - cron: "0 6 * * *"
+    - cron: '0 6 * * *'
 
 concurrency:
   group: generate-profile
@@ -29,7 +29,7 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.12"
+          python-version: '3.12'
 
       - name: Generate SVG cards
         env:
@@ -48,4 +48,4 @@ jobs:
             Workflow run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
           commit_user_name: ${{ steps.checkout.outputs.user-name }}
           commit_user_email: ${{ steps.checkout.outputs.user-email }}
-          file_pattern: "cards/*.svg cards/manifest.json README.md"
+          file_pattern: 'cards/*.svg cards/manifest.json README.md'
