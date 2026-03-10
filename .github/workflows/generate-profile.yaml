@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
   schedule:
     # Regenerate daily at 6am UTC
-    - cron: "0 6 * * *"
+    - cron: '0 6 * * *'
 
 concurrency:
   group: generate-profile
@@ -18,41 +18,34 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Checkout Code
-        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4
-        with:
-          persist-credentials: false
-          fetch-depth: 0
-
-      - name: Authenticate as GitHub App
-        id: auth
-        if: ${{ secrets.AUTOMATION_GITHUB_APP_ID != '' }}
-        uses: nsheaps/github-actions/.github/actions/github-app-auth@main
+      - name: Checkout as GitHub App
+        id: checkout
+        uses: nsheaps/github-actions/.github/actions/checkout-as-app@main
         with:
           app-id: ${{ secrets.AUTOMATION_GITHUB_APP_ID }}
           private-key: ${{ secrets.AUTOMATION_GITHUB_APP_PRIVATE_KEY }}
+          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.12"
+          python-version: '3.12'
 
       - name: Generate SVG cards
         env:
-          GH_TOKEN: ${{ steps.auth.outputs.token || github.token }}
+          GH_TOKEN: ${{ steps.checkout.outputs.token }}
         run: python .github/scripts/generate-cards.py
 
       - name: Generate README
         run: python .github/scripts/generate-readme.py
 
       - name: Commit and push updates
-        if: ${{ steps.auth.conclusion == 'success' }}
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: |
             chore: regenerate profile cards and README
 
             Workflow run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
-          commit_user_name: ${{ steps.auth.outputs.user-name }}
-          commit_user_email: ${{ steps.auth.outputs.user-id }}+${{ steps.auth.outputs.user-name }}@users.noreply.github.com
-          file_pattern: "cards/*.svg cards/manifest.json README.md"
+          commit_user_name: ${{ steps.checkout.outputs.user-name }}
+          commit_user_email: ${{ steps.checkout.outputs.user-email }}
+          file_pattern: 'cards/*.svg cards/manifest.json README.md'
