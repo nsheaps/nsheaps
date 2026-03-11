@@ -1,21 +1,57 @@
 [
   {
-    "name": "cors-proxy",
-    "full_name": "nsheaps/cors-proxy",
+    "name": "ai-mktpl",
+    "full_name": "nsheaps/ai-mktpl",
     "description": "",
-    "language": "TypeScript",
-    "stars": 0,
+    "language": "Shell",
+    "stars": 1,
     "forks": 0,
-    "url": "https://github.com/nsheaps/cors-proxy"
+    "url": "https://github.com/nsheaps/ai-mktpl"
   },
   {
-    "name": "private-pages",
-    "full_name": "nsheaps/private-pages",
-    "description": "A git/GitHub client that uses GitHub app/oauth app auth to load and serve static pages from private repos as if they were served as GitHub pages",
+    "name": "cept",
+    "full_name": "nsheaps/cept",
+    "description": "Share your ideas and con-cept-ions with the world",
     "language": "TypeScript",
     "stars": 0,
     "forks": 0,
-    "url": "https://github.com/nsheaps/private-pages"
+    "url": "https://github.com/nsheaps/cept"
+  },
+  {
+    "name": "nsheaps",
+    "full_name": "nsheaps/nsheaps",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 1,
+    "url": "https://github.com/nsheaps/nsheaps"
+  },
+  {
+    "name": "obsidian-vaults",
+    "full_name": "nsheaps/obsidian-vaults",
+    "description": "",
+    "language": "",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/obsidian-vaults"
+  },
+  {
+    "name": "renovate-config",
+    "full_name": "nsheaps/renovate-config",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/renovate-config"
+  },
+  {
+    "name": "iac",
+    "full_name": "nsheaps/iac",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/iac"
   },
   {
     "name": "github-actions",
@@ -36,40 +72,22 @@
     "url": "https://github.com/nsheaps/.github"
   },
   {
-    "name": "iac",
-    "full_name": "nsheaps/iac",
-    "description": "",
+    "name": "claude-team",
+    "full_name": "nsheaps/claude-team",
+    "description": "Shell-based orchestration for Claude Code agent teams",
     "language": "Shell",
     "stars": 0,
     "forks": 0,
-    "url": "https://github.com/nsheaps/iac"
+    "url": "https://github.com/nsheaps/claude-team"
   },
   {
-    "name": "cept",
-    "full_name": "nsheaps/cept",
-    "description": "Share your ideas and con-cept-ions with the world",
+    "name": "private-pages",
+    "full_name": "nsheaps/private-pages",
+    "description": "A git/GitHub client that uses GitHub app/oauth app auth to load and serve static pages from private repos as if they were served as GitHub pages",
     "language": "TypeScript",
     "stars": 0,
     "forks": 0,
-    "url": "https://github.com/nsheaps/cept"
-  },
-  {
-    "name": "ai-mktpl",
-    "full_name": "nsheaps/ai-mktpl",
-    "description": "",
-    "language": "Shell",
-    "stars": 1,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/ai-mktpl"
-  },
-  {
-    "name": "portainer-stacks",
-    "full_name": "nsheaps/portainer-stacks",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/portainer-stacks"
+    "url": "https://github.com/nsheaps/private-pages"
   },
   {
     "name": "homebrew-devsetup",
@@ -81,6 +99,33 @@
     "url": "https://github.com/nsheaps/homebrew-devsetup"
   },
   {
+    "name": "op-exec",
+    "full_name": "nsheaps/op-exec",
+    "description": "Execute commands with 1Password secrets as environment variables",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/op-exec"
+  },
+  {
+    "name": "cors-proxy",
+    "full_name": "nsheaps/cors-proxy",
+    "description": "",
+    "language": "TypeScript",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/cors-proxy"
+  },
+  {
+    "name": "portainer-stacks",
+    "full_name": "nsheaps/portainer-stacks",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/portainer-stacks"
+  },
+  {
     "name": "workspaces",
     "full_name": "nsheaps/workspaces",
     "description": "",
@@ -88,24 +133,6 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/workspaces"
-  },
-  {
-    "name": "obsidian-vaults",
-    "full_name": "nsheaps/obsidian-vaults",
-    "description": "",
-    "language": "",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/obsidian-vaults"
-  },
-  {
-    "name": "renovate-config",
-    "full_name": "nsheaps/renovate-config",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/renovate-config"
   },
   {
     "name": "claude-utils",
@@ -133,15 +160,6 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/n8-renovate"
-  },
-  {
-    "name": "op-exec",
-    "full_name": "nsheaps/op-exec",
-    "description": "Execute commands with 1Password secrets as environment variables",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/op-exec"
   },
   {
     "name": "git-wt",
@@ -205,15 +223,6 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/gs-stack-status"
-  },
-  {
-    "name": "claude-team",
-    "full_name": "nsheaps/claude-team",
-    "description": "Shell-based orchestration for Claude Code agent teams",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/claude-team"
   },
   {
     "name": "agent",
