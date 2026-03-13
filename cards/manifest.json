@@ -9,6 +9,15 @@
     "url": "https://github.com/nsheaps/renovate-config"
   },
   {
+    "name": "nsheaps",
+    "full_name": "nsheaps/nsheaps",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 1,
+    "url": "https://github.com/nsheaps/nsheaps"
+  },
+  {
     "name": "ai-mktpl",
     "full_name": "nsheaps/ai-mktpl",
     "description": "",
@@ -25,15 +34,6 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/cept"
-  },
-  {
-    "name": "nsheaps",
-    "full_name": "nsheaps/nsheaps",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 1,
-    "url": "https://github.com/nsheaps/nsheaps"
   },
   {
     "name": "obsidian-vaults",
