@@ -36,6 +36,11 @@ jobs:
           GH_TOKEN: ${{ steps.checkout.outputs.token }}
         run: python .github/scripts/generate-cards.py
 
+      - name: Generate Claude Code usage graph
+        env:
+          GH_TOKEN: ${{ steps.checkout.outputs.token }}
+        run: python .github/scripts/generate-usage-graph.py
+
       - name: Generate README
         run: python .github/scripts/generate-readme.py
 

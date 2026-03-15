@@ -158,6 +158,15 @@ def main():
   </picture>
 </div>
 
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="cards/claude-usage-dark.svg">
+    <img src="cards/claude-usage-light.svg" alt="Claude Code Activity" />
+  </picture>
+</div>
+
 ---
 
 ## Recent Projects
