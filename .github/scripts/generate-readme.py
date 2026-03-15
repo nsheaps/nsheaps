@@ -102,6 +102,18 @@ def main():
         if r["name"] not in categorized and r["name"] not in skip_repos
     ]
 
+    # Build "Recently Active" section: top 10 repos by recent commit count
+    all_repos = [
+        r
+        for r in manifest
+        if r["name"] not in skip_repos and r.get("recent_commits", 0) > 0
+    ]
+    active_repos = sorted(
+        all_repos,
+        key=lambda r: r.get("recent_commits", 0),
+        reverse=True,
+    )[:10]
+
     readme_parts = []
 
     # Header
@@ -158,10 +170,25 @@ def main():
   </picture>
 </div>
 
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="cards/claude-usage-dark.svg">
+    <img src="cards/claude-usage-light.svg" alt="Claude Code Activity" />
+  </picture>
+</div>
+
 ---
 
 ## Recent Projects
 """)
+
+    # Recently Active section
+    if active_repos:
+        readme_parts.append(
+            generate_category_section("Recently Active", active_repos)
+        )
 
     # Category sections
     for heading, repo_names in CATEGORIES.items():
