@@ -236,6 +236,17 @@
       </a>
 </p>
 
+### Other Projects
+
+<p align="center">
+  <a href="https://github.com/nsheaps/aifs">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/aifs-dark.svg">
+          <img src="cards/aifs-light.svg" alt="aifs" width="400">
+        </picture>
+      </a>
+</p>
+
 ---
 
 <div align="center">

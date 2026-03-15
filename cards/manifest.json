@@ -1,12 +1,21 @@
 [
   {
-    "name": "cept",
-    "full_name": "nsheaps/cept",
-    "description": "Share your ideas and con-cept-ions with the world",
-    "language": "TypeScript",
+    "name": "aifs",
+    "full_name": "nsheaps/aifs",
+    "description": "",
+    "language": "",
     "stars": 0,
     "forks": 0,
-    "url": "https://github.com/nsheaps/cept"
+    "url": "https://github.com/nsheaps/aifs"
+  },
+  {
+    "name": "homebrew-devsetup",
+    "full_name": "nsheaps/homebrew-devsetup",
+    "description": "A template for your own homebrew tap. Fork this repo (or copy it) and add your own formula to set up new devices how you want.",
+    "language": "Ruby",
+    "stars": 1,
+    "forks": 1,
+    "url": "https://github.com/nsheaps/homebrew-devsetup"
   },
   {
     "name": "renovate-config",
@@ -25,6 +34,15 @@
     "stars": 0,
     "forks": 1,
     "url": "https://github.com/nsheaps/nsheaps"
+  },
+  {
+    "name": "cept",
+    "full_name": "nsheaps/cept",
+    "description": "Share your ideas and con-cept-ions with the world",
+    "language": "TypeScript",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/cept"
   },
   {
     "name": "ai-mktpl",
@@ -88,15 +106,6 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/private-pages"
-  },
-  {
-    "name": "homebrew-devsetup",
-    "full_name": "nsheaps/homebrew-devsetup",
-    "description": "A template for your own homebrew tap. Fork this repo (or copy it) and add your own formula to set up new devices how you want.",
-    "language": "Ruby",
-    "stars": 1,
-    "forks": 1,
-    "url": "https://github.com/nsheaps/homebrew-devsetup"
   },
   {
     "name": "op-exec",
