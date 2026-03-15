@@ -5,6 +5,7 @@ import json
 import os
 import subprocess
 import sys
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 REPO_DIR = Path(__file__).resolve().parent.parent.parent
@@ -220,9 +221,65 @@ def fetch_repos() -> list[dict]:
     return merged[:40]  # Generate cards for all, README script picks 30
 
 
+def fetch_recent_commit_counts(repos: list[dict]) -> dict[str, int]:
+    """Fetch recent commit counts for repos using GitHub GraphQL API.
+
+    Returns a dict mapping full_name to commit count in the last 30 days.
+    """
+    since = (datetime.now(timezone.utc) - timedelta(days=30)).isoformat()
+    counts: dict[str, int] = {}
+
+    # GraphQL allows ~30 repos per query; batch accordingly
+    batch_size = 20
+    for i in range(0, len(repos), batch_size):
+        batch = repos[i : i + batch_size]
+        parts = []
+        for idx, repo in enumerate(batch):
+            owner, name = repo["full_name"].split("/")
+            alias = f"r{idx}"
+            parts.append(
+                f'{alias}: repository(owner: "{owner}", name: "{name}") {{\n'
+                f"  defaultBranchRef {{\n"
+                f"    target {{\n"
+                f"      ... on Commit {{\n"
+                f'        history(since: "{since}") {{\n'
+                f"          totalCount\n"
+                f"        }}\n"
+                f"      }}\n"
+                f"    }}\n"
+                f"  }}\n"
+                f"}}"
+            )
+        query = "query {\n" + "\n".join(parts) + "\n}"
+        result = subprocess.run(
+            ["gh", "api", "graphql", "-f", f"query={query}"],
+            capture_output=True,
+            text=True,
+        )
+        if result.returncode != 0:
+            print(f"Warning: GraphQL query failed: {result.stderr}", file=sys.stderr)
+            continue
+
+        data = json.loads(result.stdout).get("data", {})
+        for idx, repo in enumerate(batch):
+            alias = f"r{idx}"
+            repo_data = data.get(alias)
+            if repo_data and repo_data.get("defaultBranchRef"):
+                target = repo_data["defaultBranchRef"].get("target", {})
+                count = target.get("history", {}).get("totalCount", 0)
+            else:
+                count = 0
+            counts[repo["full_name"]] = count
+
+    return counts
+
+
 def main():
     repos = fetch_repos()
     CARDS_DIR.mkdir(exist_ok=True)
+
+    # Fetch recent commit activity
+    commit_counts = fetch_recent_commit_counts(repos)
 
     for repo in repos:
         name = repo["name"]
@@ -244,9 +301,11 @@ def main():
                 "stars": repo.get("stargazers_count", 0),
                 "forks": repo.get("forks_count", 0),
                 "url": repo["html_url"],
+                "pushed_at": repo.get("pushed_at", ""),
+                "recent_commits": commit_counts.get(repo["full_name"], 0),
             }
         )
-    (CARDS_DIR / "manifest.json").write_text(json.dumps(manifest, indent=2))
+    (CARDS_DIR / "manifest.json").write_text(json.dumps(manifest, indent=2) + "\n")
     print(f"Generated manifest with {len(manifest)} repos")
 
 
