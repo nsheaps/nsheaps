@@ -103,7 +103,11 @@ def main():
     ]
 
     # Build "Recently Active" section: top 10 repos by recent commit count
-    all_repos = [r for r in manifest if r["name"] not in skip_repos]
+    all_repos = [
+        r
+        for r in manifest
+        if r["name"] not in skip_repos and r.get("recent_commits", 0) > 0
+    ]
     active_repos = sorted(
         all_repos,
         key=lambda r: r.get("recent_commits", 0),
