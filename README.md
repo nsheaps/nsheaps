@@ -97,16 +97,16 @@
           <img src="cards/claude-utils-light.svg" alt="claude-utils" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/gs-stack-status">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/gs-stack-status-dark.svg">
-          <img src="cards/gs-stack-status-light.svg" alt="gs-stack-status" width="400">
-        </picture>
-      </a>
   <a href="https://github.com/nsheaps/renovate-config">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/renovate-config-dark.svg">
           <img src="cards/renovate-config-light.svg" alt="renovate-config" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/gs-stack-status">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/gs-stack-status-dark.svg">
+          <img src="cards/gs-stack-status-light.svg" alt="gs-stack-status" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/claude-team">
