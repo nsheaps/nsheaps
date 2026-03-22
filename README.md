@@ -91,16 +91,16 @@
           <img src="cards/renovate-config-light.svg" alt="renovate-config" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/homebrew-devsetup">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/homebrew-devsetup-dark.svg">
-          <img src="cards/homebrew-devsetup-light.svg" alt="homebrew-devsetup" width="400">
-        </picture>
-      </a>
   <a href="https://github.com/nsheaps/iac">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/iac-dark.svg">
           <img src="cards/iac-light.svg" alt="iac" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/homebrew-devsetup">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/homebrew-devsetup-dark.svg">
+          <img src="cards/homebrew-devsetup-light.svg" alt="homebrew-devsetup" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/github-actions">
@@ -121,10 +121,10 @@
           <img src="cards/op-exec-light.svg" alt="op-exec" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/gs-stack-status">
+  <a href="https://github.com/nsheaps/private-pages">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/gs-stack-status-dark.svg">
-          <img src="cards/gs-stack-status-light.svg" alt="gs-stack-status" width="400">
+          <source media="(prefers-color-scheme: dark)" srcset="cards/private-pages-dark.svg">
+          <img src="cards/private-pages-light.svg" alt="private-pages" width="400">
         </picture>
       </a>
 </p>
@@ -302,17 +302,23 @@
           <img src="cards/greasemonkey-scripts-light.svg" alt="greasemonkey-scripts" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/chrome-ext-github-swapper">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/chrome-ext-github-swapper-dark.svg">
-          <img src="cards/chrome-ext-github-swapper-light.svg" alt="chrome-ext-github-swapper" width="400">
-        </picture>
-      </a>
 </p>
 
 ### Other Projects
 
 <p align="center">
+  <a href="https://github.com/nsheaps/public-scratch">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/public-scratch-dark.svg">
+          <img src="cards/public-scratch-light.svg" alt="public-scratch" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/scratch">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/scratch-dark.svg">
+          <img src="cards/scratch-light.svg" alt="scratch" width="400">
+        </picture>
+      </a>
   <a href="https://github.com/nsheaps/aifs">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/aifs-dark.svg">
