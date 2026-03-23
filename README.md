@@ -85,6 +85,12 @@
           <img src="cards/agent-team-light.svg" alt="agent-team" width="400">
         </picture>
       </a>
+  <a href="https://github.com/nsheaps/homebrew-devsetup">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/homebrew-devsetup-dark.svg">
+          <img src="cards/homebrew-devsetup-light.svg" alt="homebrew-devsetup" width="400">
+        </picture>
+      </a>
   <a href="https://github.com/nsheaps/renovate-config">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/renovate-config-dark.svg">
@@ -95,12 +101,6 @@
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/iac-dark.svg">
           <img src="cards/iac-light.svg" alt="iac" width="400">
-        </picture>
-      </a>
-  <a href="https://github.com/nsheaps/homebrew-devsetup">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/homebrew-devsetup-dark.svg">
-          <img src="cards/homebrew-devsetup-light.svg" alt="homebrew-devsetup" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/github-actions">

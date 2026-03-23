@@ -7,8 +7,74 @@
     "stars": 1,
     "forks": 0,
     "url": "https://github.com/nsheaps/ai-mktpl",
-    "pushed_at": "2026-03-22T01:02:58Z",
-    "recent_commits": 173
+    "pushed_at": "2026-03-23T04:18:43Z",
+    "recent_commits": 182
+  },
+  {
+    "name": "homebrew-devsetup",
+    "full_name": "nsheaps/homebrew-devsetup",
+    "description": "A template for your own homebrew tap. Fork this repo (or copy it) and add your own formula to set up new devices how you want.",
+    "language": "Ruby",
+    "stars": 1,
+    "forks": 1,
+    "url": "https://github.com/nsheaps/homebrew-devsetup",
+    "pushed_at": "2026-03-23T04:17:04Z",
+    "recent_commits": 29
+  },
+  {
+    "name": "gs-stack-status",
+    "full_name": "nsheaps/gs-stack-status",
+    "description": "Terminal dashboard for git-spice stacked branch workflows",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/gs-stack-status",
+    "pushed_at": "2026-03-23T03:47:03Z",
+    "recent_commits": 3
+  },
+  {
+    "name": "git-wt",
+    "full_name": "nsheaps/git-wt",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/git-wt",
+    "pushed_at": "2026-03-23T03:46:30Z",
+    "recent_commits": 6
+  },
+  {
+    "name": "claude-utils",
+    "full_name": "nsheaps/claude-utils",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/claude-utils",
+    "pushed_at": "2026-03-23T03:46:19Z",
+    "recent_commits": 12
+  },
+  {
+    "name": "cept",
+    "full_name": "nsheaps/cept",
+    "description": "Share your ideas and con-cept-ions with the world",
+    "language": "TypeScript",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/cept",
+    "pushed_at": "2026-03-23T04:18:06Z",
+    "recent_commits": 270
+  },
+  {
+    "name": "nsheaps",
+    "full_name": "nsheaps/nsheaps",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 1,
+    "url": "https://github.com/nsheaps/nsheaps",
+    "pushed_at": "2026-03-22T06:43:59Z",
+    "recent_commits": 21
   },
   {
     "name": "public-scratch",
@@ -33,28 +99,6 @@
     "recent_commits": 3
   },
   {
-    "name": "nsheaps",
-    "full_name": "nsheaps/nsheaps",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 1,
-    "url": "https://github.com/nsheaps/nsheaps",
-    "pushed_at": "2026-03-21T06:37:06Z",
-    "recent_commits": 20
-  },
-  {
-    "name": "cept",
-    "full_name": "nsheaps/cept",
-    "description": "Share your ideas and con-cept-ions with the world",
-    "language": "TypeScript",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/cept",
-    "pushed_at": "2026-03-22T00:58:45Z",
-    "recent_commits": 268
-  },
-  {
     "name": "obsidian-vaults",
     "full_name": "nsheaps/obsidian-vaults",
     "description": "",
@@ -73,7 +117,7 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/iac",
-    "pushed_at": "2026-03-20T14:58:17Z",
+    "pushed_at": "2026-03-23T03:33:01Z",
     "recent_commits": 24
   },
   {
@@ -107,17 +151,6 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/.github",
     "pushed_at": "2026-03-19T20:52:08Z",
-    "recent_commits": 24
-  },
-  {
-    "name": "homebrew-devsetup",
-    "full_name": "nsheaps/homebrew-devsetup",
-    "description": "A template for your own homebrew tap. Fork this repo (or copy it) and add your own formula to set up new devices how you want.",
-    "language": "Ruby",
-    "stars": 1,
-    "forks": 1,
-    "url": "https://github.com/nsheaps/homebrew-devsetup",
-    "pushed_at": "2026-03-18T17:32:30Z",
     "recent_commits": 24
   },
   {
@@ -198,17 +231,6 @@
     "recent_commits": 2
   },
   {
-    "name": "claude-utils",
-    "full_name": "nsheaps/claude-utils",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/claude-utils",
-    "pushed_at": "2026-03-14T15:56:18Z",
-    "recent_commits": 10
-  },
-  {
     "name": "agent-team",
     "full_name": "nsheaps/agent-team",
     "description": "Provider-agnostic agent team orchestration",
@@ -217,7 +239,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/agent-team",
     "pushed_at": "2026-03-14T06:45:32Z",
-    "recent_commits": 40
+    "recent_commits": 38
   },
   {
     "name": "n8-renovate",
@@ -229,17 +251,6 @@
     "url": "https://github.com/nsheaps/n8-renovate",
     "pushed_at": "2023-12-03T18:32:57Z",
     "recent_commits": 0
-  },
-  {
-    "name": "git-wt",
-    "full_name": "nsheaps/git-wt",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/git-wt",
-    "pushed_at": "2026-03-14T19:56:33Z",
-    "recent_commits": 4
   },
   {
     "name": "dotfiles",
@@ -294,17 +305,6 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/github2",
     "pushed_at": "2026-02-19T19:25:00Z",
-    "recent_commits": 0
-  },
-  {
-    "name": "gs-stack-status",
-    "full_name": "nsheaps/gs-stack-status",
-    "description": "Terminal dashboard for git-spice stacked branch workflows",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/gs-stack-status",
-    "pushed_at": "2026-03-01T11:06:44Z",
     "recent_commits": 0
   },
   {
