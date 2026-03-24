@@ -1,5 +1,27 @@
 [
   {
+    "name": "gh-ext--issue-sync",
+    "full_name": "nsheaps/gh-ext--issue-sync",
+    "description": "",
+    "language": "Go",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/gh-ext--issue-sync",
+    "pushed_at": "2026-03-24T00:39:01Z",
+    "recent_commits": 7
+  },
+  {
+    "name": "nsheaps",
+    "full_name": "nsheaps/nsheaps",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 1,
+    "url": "https://github.com/nsheaps/nsheaps",
+    "pushed_at": "2026-03-23T07:04:11Z",
+    "recent_commits": 22
+  },
+  {
     "name": "ai-mktpl",
     "full_name": "nsheaps/ai-mktpl",
     "description": "",
@@ -7,7 +29,7 @@
     "stars": 1,
     "forks": 0,
     "url": "https://github.com/nsheaps/ai-mktpl",
-    "pushed_at": "2026-03-23T04:18:43Z",
+    "pushed_at": "2026-03-23T08:04:43Z",
     "recent_commits": 182
   },
   {
@@ -29,7 +51,7 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/gs-stack-status",
-    "pushed_at": "2026-03-23T03:47:03Z",
+    "pushed_at": "2026-03-23T19:37:46Z",
     "recent_commits": 3
   },
   {
@@ -62,19 +84,8 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/cept",
-    "pushed_at": "2026-03-23T04:18:06Z",
+    "pushed_at": "2026-03-23T19:19:54Z",
     "recent_commits": 270
-  },
-  {
-    "name": "nsheaps",
-    "full_name": "nsheaps/nsheaps",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 1,
-    "url": "https://github.com/nsheaps/nsheaps",
-    "pushed_at": "2026-03-22T06:43:59Z",
-    "recent_commits": 21
   },
   {
     "name": "public-scratch",
@@ -338,17 +349,6 @@
     "forks": 1,
     "url": "https://github.com/nsheaps/vscode-claude-log-plugin",
     "pushed_at": "2026-01-12T19:03:51Z",
-    "recent_commits": 0
-  },
-  {
-    "name": ".ai-agent-jack",
-    "full_name": "nsheaps/.ai-agent-jack",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/.ai-agent-jack",
-    "pushed_at": "2026-02-13T18:12:21Z",
     "recent_commits": 0
   },
   {
