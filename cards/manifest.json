@@ -1,25 +1,14 @@
 [
   {
-    "name": "gh-ext--issue-sync",
-    "full_name": "nsheaps/gh-ext--issue-sync",
-    "description": "",
-    "language": "Go",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/gh-ext--issue-sync",
-    "pushed_at": "2026-03-24T00:39:01Z",
-    "recent_commits": 7
-  },
-  {
-    "name": "nsheaps",
-    "full_name": "nsheaps/nsheaps",
+    "name": ".ai-agent-jack",
+    "full_name": "nsheaps/.ai-agent-jack",
     "description": "",
     "language": "Shell",
     "stars": 0,
-    "forks": 1,
-    "url": "https://github.com/nsheaps/nsheaps",
-    "pushed_at": "2026-03-23T07:04:11Z",
-    "recent_commits": 22
+    "forks": 0,
+    "url": "https://github.com/nsheaps/.ai-agent-jack",
+    "pushed_at": "2026-03-25T06:50:02Z",
+    "recent_commits": 71
   },
   {
     "name": "ai-mktpl",
@@ -29,8 +18,41 @@
     "stars": 1,
     "forks": 0,
     "url": "https://github.com/nsheaps/ai-mktpl",
-    "pushed_at": "2026-03-23T08:04:43Z",
-    "recent_commits": 182
+    "pushed_at": "2026-03-25T06:01:53Z",
+    "recent_commits": 190
+  },
+  {
+    "name": ".github",
+    "full_name": "nsheaps/.github",
+    "description": "",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/.github",
+    "pushed_at": "2026-03-25T05:15:24Z",
+    "recent_commits": 27
+  },
+  {
+    "name": "iac",
+    "full_name": "nsheaps/iac",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/iac",
+    "pushed_at": "2026-03-25T00:19:41Z",
+    "recent_commits": 27
+  },
+  {
+    "name": "cept",
+    "full_name": "nsheaps/cept",
+    "description": "Share your ideas and con-cept-ions with the world",
+    "language": "TypeScript",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/cept",
+    "pushed_at": "2026-03-25T01:37:13Z",
+    "recent_commits": 276
   },
   {
     "name": "homebrew-devsetup",
@@ -40,8 +62,30 @@
     "stars": 1,
     "forks": 1,
     "url": "https://github.com/nsheaps/homebrew-devsetup",
-    "pushed_at": "2026-03-23T04:17:04Z",
-    "recent_commits": 29
+    "pushed_at": "2026-03-24T18:34:31Z",
+    "recent_commits": 30
+  },
+  {
+    "name": "nsheaps",
+    "full_name": "nsheaps/nsheaps",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 1,
+    "url": "https://github.com/nsheaps/nsheaps",
+    "pushed_at": "2026-03-24T06:58:53Z",
+    "recent_commits": 23
+  },
+  {
+    "name": "gh-ext--issue-sync",
+    "full_name": "nsheaps/gh-ext--issue-sync",
+    "description": "",
+    "language": "Go",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/gh-ext--issue-sync",
+    "pushed_at": "2026-03-24T00:39:01Z",
+    "recent_commits": 7
   },
   {
     "name": "gs-stack-status",
@@ -77,17 +121,6 @@
     "recent_commits": 12
   },
   {
-    "name": "cept",
-    "full_name": "nsheaps/cept",
-    "description": "Share your ideas and con-cept-ions with the world",
-    "language": "TypeScript",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/cept",
-    "pushed_at": "2026-03-23T19:19:54Z",
-    "recent_commits": 270
-  },
-  {
     "name": "public-scratch",
     "full_name": "nsheaps/public-scratch",
     "description": "",
@@ -121,17 +154,6 @@
     "recent_commits": 14
   },
   {
-    "name": "iac",
-    "full_name": "nsheaps/iac",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/iac",
-    "pushed_at": "2026-03-23T03:33:01Z",
-    "recent_commits": 24
-  },
-  {
     "name": "github-actions",
     "full_name": "nsheaps/github-actions",
     "description": "",
@@ -152,17 +174,6 @@
     "url": "https://github.com/nsheaps/renovate-config",
     "pushed_at": "2026-03-20T05:18:35Z",
     "recent_commits": 27
-  },
-  {
-    "name": ".github",
-    "full_name": "nsheaps/.github",
-    "description": "",
-    "language": "Python",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/.github",
-    "pushed_at": "2026-03-19T20:52:08Z",
-    "recent_commits": 24
   },
   {
     "name": "aifs",
@@ -327,17 +338,6 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/agent",
     "pushed_at": "2026-03-15T20:28:43Z",
-    "recent_commits": 0
-  },
-  {
-    "name": "mcp",
-    "full_name": "nsheaps/mcp",
-    "description": "A CLI tool for managing MCP servers on any client (machine/user level: like claude code, claude desktop, ... AND project level: additionally gemini, cursor, vscode/copilot, q, qwen, ...)",
-    "language": "",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/mcp",
-    "pushed_at": "2026-03-01T13:16:04Z",
     "recent_commits": 0
   },
   {
