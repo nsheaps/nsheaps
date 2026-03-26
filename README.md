@@ -79,16 +79,10 @@
           <img src="cards/ai-mktpl-light.svg" alt="ai-mktpl" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/agent-team">
+  <a href="https://github.com/nsheaps/renovate-config">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/agent-team-dark.svg">
-          <img src="cards/agent-team-light.svg" alt="agent-team" width="400">
-        </picture>
-      </a>
-  <a href="https://github.com/nsheaps/homebrew-devsetup">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/homebrew-devsetup-dark.svg">
-          <img src="cards/homebrew-devsetup-light.svg" alt="homebrew-devsetup" width="400">
+          <source media="(prefers-color-scheme: dark)" srcset="cards/renovate-config-dark.svg">
+          <img src="cards/renovate-config-light.svg" alt="renovate-config" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/iac">
@@ -97,10 +91,10 @@
           <img src="cards/iac-light.svg" alt="iac" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/renovate-config">
+  <a href="https://github.com/nsheaps/homebrew-devsetup">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/renovate-config-dark.svg">
-          <img src="cards/renovate-config-light.svg" alt="renovate-config" width="400">
+          <source media="(prefers-color-scheme: dark)" srcset="cards/homebrew-devsetup-dark.svg">
+          <img src="cards/homebrew-devsetup-light.svg" alt="homebrew-devsetup" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/github-actions">
@@ -109,10 +103,16 @@
           <img src="cards/github-actions-light.svg" alt="github-actions" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/claude-utils">
+  <a href="https://github.com/nsheaps/gh-ext--issue-sync">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/claude-utils-dark.svg">
-          <img src="cards/claude-utils-light.svg" alt="claude-utils" width="400">
+          <source media="(prefers-color-scheme: dark)" srcset="cards/gh-ext--issue-sync-dark.svg">
+          <img src="cards/gh-ext--issue-sync-light.svg" alt="gh-ext--issue-sync" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/private-pages">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/private-pages-dark.svg">
+          <img src="cards/private-pages-light.svg" alt="private-pages" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/op-exec">
@@ -121,10 +121,10 @@
           <img src="cards/op-exec-light.svg" alt="op-exec" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/gh-ext--issue-sync">
+  <a href="https://github.com/nsheaps/cors-proxy">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/gh-ext--issue-sync-dark.svg">
-          <img src="cards/gh-ext--issue-sync-light.svg" alt="gh-ext--issue-sync" width="400">
+          <source media="(prefers-color-scheme: dark)" srcset="cards/cors-proxy-dark.svg">
+          <img src="cards/cors-proxy-light.svg" alt="cors-proxy" width="400">
         </picture>
       </a>
 </p>
