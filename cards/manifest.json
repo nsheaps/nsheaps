@@ -1,5 +1,27 @@
 [
   {
+    "name": "iac",
+    "full_name": "nsheaps/iac",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/iac",
+    "pushed_at": "2026-03-29T04:49:01Z",
+    "recent_commits": 28
+  },
+  {
+    "name": "nsheaps",
+    "full_name": "nsheaps/nsheaps",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 1,
+    "url": "https://github.com/nsheaps/nsheaps",
+    "pushed_at": "2026-03-28T06:53:25Z",
+    "recent_commits": 27
+  },
+  {
     "name": "ai-mktpl",
     "full_name": "nsheaps/ai-mktpl",
     "description": "",
@@ -7,8 +29,8 @@
     "stars": 1,
     "forks": 0,
     "url": "https://github.com/nsheaps/ai-mktpl",
-    "pushed_at": "2026-03-28T01:48:12Z",
-    "recent_commits": 168
+    "pushed_at": "2026-03-28T14:20:41Z",
+    "recent_commits": 164
   },
   {
     "name": ".ai-agent-jack",
@@ -22,28 +44,6 @@
     "recent_commits": 143
   },
   {
-    "name": "nsheaps",
-    "full_name": "nsheaps/nsheaps",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 1,
-    "url": "https://github.com/nsheaps/nsheaps",
-    "pushed_at": "2026-03-27T07:01:11Z",
-    "recent_commits": 26
-  },
-  {
-    "name": "iac",
-    "full_name": "nsheaps/iac",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/iac",
-    "pushed_at": "2026-03-25T21:06:30Z",
-    "recent_commits": 25
-  },
-  {
     "name": "homebrew-devsetup",
     "full_name": "nsheaps/homebrew-devsetup",
     "description": "A template for your own homebrew tap. Fork this repo (or copy it) and add your own formula to set up new devices how you want.",
@@ -52,7 +52,7 @@
     "forks": 1,
     "url": "https://github.com/nsheaps/homebrew-devsetup",
     "pushed_at": "2026-03-25T16:19:49Z",
-    "recent_commits": 22
+    "recent_commits": 18
   },
   {
     "name": "op-exec",
@@ -62,7 +62,7 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/op-exec",
-    "pushed_at": "2026-03-25T16:18:50Z",
+    "pushed_at": "2026-03-29T04:30:52Z",
     "recent_commits": 6
   },
   {
@@ -73,7 +73,7 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/.github",
-    "pushed_at": "2026-03-28T05:32:13Z",
+    "pushed_at": "2026-03-28T21:00:27Z",
     "recent_commits": 22
   },
   {
@@ -239,7 +239,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/portainer-stacks",
     "pushed_at": "2026-03-14T17:26:11Z",
-    "recent_commits": 3
+    "recent_commits": 2
   },
   {
     "name": "workspaces",
