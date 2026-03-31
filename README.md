@@ -103,6 +103,12 @@
           <img src="cards/github-actions-light.svg" alt="github-actions" width="400">
         </picture>
       </a>
+  <a href="https://github.com/nsheaps/op-exec">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/op-exec-dark.svg">
+          <img src="cards/op-exec-light.svg" alt="op-exec" width="400">
+        </picture>
+      </a>
   <a href="https://github.com/nsheaps/gh-ext--issue-sync">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/gh-ext--issue-sync-dark.svg">
@@ -113,12 +119,6 @@
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/private-pages-dark.svg">
           <img src="cards/private-pages-light.svg" alt="private-pages" width="400">
-        </picture>
-      </a>
-  <a href="https://github.com/nsheaps/op-exec">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/op-exec-dark.svg">
-          <img src="cards/op-exec-light.svg" alt="op-exec" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/cors-proxy">
