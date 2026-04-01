@@ -144,12 +144,6 @@
           <img src="cards/claude-team-light.svg" alt="claude-team" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/agent">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/agent-dark.svg">
-          <img src="cards/agent-light.svg" alt="agent" width="400">
-        </picture>
-      </a>
   <a href="https://github.com/nsheaps/claude-utils">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/claude-utils-dark.svg">
@@ -301,6 +295,12 @@
 ### Other Projects
 
 <p align="center">
+  <a href="https://github.com/nsheaps/claude-code-py">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/claude-code-py-dark.svg">
+          <img src="cards/claude-code-py-light.svg" alt="claude-code-py" width="400">
+        </picture>
+      </a>
   <a href="https://github.com/nsheaps/gh-ext--issue-sync">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/gh-ext--issue-sync-dark.svg">
