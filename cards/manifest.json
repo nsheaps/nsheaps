@@ -1,5 +1,60 @@
 [
   {
+    "name": "renovate-config",
+    "full_name": "nsheaps/renovate-config",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/renovate-config",
+    "pushed_at": "2026-04-02T07:05:44Z",
+    "recent_commits": 39
+  },
+  {
+    "name": ".ai-agent-jack",
+    "full_name": "nsheaps/.ai-agent-jack",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/.ai-agent-jack",
+    "pushed_at": "2026-04-01T18:32:07Z",
+    "recent_commits": 163
+  },
+  {
+    "name": "homebrew-devsetup",
+    "full_name": "nsheaps/homebrew-devsetup",
+    "description": "A template for your own homebrew tap. Fork this repo (or copy it) and add your own formula to set up new devices how you want.",
+    "language": "Ruby",
+    "stars": 1,
+    "forks": 1,
+    "url": "https://github.com/nsheaps/homebrew-devsetup",
+    "pushed_at": "2026-04-01T17:50:44Z",
+    "recent_commits": 19
+  },
+  {
+    "name": "claude-utils",
+    "full_name": "nsheaps/claude-utils",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/claude-utils",
+    "pushed_at": "2026-04-01T17:50:10Z",
+    "recent_commits": 7
+  },
+  {
+    "name": "nsheaps",
+    "full_name": "nsheaps/nsheaps",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 1,
+    "url": "https://github.com/nsheaps/nsheaps",
+    "pushed_at": "2026-04-01T07:14:08Z",
+    "recent_commits": 31
+  },
+  {
     "name": "iac",
     "full_name": "nsheaps/iac",
     "description": "",
@@ -11,28 +66,6 @@
     "recent_commits": 31
   },
   {
-    "name": "renovate-config",
-    "full_name": "nsheaps/renovate-config",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/renovate-config",
-    "pushed_at": "2026-04-01T04:27:00Z",
-    "recent_commits": 30
-  },
-  {
-    "name": ".ai-agent-jack",
-    "full_name": "nsheaps/.ai-agent-jack",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/.ai-agent-jack",
-    "pushed_at": "2026-04-01T01:57:19Z",
-    "recent_commits": 156
-  },
-  {
     "name": "ai-mktpl",
     "full_name": "nsheaps/ai-mktpl",
     "description": "",
@@ -40,19 +73,8 @@
     "stars": 1,
     "forks": 0,
     "url": "https://github.com/nsheaps/ai-mktpl",
-    "pushed_at": "2026-04-01T01:28:58Z",
-    "recent_commits": 165
-  },
-  {
-    "name": "homebrew-devsetup",
-    "full_name": "nsheaps/homebrew-devsetup",
-    "description": "A template for your own homebrew tap. Fork this repo (or copy it) and add your own formula to set up new devices how you want.",
-    "language": "Ruby",
-    "stars": 1,
-    "forks": 1,
-    "url": "https://github.com/nsheaps/homebrew-devsetup",
-    "pushed_at": "2026-03-31T16:58:27Z",
-    "recent_commits": 20
+    "pushed_at": "2026-04-01T11:08:53Z",
+    "recent_commits": 164
   },
   {
     "name": "op-exec",
@@ -66,17 +88,6 @@
     "recent_commits": 10
   },
   {
-    "name": "claude-utils",
-    "full_name": "nsheaps/claude-utils",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/claude-utils",
-    "pushed_at": "2026-03-31T16:52:50Z",
-    "recent_commits": 4
-  },
-  {
     "name": "claude-code-py",
     "full_name": "nsheaps/claude-code-py",
     "description": "",
@@ -88,17 +99,6 @@
     "recent_commits": 1
   },
   {
-    "name": "nsheaps",
-    "full_name": "nsheaps/nsheaps",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 1,
-    "url": "https://github.com/nsheaps/nsheaps",
-    "pushed_at": "2026-03-31T17:00:25Z",
-    "recent_commits": 30
-  },
-  {
     "name": ".github",
     "full_name": "nsheaps/.github",
     "description": "",
@@ -106,7 +106,7 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/.github",
-    "pushed_at": "2026-03-30T04:28:31Z",
+    "pushed_at": "2026-04-01T21:08:56Z",
     "recent_commits": 22
   },
   {
@@ -184,7 +184,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/obsidian-vaults",
     "pushed_at": "2026-03-20T11:07:43Z",
-    "recent_commits": 4
+    "recent_commits": 3
   },
   {
     "name": "github-actions",
@@ -249,8 +249,8 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/portainer-stacks",
-    "pushed_at": "2026-03-31T12:09:41Z",
-    "recent_commits": 2
+    "pushed_at": "2026-04-01T20:02:59Z",
+    "recent_commits": 1
   },
   {
     "name": "workspaces",
@@ -261,7 +261,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/workspaces",
     "pushed_at": "2026-03-02T16:14:23Z",
-    "recent_commits": 1
+    "recent_commits": 0
   },
   {
     "name": "agent-team",

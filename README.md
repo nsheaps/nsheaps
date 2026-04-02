@@ -79,16 +79,16 @@
           <img src="cards/ai-mktpl-light.svg" alt="ai-mktpl" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/iac">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/iac-dark.svg">
-          <img src="cards/iac-light.svg" alt="iac" width="400">
-        </picture>
-      </a>
   <a href="https://github.com/nsheaps/renovate-config">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/renovate-config-dark.svg">
           <img src="cards/renovate-config-light.svg" alt="renovate-config" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/iac">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/iac-dark.svg">
+          <img src="cards/iac-light.svg" alt="iac" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/homebrew-devsetup">
@@ -109,6 +109,12 @@
           <img src="cards/op-exec-light.svg" alt="op-exec" width="400">
         </picture>
       </a>
+  <a href="https://github.com/nsheaps/claude-utils">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/claude-utils-dark.svg">
+          <img src="cards/claude-utils-light.svg" alt="claude-utils" width="400">
+        </picture>
+      </a>
   <a href="https://github.com/nsheaps/gh-ext--issue-sync">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/gh-ext--issue-sync-dark.svg">
@@ -119,12 +125,6 @@
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/private-pages-dark.svg">
           <img src="cards/private-pages-light.svg" alt="private-pages" width="400">
-        </picture>
-      </a>
-  <a href="https://github.com/nsheaps/cors-proxy">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/cors-proxy-dark.svg">
-          <img src="cards/cors-proxy-light.svg" alt="cors-proxy" width="400">
         </picture>
       </a>
 </p>
