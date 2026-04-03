@@ -7,8 +7,8 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/renovate-config",
-    "pushed_at": "2026-04-02T07:05:44Z",
-    "recent_commits": 39
+    "pushed_at": "2026-04-03T07:02:08Z",
+    "recent_commits": 44
   },
   {
     "name": ".ai-agent-jack",
@@ -18,8 +18,30 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/.ai-agent-jack",
-    "pushed_at": "2026-04-01T18:32:07Z",
-    "recent_commits": 163
+    "pushed_at": "2026-04-02T23:43:41Z",
+    "recent_commits": 178
+  },
+  {
+    "name": "ai-mktpl",
+    "full_name": "nsheaps/ai-mktpl",
+    "description": "",
+    "language": "Shell",
+    "stars": 1,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/ai-mktpl",
+    "pushed_at": "2026-04-02T23:41:50Z",
+    "recent_commits": 164
+  },
+  {
+    "name": "nsheaps",
+    "full_name": "nsheaps/nsheaps",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 1,
+    "url": "https://github.com/nsheaps/nsheaps",
+    "pushed_at": "2026-04-02T07:06:09Z",
+    "recent_commits": 32
   },
   {
     "name": "homebrew-devsetup",
@@ -44,17 +66,6 @@
     "recent_commits": 7
   },
   {
-    "name": "nsheaps",
-    "full_name": "nsheaps/nsheaps",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 1,
-    "url": "https://github.com/nsheaps/nsheaps",
-    "pushed_at": "2026-04-01T07:14:08Z",
-    "recent_commits": 31
-  },
-  {
     "name": "iac",
     "full_name": "nsheaps/iac",
     "description": "",
@@ -64,17 +75,6 @@
     "url": "https://github.com/nsheaps/iac",
     "pushed_at": "2026-04-01T05:12:59Z",
     "recent_commits": 31
-  },
-  {
-    "name": "ai-mktpl",
-    "full_name": "nsheaps/ai-mktpl",
-    "description": "",
-    "language": "Shell",
-    "stars": 1,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/ai-mktpl",
-    "pushed_at": "2026-04-01T11:08:53Z",
-    "recent_commits": 164
   },
   {
     "name": "op-exec",
@@ -118,7 +118,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/cept",
     "pushed_at": "2026-03-31T08:21:28Z",
-    "recent_commits": 276
+    "recent_commits": 240
   },
   {
     "name": "gh-ext--issue-sync",
