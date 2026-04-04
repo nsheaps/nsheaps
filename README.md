@@ -67,16 +67,16 @@
 ### Recently Active
 
 <p align="center">
-  <a href="https://github.com/nsheaps/cept">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/cept-dark.svg">
-          <img src="cards/cept-light.svg" alt="cept" width="400">
-        </picture>
-      </a>
   <a href="https://github.com/nsheaps/ai-mktpl">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/ai-mktpl-dark.svg">
           <img src="cards/ai-mktpl-light.svg" alt="ai-mktpl" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/cept">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/cept-dark.svg">
+          <img src="cards/cept-light.svg" alt="cept" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/renovate-config">
@@ -121,10 +121,10 @@
           <img src="cards/gh-ext--issue-sync-light.svg" alt="gh-ext--issue-sync" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/private-pages">
+  <a href="https://github.com/nsheaps/cors-proxy">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/private-pages-dark.svg">
-          <img src="cards/private-pages-light.svg" alt="private-pages" width="400">
+          <source media="(prefers-color-scheme: dark)" srcset="cards/cors-proxy-dark.svg">
+          <img src="cards/cors-proxy-light.svg" alt="cors-proxy" width="400">
         </picture>
       </a>
 </p>

@@ -7,8 +7,8 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/renovate-config",
-    "pushed_at": "2026-04-03T07:02:08Z",
-    "recent_commits": 44
+    "pushed_at": "2026-04-04T06:54:44Z",
+    "recent_commits": 48
   },
   {
     "name": ".ai-agent-jack",
@@ -18,8 +18,19 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/.ai-agent-jack",
-    "pushed_at": "2026-04-02T23:43:41Z",
-    "recent_commits": 178
+    "pushed_at": "2026-04-03T14:19:09Z",
+    "recent_commits": 179
+  },
+  {
+    "name": "nsheaps",
+    "full_name": "nsheaps/nsheaps",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 1,
+    "url": "https://github.com/nsheaps/nsheaps",
+    "pushed_at": "2026-04-03T07:02:14Z",
+    "recent_commits": 33
   },
   {
     "name": "ai-mktpl",
@@ -30,18 +41,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/ai-mktpl",
     "pushed_at": "2026-04-02T23:41:50Z",
-    "recent_commits": 164
-  },
-  {
-    "name": "nsheaps",
-    "full_name": "nsheaps/nsheaps",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 1,
-    "url": "https://github.com/nsheaps/nsheaps",
-    "pushed_at": "2026-04-02T07:06:09Z",
-    "recent_commits": 32
+    "recent_commits": 160
   },
   {
     "name": "homebrew-devsetup",
@@ -118,7 +118,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/cept",
     "pushed_at": "2026-03-31T08:21:28Z",
-    "recent_commits": 240
+    "recent_commits": 152
   },
   {
     "name": "gh-ext--issue-sync",
@@ -228,7 +228,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/private-pages",
     "pushed_at": "2026-03-14T11:16:01Z",
-    "recent_commits": 7
+    "recent_commits": 3
   },
   {
     "name": "cors-proxy",
@@ -250,7 +250,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/portainer-stacks",
     "pushed_at": "2026-04-01T20:02:59Z",
-    "recent_commits": 1
+    "recent_commits": 0
   },
   {
     "name": "workspaces",
