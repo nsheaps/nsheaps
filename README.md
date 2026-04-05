@@ -103,12 +103,6 @@
           <img src="cards/github-actions-light.svg" alt="github-actions" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/op-exec">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/op-exec-dark.svg">
-          <img src="cards/op-exec-light.svg" alt="op-exec" width="400">
-        </picture>
-      </a>
   <a href="https://github.com/nsheaps/claude-utils">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/claude-utils-dark.svg">
@@ -121,10 +115,16 @@
           <img src="cards/gh-ext--issue-sync-light.svg" alt="gh-ext--issue-sync" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/cors-proxy">
+  <a href="https://github.com/nsheaps/op-exec">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/cors-proxy-dark.svg">
-          <img src="cards/cors-proxy-light.svg" alt="cors-proxy" width="400">
+          <source media="(prefers-color-scheme: dark)" srcset="cards/op-exec-dark.svg">
+          <img src="cards/op-exec-light.svg" alt="op-exec" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/gs-stack-status">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/gs-stack-status-dark.svg">
+          <img src="cards/gs-stack-status-light.svg" alt="gs-stack-status" width="400">
         </picture>
       </a>
 </p>
