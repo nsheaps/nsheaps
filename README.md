@@ -132,12 +132,6 @@
 ### AI & Agent Tooling
 
 <p align="center">
-  <a href="https://github.com/nsheaps/agent-team">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/agent-team-dark.svg">
-          <img src="cards/agent-team-light.svg" alt="agent-team" width="400">
-        </picture>
-      </a>
   <a href="https://github.com/nsheaps/claude-team">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/claude-team-dark.svg">
@@ -295,6 +289,12 @@
 ### Other Projects
 
 <p align="center">
+  <a href="https://github.com/nsheaps/agents">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/agents-dark.svg">
+          <img src="cards/agents-light.svg" alt="agents" width="400">
+        </picture>
+      </a>
   <a href="https://github.com/nsheaps/claude-code-py">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/claude-code-py-dark.svg">
