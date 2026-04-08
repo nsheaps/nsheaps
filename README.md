@@ -73,12 +73,6 @@
           <img src="cards/ai-mktpl-light.svg" alt="ai-mktpl" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/cept">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/cept-dark.svg">
-          <img src="cards/cept-light.svg" alt="cept" width="400">
-        </picture>
-      </a>
   <a href="https://github.com/nsheaps/renovate-config">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/renovate-config-dark.svg">
@@ -91,16 +85,22 @@
           <img src="cards/iac-light.svg" alt="iac" width="400">
         </picture>
       </a>
+  <a href="https://github.com/nsheaps/cept">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/cept-dark.svg">
+          <img src="cards/cept-light.svg" alt="cept" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/agents">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/agents-dark.svg">
+          <img src="cards/agents-light.svg" alt="agents" width="400">
+        </picture>
+      </a>
   <a href="https://github.com/nsheaps/homebrew-devsetup">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/homebrew-devsetup-dark.svg">
           <img src="cards/homebrew-devsetup-light.svg" alt="homebrew-devsetup" width="400">
-        </picture>
-      </a>
-  <a href="https://github.com/nsheaps/github-actions">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/github-actions-dark.svg">
-          <img src="cards/github-actions-light.svg" alt="github-actions" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/claude-utils">
@@ -115,16 +115,16 @@
           <img src="cards/gh-ext--issue-sync-light.svg" alt="gh-ext--issue-sync" width="400">
         </picture>
       </a>
+  <a href="https://github.com/nsheaps/github-actions">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/github-actions-dark.svg">
+          <img src="cards/github-actions-light.svg" alt="github-actions" width="400">
+        </picture>
+      </a>
   <a href="https://github.com/nsheaps/op-exec">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/op-exec-dark.svg">
           <img src="cards/op-exec-light.svg" alt="op-exec" width="400">
-        </picture>
-      </a>
-  <a href="https://github.com/nsheaps/gs-stack-status">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/gs-stack-status-dark.svg">
-          <img src="cards/gs-stack-status-light.svg" alt="gs-stack-status" width="400">
         </picture>
       </a>
 </p>

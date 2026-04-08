@@ -1,27 +1,5 @@
 [
   {
-    "name": ".ai-agent-jack",
-    "full_name": "nsheaps/.ai-agent-jack",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/.ai-agent-jack",
-    "pushed_at": "2026-04-07T04:53:47Z",
-    "recent_commits": 209
-  },
-  {
-    "name": "ai-mktpl",
-    "full_name": "nsheaps/ai-mktpl",
-    "description": "",
-    "language": "Shell",
-    "stars": 1,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/ai-mktpl",
-    "pushed_at": "2026-04-07T04:29:19Z",
-    "recent_commits": 165
-  },
-  {
     "name": "renovate-config",
     "full_name": "nsheaps/renovate-config",
     "description": "",
@@ -29,8 +7,8 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/renovate-config",
-    "pushed_at": "2026-04-07T00:32:09Z",
-    "recent_commits": 53
+    "pushed_at": "2026-04-08T05:46:36Z",
+    "recent_commits": 54
   },
   {
     "name": "iac",
@@ -40,8 +18,63 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/iac",
-    "pushed_at": "2026-04-06T21:52:18Z",
-    "recent_commits": 31
+    "pushed_at": "2026-04-08T01:47:33Z",
+    "recent_commits": 33
+  },
+  {
+    "name": "ai-mktpl",
+    "full_name": "nsheaps/ai-mktpl",
+    "description": "",
+    "language": "Shell",
+    "stars": 1,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/ai-mktpl",
+    "pushed_at": "2026-04-08T00:43:00Z",
+    "recent_commits": 160
+  },
+  {
+    "name": "agents",
+    "full_name": "nsheaps/agents",
+    "description": "Provider-agnostic agent team orchestration",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/agents",
+    "pushed_at": "2026-04-08T00:17:54Z",
+    "recent_commits": 23
+  },
+  {
+    "name": ".ai-agent-jack",
+    "full_name": "nsheaps/.ai-agent-jack",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/.ai-agent-jack",
+    "pushed_at": "2026-04-08T00:29:36Z",
+    "recent_commits": 228
+  },
+  {
+    "name": "workspaces",
+    "full_name": "nsheaps/workspaces",
+    "description": "",
+    "language": "",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/workspaces",
+    "pushed_at": "2026-04-07T22:28:51Z",
+    "recent_commits": 1
+  },
+  {
+    "name": "nsheaps",
+    "full_name": "nsheaps/nsheaps",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 1,
+    "url": "https://github.com/nsheaps/nsheaps",
+    "pushed_at": "2026-04-07T07:09:01Z",
+    "recent_commits": 36
   },
   {
     "name": "homebrew-devsetup",
@@ -66,17 +99,6 @@
     "recent_commits": 9
   },
   {
-    "name": "nsheaps",
-    "full_name": "nsheaps/nsheaps",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 1,
-    "url": "https://github.com/nsheaps/nsheaps",
-    "pushed_at": "2026-04-06T07:23:11Z",
-    "recent_commits": 35
-  },
-  {
     "name": ".ai-agent-henry",
     "full_name": "nsheaps/.ai-agent-henry",
     "description": "",
@@ -96,18 +118,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/.github",
     "pushed_at": "2026-04-06T00:54:42Z",
-    "recent_commits": 14
-  },
-  {
-    "name": "agents",
-    "full_name": "nsheaps/agents",
-    "description": "Provider-agnostic agent team orchestration",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/agents",
-    "pushed_at": "2026-03-14T06:45:32Z",
-    "recent_commits": 0
+    "recent_commits": 6
   },
   {
     "name": "op-exec",
@@ -140,7 +151,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/cept",
     "pushed_at": "2026-03-31T08:21:28Z",
-    "recent_commits": 95
+    "recent_commits": 31
   },
   {
     "name": "gh-ext--issue-sync",
@@ -206,7 +217,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/obsidian-vaults",
     "pushed_at": "2026-03-20T11:07:43Z",
-    "recent_commits": 3
+    "recent_commits": 2
   },
   {
     "name": "github-actions",
@@ -217,7 +228,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/github-actions",
     "pushed_at": "2026-04-05T17:11:16Z",
-    "recent_commits": 11
+    "recent_commits": 7
   },
   {
     "name": "aifs",
@@ -250,7 +261,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/private-pages",
     "pushed_at": "2026-03-14T11:16:01Z",
-    "recent_commits": 1
+    "recent_commits": 0
   },
   {
     "name": "cors-proxy",
@@ -272,17 +283,6 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/portainer-stacks",
     "pushed_at": "2026-04-01T20:02:59Z",
-    "recent_commits": 0
-  },
-  {
-    "name": "workspaces",
-    "full_name": "nsheaps/workspaces",
-    "description": "",
-    "language": "",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/workspaces",
-    "pushed_at": "2026-03-02T16:14:23Z",
     "recent_commits": 0
   },
   {
