@@ -7,8 +7,19 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/renovate-config",
-    "pushed_at": "2026-04-11T05:41:56Z",
+    "pushed_at": "2026-04-12T05:48:07Z",
     "recent_commits": 56
+  },
+  {
+    "name": "homebrew-devsetup",
+    "full_name": "nsheaps/homebrew-devsetup",
+    "description": "A template for your own homebrew tap. Fork this repo (or copy it) and add your own formula to set up new devices how you want.",
+    "language": "Ruby",
+    "stars": 1,
+    "forks": 1,
+    "url": "https://github.com/nsheaps/homebrew-devsetup",
+    "pushed_at": "2026-04-11T17:37:36Z",
+    "recent_commits": 19
   },
   {
     "name": "nsheaps",
@@ -18,8 +29,8 @@
     "stars": 0,
     "forks": 1,
     "url": "https://github.com/nsheaps/nsheaps",
-    "pushed_at": "2026-04-10T07:20:42Z",
-    "recent_commits": 34
+    "pushed_at": "2026-04-11T06:55:34Z",
+    "recent_commits": 33
   },
   {
     "name": "ai-mktpl",
@@ -64,17 +75,6 @@
     "url": "https://github.com/nsheaps/agents",
     "pushed_at": "2026-04-09T16:38:09Z",
     "recent_commits": 25
-  },
-  {
-    "name": "homebrew-devsetup",
-    "full_name": "nsheaps/homebrew-devsetup",
-    "description": "A template for your own homebrew tap. Fork this repo (or copy it) and add your own formula to set up new devices how you want.",
-    "language": "Ruby",
-    "stars": 1,
-    "forks": 1,
-    "url": "https://github.com/nsheaps/homebrew-devsetup",
-    "pushed_at": "2026-04-08T18:47:44Z",
-    "recent_commits": 17
   },
   {
     "name": "iac",
