@@ -7,8 +7,19 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/renovate-config",
-    "pushed_at": "2026-04-12T05:48:07Z",
-    "recent_commits": 56
+    "pushed_at": "2026-04-13T06:13:14Z",
+    "recent_commits": 53
+  },
+  {
+    "name": "nsheaps",
+    "full_name": "nsheaps/nsheaps",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 1,
+    "url": "https://github.com/nsheaps/nsheaps",
+    "pushed_at": "2026-04-12T07:08:01Z",
+    "recent_commits": 32
   },
   {
     "name": "homebrew-devsetup",
@@ -20,17 +31,6 @@
     "url": "https://github.com/nsheaps/homebrew-devsetup",
     "pushed_at": "2026-04-11T17:37:36Z",
     "recent_commits": 19
-  },
-  {
-    "name": "nsheaps",
-    "full_name": "nsheaps/nsheaps",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 1,
-    "url": "https://github.com/nsheaps/nsheaps",
-    "pushed_at": "2026-04-11T06:55:34Z",
-    "recent_commits": 33
   },
   {
     "name": "ai-mktpl",
@@ -106,7 +106,7 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/claude-utils",
-    "pushed_at": "2026-04-06T17:01:21Z",
+    "pushed_at": "2026-04-12T08:47:33Z",
     "recent_commits": 9
   },
   {
@@ -151,7 +151,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/cept",
     "pushed_at": "2026-03-31T08:21:28Z",
-    "recent_commits": 22
+    "recent_commits": 20
   },
   {
     "name": "gh-ext--issue-sync",
