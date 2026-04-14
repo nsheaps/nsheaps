@@ -7,19 +7,41 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/renovate-config",
-    "pushed_at": "2026-04-13T06:13:14Z",
-    "recent_commits": 53
+    "pushed_at": "2026-04-14T07:05:40Z",
+    "recent_commits": 54
   },
   {
-    "name": "nsheaps",
-    "full_name": "nsheaps/nsheaps",
+    "name": "iac",
+    "full_name": "nsheaps/iac",
     "description": "",
     "language": "Shell",
     "stars": 0,
-    "forks": 1,
-    "url": "https://github.com/nsheaps/nsheaps",
-    "pushed_at": "2026-04-12T07:08:01Z",
-    "recent_commits": 32
+    "forks": 0,
+    "url": "https://github.com/nsheaps/iac",
+    "pushed_at": "2026-04-14T01:31:27Z",
+    "recent_commits": 35
+  },
+  {
+    "name": "agents",
+    "full_name": "nsheaps/agents",
+    "description": "Provider-agnostic agent team orchestration",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/agents",
+    "pushed_at": "2026-04-13T23:05:29Z",
+    "recent_commits": 26
+  },
+  {
+    "name": ".ai-agent-jack",
+    "full_name": "nsheaps/.ai-agent-jack",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/.ai-agent-jack",
+    "pushed_at": "2026-04-13T22:44:27Z",
+    "recent_commits": 253
   },
   {
     "name": "homebrew-devsetup",
@@ -29,8 +51,30 @@
     "stars": 1,
     "forks": 1,
     "url": "https://github.com/nsheaps/homebrew-devsetup",
-    "pushed_at": "2026-04-11T17:37:36Z",
+    "pushed_at": "2026-04-13T18:42:08Z",
     "recent_commits": 19
+  },
+  {
+    "name": "claude-utils",
+    "full_name": "nsheaps/claude-utils",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/claude-utils",
+    "pushed_at": "2026-04-13T15:12:41Z",
+    "recent_commits": 11
+  },
+  {
+    "name": "nsheaps",
+    "full_name": "nsheaps/nsheaps",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 1,
+    "url": "https://github.com/nsheaps/nsheaps",
+    "pushed_at": "2026-04-13T07:55:29Z",
+    "recent_commits": 31
   },
   {
     "name": "ai-mktpl",
@@ -55,39 +99,6 @@
     "recent_commits": 10
   },
   {
-    "name": ".ai-agent-jack",
-    "full_name": "nsheaps/.ai-agent-jack",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/.ai-agent-jack",
-    "pushed_at": "2026-04-10T23:42:08Z",
-    "recent_commits": 252
-  },
-  {
-    "name": "agents",
-    "full_name": "nsheaps/agents",
-    "description": "Provider-agnostic agent team orchestration",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/agents",
-    "pushed_at": "2026-04-09T16:38:09Z",
-    "recent_commits": 25
-  },
-  {
-    "name": "iac",
-    "full_name": "nsheaps/iac",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/iac",
-    "pushed_at": "2026-04-08T01:47:33Z",
-    "recent_commits": 33
-  },
-  {
     "name": "workspaces",
     "full_name": "nsheaps/workspaces",
     "description": "",
@@ -97,17 +108,6 @@
     "url": "https://github.com/nsheaps/workspaces",
     "pushed_at": "2026-04-07T22:28:51Z",
     "recent_commits": 1
-  },
-  {
-    "name": "claude-utils",
-    "full_name": "nsheaps/claude-utils",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/claude-utils",
-    "pushed_at": "2026-04-12T08:47:33Z",
-    "recent_commits": 9
   },
   {
     "name": ".ai-agent-henry",
@@ -239,7 +239,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/aifs",
     "pushed_at": "2026-03-15T05:32:03Z",
-    "recent_commits": 2
+    "recent_commits": 0
   },
   {
     "name": "claude-team",
