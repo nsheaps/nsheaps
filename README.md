@@ -91,16 +91,16 @@
           <img src="cards/agents-light.svg" alt="agents" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/cept">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/cept-dark.svg">
-          <img src="cards/cept-light.svg" alt="cept" width="400">
-        </picture>
-      </a>
   <a href="https://github.com/nsheaps/homebrew-devsetup">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/homebrew-devsetup-dark.svg">
           <img src="cards/homebrew-devsetup-light.svg" alt="homebrew-devsetup" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/cept">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/cept-dark.svg">
+          <img src="cards/cept-light.svg" alt="cept" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/claude-utils">
