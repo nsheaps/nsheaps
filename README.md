@@ -103,28 +103,28 @@
           <img src="cards/cept-light.svg" alt="cept" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/claude-utils">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/claude-utils-dark.svg">
-          <img src="cards/claude-utils-light.svg" alt="claude-utils" width="400">
-        </picture>
-      </a>
   <a href="https://github.com/nsheaps/op-exec">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/op-exec-dark.svg">
           <img src="cards/op-exec-light.svg" alt="op-exec" width="400">
         </picture>
       </a>
+  <a href="https://github.com/nsheaps/claude-utils">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/claude-utils-dark.svg">
+          <img src="cards/claude-utils-light.svg" alt="claude-utils" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/git-wt">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/git-wt-dark.svg">
+          <img src="cards/git-wt-light.svg" alt="git-wt" width="400">
+        </picture>
+      </a>
   <a href="https://github.com/nsheaps/gh-ext--issue-sync">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/gh-ext--issue-sync-dark.svg">
           <img src="cards/gh-ext--issue-sync-light.svg" alt="gh-ext--issue-sync" width="400">
-        </picture>
-      </a>
-  <a href="https://github.com/nsheaps/github-actions">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/github-actions-dark.svg">
-          <img src="cards/github-actions-light.svg" alt="github-actions" width="400">
         </picture>
       </a>
 </p>
