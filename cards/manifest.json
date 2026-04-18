@@ -1,5 +1,60 @@
 [
   {
+    "name": "renovate-config",
+    "full_name": "nsheaps/renovate-config",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/renovate-config",
+    "pushed_at": "2026-04-17T17:48:00Z",
+    "recent_commits": 50
+  },
+  {
+    "name": "homebrew-devsetup",
+    "full_name": "nsheaps/homebrew-devsetup",
+    "description": "A template for your own homebrew tap. Fork this repo (or copy it) and add your own formula to set up new devices how you want.",
+    "language": "Ruby",
+    "stars": 1,
+    "forks": 1,
+    "url": "https://github.com/nsheaps/homebrew-devsetup",
+    "pushed_at": "2026-04-17T17:48:24Z",
+    "recent_commits": 24
+  },
+  {
+    "name": "git-wt",
+    "full_name": "nsheaps/git-wt",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/git-wt",
+    "pushed_at": "2026-04-17T17:47:05Z",
+    "recent_commits": 9
+  },
+  {
+    "name": "op-exec",
+    "full_name": "nsheaps/op-exec",
+    "description": "Execute commands with 1Password secrets as environment variables",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/op-exec",
+    "pushed_at": "2026-04-17T14:03:07Z",
+    "recent_commits": 14
+  },
+  {
+    "name": "nsheaps",
+    "full_name": "nsheaps/nsheaps",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 1,
+    "url": "https://github.com/nsheaps/nsheaps",
+    "pushed_at": "2026-04-17T07:25:32Z",
+    "recent_commits": 29
+  },
+  {
     "name": "ai-mktpl",
     "full_name": "nsheaps/ai-mktpl",
     "description": "",
@@ -7,7 +62,7 @@
     "stars": 1,
     "forks": 0,
     "url": "https://github.com/nsheaps/ai-mktpl",
-    "pushed_at": "2026-04-16T22:54:45Z",
+    "pushed_at": "2026-04-17T12:04:04Z",
     "recent_commits": 103
   },
   {
@@ -22,50 +77,6 @@
     "recent_commits": 37
   },
   {
-    "name": "homebrew-devsetup",
-    "full_name": "nsheaps/homebrew-devsetup",
-    "description": "A template for your own homebrew tap. Fork this repo (or copy it) and add your own formula to set up new devices how you want.",
-    "language": "Ruby",
-    "stars": 1,
-    "forks": 1,
-    "url": "https://github.com/nsheaps/homebrew-devsetup",
-    "pushed_at": "2026-04-16T17:06:54Z",
-    "recent_commits": 24
-  },
-  {
-    "name": "git-wt",
-    "full_name": "nsheaps/git-wt",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/git-wt",
-    "pushed_at": "2026-04-16T17:06:25Z",
-    "recent_commits": 7
-  },
-  {
-    "name": "op-exec",
-    "full_name": "nsheaps/op-exec",
-    "description": "Execute commands with 1Password secrets as environment variables",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/op-exec",
-    "pushed_at": "2026-04-16T22:33:01Z",
-    "recent_commits": 12
-  },
-  {
-    "name": "renovate-config",
-    "full_name": "nsheaps/renovate-config",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/renovate-config",
-    "pushed_at": "2026-04-16T15:14:35Z",
-    "recent_commits": 50
-  },
-  {
     "name": ".ai-agent-jack",
     "full_name": "nsheaps/.ai-agent-jack",
     "description": "",
@@ -75,17 +86,6 @@
     "url": "https://github.com/nsheaps/.ai-agent-jack",
     "pushed_at": "2026-04-16T07:57:40Z",
     "recent_commits": 258
-  },
-  {
-    "name": "nsheaps",
-    "full_name": "nsheaps/nsheaps",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 1,
-    "url": "https://github.com/nsheaps/nsheaps",
-    "pushed_at": "2026-04-16T07:24:44Z",
-    "recent_commits": 29
   },
   {
     "name": "agents",
@@ -117,7 +117,7 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/.github",
-    "pushed_at": "2026-04-16T12:36:21Z",
+    "pushed_at": "2026-04-17T15:20:29Z",
     "recent_commits": 10
   },
   {
