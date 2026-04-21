@@ -1,5 +1,60 @@
 [
   {
+    "name": "homebrew-devsetup",
+    "full_name": "nsheaps/homebrew-devsetup",
+    "description": "A template for your own homebrew tap. Fork this repo (or copy it) and add your own formula to set up new devices how you want.",
+    "language": "Ruby",
+    "stars": 1,
+    "forks": 1,
+    "url": "https://github.com/nsheaps/homebrew-devsetup",
+    "pushed_at": "2026-04-20T19:48:23Z",
+    "recent_commits": 26
+  },
+  {
+    "name": "op-exec",
+    "full_name": "nsheaps/op-exec",
+    "description": "Execute commands with 1Password secrets as environment variables",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/op-exec",
+    "pushed_at": "2026-04-20T19:02:21Z",
+    "recent_commits": 15
+  },
+  {
+    "name": "git-wt",
+    "full_name": "nsheaps/git-wt",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/git-wt",
+    "pushed_at": "2026-04-20T15:15:51Z",
+    "recent_commits": 11
+  },
+  {
+    "name": "iac",
+    "full_name": "nsheaps/iac",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/iac",
+    "pushed_at": "2026-04-20T09:23:03Z",
+    "recent_commits": 19
+  },
+  {
+    "name": "nsheaps",
+    "full_name": "nsheaps/nsheaps",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 1,
+    "url": "https://github.com/nsheaps/nsheaps",
+    "pushed_at": "2026-04-20T07:59:00Z",
+    "recent_commits": 29
+  },
+  {
     "name": "renovate-config",
     "full_name": "nsheaps/renovate-config",
     "description": "",
@@ -11,17 +66,6 @@
     "recent_commits": 42
   },
   {
-    "name": "nsheaps",
-    "full_name": "nsheaps/nsheaps",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 1,
-    "url": "https://github.com/nsheaps/nsheaps",
-    "pushed_at": "2026-04-19T07:12:44Z",
-    "recent_commits": 29
-  },
-  {
     "name": "ai-mktpl",
     "full_name": "nsheaps/ai-mktpl",
     "description": "",
@@ -30,51 +74,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/ai-mktpl",
     "pushed_at": "2026-04-18T21:32:11Z",
-    "recent_commits": 51
-  },
-  {
-    "name": "homebrew-devsetup",
-    "full_name": "nsheaps/homebrew-devsetup",
-    "description": "A template for your own homebrew tap. Fork this repo (or copy it) and add your own formula to set up new devices how you want.",
-    "language": "Ruby",
-    "stars": 1,
-    "forks": 1,
-    "url": "https://github.com/nsheaps/homebrew-devsetup",
-    "pushed_at": "2026-04-17T17:48:24Z",
-    "recent_commits": 24
-  },
-  {
-    "name": "git-wt",
-    "full_name": "nsheaps/git-wt",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/git-wt",
-    "pushed_at": "2026-04-19T10:51:53Z",
-    "recent_commits": 9
-  },
-  {
-    "name": "op-exec",
-    "full_name": "nsheaps/op-exec",
-    "description": "Execute commands with 1Password secrets as environment variables",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/op-exec",
-    "pushed_at": "2026-04-19T10:52:52Z",
-    "recent_commits": 14
-  },
-  {
-    "name": "iac",
-    "full_name": "nsheaps/iac",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/iac",
-    "pushed_at": "2026-04-20T01:48:45Z",
-    "recent_commits": 18
+    "recent_commits": 48
   },
   {
     "name": ".ai-agent-jack",
@@ -195,7 +195,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/public-scratch",
     "pushed_at": "2026-03-22T00:34:19Z",
-    "recent_commits": 1
+    "recent_commits": 0
   },
   {
     "name": "scratch",
@@ -206,7 +206,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/scratch",
     "pushed_at": "2026-03-21T20:57:59Z",
-    "recent_commits": 3
+    "recent_commits": 0
   },
   {
     "name": "obsidian-vaults",
