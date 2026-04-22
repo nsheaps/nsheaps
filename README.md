@@ -67,28 +67,28 @@
 ### Recently Active
 
 <p align="center">
-  <a href="https://github.com/nsheaps/ai-mktpl">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/ai-mktpl-dark.svg">
-          <img src="cards/ai-mktpl-light.svg" alt="ai-mktpl" width="400">
-        </picture>
-      </a>
   <a href="https://github.com/nsheaps/renovate-config">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/renovate-config-dark.svg">
           <img src="cards/renovate-config-light.svg" alt="renovate-config" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/homebrew-devsetup">
+  <a href="https://github.com/nsheaps/ai-mktpl">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/homebrew-devsetup-dark.svg">
-          <img src="cards/homebrew-devsetup-light.svg" alt="homebrew-devsetup" width="400">
+          <source media="(prefers-color-scheme: dark)" srcset="cards/ai-mktpl-dark.svg">
+          <img src="cards/ai-mktpl-light.svg" alt="ai-mktpl" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/agents">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/agents-dark.svg">
           <img src="cards/agents-light.svg" alt="agents" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/homebrew-devsetup">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/homebrew-devsetup-dark.svg">
+          <img src="cards/homebrew-devsetup-light.svg" alt="homebrew-devsetup" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/iac">
@@ -103,28 +103,28 @@
           <img src="cards/op-exec-light.svg" alt="op-exec" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/git-wt">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/git-wt-dark.svg">
-          <img src="cards/git-wt-light.svg" alt="git-wt" width="400">
-        </picture>
-      </a>
   <a href="https://github.com/nsheaps/claude-utils">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/claude-utils-dark.svg">
           <img src="cards/claude-utils-light.svg" alt="claude-utils" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/cept">
+  <a href="https://github.com/nsheaps/git-wt">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/cept-dark.svg">
-          <img src="cards/cept-light.svg" alt="cept" width="400">
+          <source media="(prefers-color-scheme: dark)" srcset="cards/git-wt-dark.svg">
+          <img src="cards/git-wt-light.svg" alt="git-wt" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/gh-ext--issue-sync">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/gh-ext--issue-sync-dark.svg">
           <img src="cards/gh-ext--issue-sync-light.svg" alt="gh-ext--issue-sync" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/cept">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/cept-dark.svg">
+          <img src="cards/cept-light.svg" alt="cept" width="400">
         </picture>
       </a>
 </p>

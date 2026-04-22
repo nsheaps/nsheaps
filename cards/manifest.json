@@ -1,5 +1,27 @@
 [
   {
+    "name": "ai-mktpl",
+    "full_name": "nsheaps/ai-mktpl",
+    "description": "",
+    "language": "Shell",
+    "stars": 1,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/ai-mktpl",
+    "pushed_at": "2026-04-21T23:00:24Z",
+    "recent_commits": 40
+  },
+  {
+    "name": "iac",
+    "full_name": "nsheaps/iac",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/iac",
+    "pushed_at": "2026-04-22T01:09:18Z",
+    "recent_commits": 21
+  },
+  {
     "name": "homebrew-devsetup",
     "full_name": "nsheaps/homebrew-devsetup",
     "description": "A template for your own homebrew tap. Fork this repo (or copy it) and add your own formula to set up new devices how you want.",
@@ -7,8 +29,30 @@
     "stars": 1,
     "forks": 1,
     "url": "https://github.com/nsheaps/homebrew-devsetup",
-    "pushed_at": "2026-04-20T19:48:23Z",
-    "recent_commits": 26
+    "pushed_at": "2026-04-21T19:58:27Z",
+    "recent_commits": 22
+  },
+  {
+    "name": "claude-utils",
+    "full_name": "nsheaps/claude-utils",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/claude-utils",
+    "pushed_at": "2026-04-21T19:57:53Z",
+    "recent_commits": 11
+  },
+  {
+    "name": "nsheaps",
+    "full_name": "nsheaps/nsheaps",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 1,
+    "url": "https://github.com/nsheaps/nsheaps",
+    "pushed_at": "2026-04-21T07:28:05Z",
+    "recent_commits": 29
   },
   {
     "name": "op-exec",
@@ -18,7 +62,7 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/op-exec",
-    "pushed_at": "2026-04-20T19:02:21Z",
+    "pushed_at": "2026-04-21T22:10:14Z",
     "recent_commits": 15
   },
   {
@@ -29,30 +73,8 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/git-wt",
-    "pushed_at": "2026-04-20T15:15:51Z",
-    "recent_commits": 11
-  },
-  {
-    "name": "iac",
-    "full_name": "nsheaps/iac",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/iac",
-    "pushed_at": "2026-04-20T09:23:03Z",
-    "recent_commits": 19
-  },
-  {
-    "name": "nsheaps",
-    "full_name": "nsheaps/nsheaps",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 1,
-    "url": "https://github.com/nsheaps/nsheaps",
-    "pushed_at": "2026-04-20T07:59:00Z",
-    "recent_commits": 29
+    "pushed_at": "2026-04-21T22:14:02Z",
+    "recent_commits": 9
   },
   {
     "name": "renovate-config",
@@ -64,17 +86,6 @@
     "url": "https://github.com/nsheaps/renovate-config",
     "pushed_at": "2026-04-19T12:58:05Z",
     "recent_commits": 42
-  },
-  {
-    "name": "ai-mktpl",
-    "full_name": "nsheaps/ai-mktpl",
-    "description": "",
-    "language": "Shell",
-    "stars": 1,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/ai-mktpl",
-    "pushed_at": "2026-04-18T21:32:11Z",
-    "recent_commits": 48
   },
   {
     "name": ".ai-agent-jack",
@@ -99,17 +110,6 @@
     "recent_commits": 26
   },
   {
-    "name": "claude-utils",
-    "full_name": "nsheaps/claude-utils",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/claude-utils",
-    "pushed_at": "2026-04-19T10:33:08Z",
-    "recent_commits": 11
-  },
-  {
     "name": ".github",
     "full_name": "nsheaps/.github",
     "description": "",
@@ -117,7 +117,7 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/.github",
-    "pushed_at": "2026-04-19T17:32:32Z",
+    "pushed_at": "2026-04-21T21:06:51Z",
     "recent_commits": 8
   },
   {
@@ -162,7 +162,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/cept",
     "pushed_at": "2026-04-15T15:16:20Z",
-    "recent_commits": 8
+    "recent_commits": 6
   },
   {
     "name": "gh-ext--issue-sync",
@@ -184,7 +184,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/gs-stack-status",
     "pushed_at": "2026-03-23T19:37:46Z",
-    "recent_commits": 3
+    "recent_commits": 0
   },
   {
     "name": "public-scratch",
@@ -227,7 +227,7 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/github-actions",
-    "pushed_at": "2026-04-05T17:11:16Z",
+    "pushed_at": "2026-04-21T21:41:06Z",
     "recent_commits": 0
   },
   {
@@ -282,7 +282,7 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/portainer-stacks",
-    "pushed_at": "2026-04-20T00:51:47Z",
+    "pushed_at": "2026-04-21T22:07:00Z",
     "recent_commits": 0
   },
   {
