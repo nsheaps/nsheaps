@@ -1,5 +1,71 @@
 [
   {
+    "name": "iac",
+    "full_name": "nsheaps/iac",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/iac",
+    "pushed_at": "2026-04-22T23:14:39Z",
+    "recent_commits": 23
+  },
+  {
+    "name": "homebrew-devsetup",
+    "full_name": "nsheaps/homebrew-devsetup",
+    "description": "A template for your own homebrew tap. Fork this repo (or copy it) and add your own formula to set up new devices how you want.",
+    "language": "Ruby",
+    "stars": 1,
+    "forks": 1,
+    "url": "https://github.com/nsheaps/homebrew-devsetup",
+    "pushed_at": "2026-04-22T17:10:48Z",
+    "recent_commits": 24
+  },
+  {
+    "name": "claude-utils",
+    "full_name": "nsheaps/claude-utils",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/claude-utils",
+    "pushed_at": "2026-04-22T17:10:16Z",
+    "recent_commits": 14
+  },
+  {
+    "name": "op-exec",
+    "full_name": "nsheaps/op-exec",
+    "description": "Execute commands with 1Password secrets as environment variables",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/op-exec",
+    "pushed_at": "2026-04-22T17:08:57Z",
+    "recent_commits": 17
+  },
+  {
+    "name": "git-wt",
+    "full_name": "nsheaps/git-wt",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/git-wt",
+    "pushed_at": "2026-04-22T16:03:47Z",
+    "recent_commits": 12
+  },
+  {
+    "name": "nsheaps",
+    "full_name": "nsheaps/nsheaps",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 1,
+    "url": "https://github.com/nsheaps/nsheaps",
+    "pushed_at": "2026-04-22T07:25:39Z",
+    "recent_commits": 30
+  },
+  {
     "name": "ai-mktpl",
     "full_name": "nsheaps/ai-mktpl",
     "description": "",
@@ -11,72 +77,6 @@
     "recent_commits": 40
   },
   {
-    "name": "iac",
-    "full_name": "nsheaps/iac",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/iac",
-    "pushed_at": "2026-04-22T01:09:18Z",
-    "recent_commits": 21
-  },
-  {
-    "name": "homebrew-devsetup",
-    "full_name": "nsheaps/homebrew-devsetup",
-    "description": "A template for your own homebrew tap. Fork this repo (or copy it) and add your own formula to set up new devices how you want.",
-    "language": "Ruby",
-    "stars": 1,
-    "forks": 1,
-    "url": "https://github.com/nsheaps/homebrew-devsetup",
-    "pushed_at": "2026-04-21T19:58:27Z",
-    "recent_commits": 22
-  },
-  {
-    "name": "claude-utils",
-    "full_name": "nsheaps/claude-utils",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/claude-utils",
-    "pushed_at": "2026-04-21T19:57:53Z",
-    "recent_commits": 11
-  },
-  {
-    "name": "nsheaps",
-    "full_name": "nsheaps/nsheaps",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 1,
-    "url": "https://github.com/nsheaps/nsheaps",
-    "pushed_at": "2026-04-21T07:28:05Z",
-    "recent_commits": 29
-  },
-  {
-    "name": "op-exec",
-    "full_name": "nsheaps/op-exec",
-    "description": "Execute commands with 1Password secrets as environment variables",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/op-exec",
-    "pushed_at": "2026-04-21T22:10:14Z",
-    "recent_commits": 15
-  },
-  {
-    "name": "git-wt",
-    "full_name": "nsheaps/git-wt",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/git-wt",
-    "pushed_at": "2026-04-21T22:14:02Z",
-    "recent_commits": 9
-  },
-  {
     "name": "renovate-config",
     "full_name": "nsheaps/renovate-config",
     "description": "",
@@ -84,7 +84,7 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/renovate-config",
-    "pushed_at": "2026-04-19T12:58:05Z",
+    "pushed_at": "2026-04-23T01:44:37Z",
     "recent_commits": 42
   },
   {
@@ -117,7 +117,7 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/.github",
-    "pushed_at": "2026-04-21T21:06:51Z",
+    "pushed_at": "2026-04-22T18:10:24Z",
     "recent_commits": 8
   },
   {
@@ -173,7 +173,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/gh-ext--issue-sync",
     "pushed_at": "2026-04-15T23:54:32Z",
-    "recent_commits": 7
+    "recent_commits": 0
   },
   {
     "name": "gs-stack-status",
@@ -282,7 +282,7 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/portainer-stacks",
-    "pushed_at": "2026-04-21T22:07:00Z",
+    "pushed_at": "2026-04-22T15:50:24Z",
     "recent_commits": 0
   },
   {

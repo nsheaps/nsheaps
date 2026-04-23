@@ -115,16 +115,16 @@
           <img src="cards/git-wt-light.svg" alt="git-wt" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/gh-ext--issue-sync">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/gh-ext--issue-sync-dark.svg">
-          <img src="cards/gh-ext--issue-sync-light.svg" alt="gh-ext--issue-sync" width="400">
-        </picture>
-      </a>
   <a href="https://github.com/nsheaps/cept">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/cept-dark.svg">
           <img src="cards/cept-light.svg" alt="cept" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/claude-code-py">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/claude-code-py-dark.svg">
+          <img src="cards/claude-code-py-light.svg" alt="claude-code-py" width="400">
         </picture>
       </a>
 </p>
