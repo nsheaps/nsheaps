@@ -73,22 +73,28 @@
           <img src="cards/renovate-config-light.svg" alt="renovate-config" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/ai-mktpl">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/ai-mktpl-dark.svg">
-          <img src="cards/ai-mktpl-light.svg" alt="ai-mktpl" width="400">
-        </picture>
-      </a>
   <a href="https://github.com/nsheaps/agents">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/agents-dark.svg">
           <img src="cards/agents-light.svg" alt="agents" width="400">
         </picture>
       </a>
+  <a href="https://github.com/nsheaps/ai-mktpl">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/ai-mktpl-dark.svg">
+          <img src="cards/ai-mktpl-light.svg" alt="ai-mktpl" width="400">
+        </picture>
+      </a>
   <a href="https://github.com/nsheaps/homebrew-devsetup">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/homebrew-devsetup-dark.svg">
           <img src="cards/homebrew-devsetup-light.svg" alt="homebrew-devsetup" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/ramp-interview">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/ramp-interview-dark.svg">
+          <img src="cards/ramp-interview-light.svg" alt="ramp-interview" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/iac">
@@ -115,12 +121,6 @@
           <img src="cards/git-wt-light.svg" alt="git-wt" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/cept">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/cept-dark.svg">
-          <img src="cards/cept-light.svg" alt="cept" width="400">
-        </picture>
-      </a>
   <a href="https://github.com/nsheaps/claude-code-py">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/claude-code-py-dark.svg">
@@ -142,12 +142,6 @@
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/claude-utils-dark.svg">
           <img src="cards/claude-utils-light.svg" alt="claude-utils" width="400">
-        </picture>
-      </a>
-  <a href="https://github.com/nsheaps/.claude">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/.claude-dark.svg">
-          <img src="cards/.claude-light.svg" alt=".claude" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/vscode-claude-log-plugin">
@@ -293,6 +287,12 @@
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/agents-dark.svg">
           <img src="cards/agents-light.svg" alt="agents" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/ramp-interview">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/ramp-interview-dark.svg">
+          <img src="cards/ramp-interview-light.svg" alt="ramp-interview" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/claude-code-py">
