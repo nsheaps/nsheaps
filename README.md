@@ -121,10 +121,10 @@
           <img src="cards/git-wt-light.svg" alt="git-wt" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/claude-code-py">
+  <a href="https://github.com/nsheaps/.ai-agent-alex">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/claude-code-py-dark.svg">
-          <img src="cards/claude-code-py-light.svg" alt="claude-code-py" width="400">
+          <source media="(prefers-color-scheme: dark)" srcset="cards/.ai-agent-alex-dark.svg">
+          <img src="cards/.ai-agent-alex-light.svg" alt=".ai-agent-alex" width="400">
         </picture>
       </a>
 </p>
@@ -287,6 +287,12 @@
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/agents-dark.svg">
           <img src="cards/agents-light.svg" alt="agents" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/.ai-agent-alex">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/.ai-agent-alex-dark.svg">
+          <img src="cards/.ai-agent-alex-light.svg" alt=".ai-agent-alex" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/ramp-interview">
