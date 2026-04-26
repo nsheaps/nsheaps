@@ -103,16 +103,16 @@
           <img src="cards/iac-light.svg" alt="iac" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/op-exec">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/op-exec-dark.svg">
-          <img src="cards/op-exec-light.svg" alt="op-exec" width="400">
-        </picture>
-      </a>
   <a href="https://github.com/nsheaps/claude-utils">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/claude-utils-dark.svg">
           <img src="cards/claude-utils-light.svg" alt="claude-utils" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/op-exec">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/op-exec-dark.svg">
+          <img src="cards/op-exec-light.svg" alt="op-exec" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/git-wt">
@@ -154,12 +154,6 @@
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/ai-mktpl-dark.svg">
           <img src="cards/ai-mktpl-light.svg" alt="ai-mktpl" width="400">
-        </picture>
-      </a>
-  <a href="https://github.com/nsheaps/aitkit">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/aitkit-dark.svg">
-          <img src="cards/aitkit-light.svg" alt="aitkit" width="400">
         </picture>
       </a>
 </p>
@@ -283,6 +277,12 @@
 ### Other Projects
 
 <p align="center">
+  <a href="https://github.com/nsheaps/claudesh">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/claudesh-dark.svg">
+          <img src="cards/claudesh-light.svg" alt="claudesh" width="400">
+        </picture>
+      </a>
   <a href="https://github.com/nsheaps/agents">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/agents-dark.svg">

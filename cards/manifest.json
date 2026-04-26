@@ -7,8 +7,8 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/.ai-agent-henry",
-    "pushed_at": "2026-04-25T04:47:55Z",
-    "recent_commits": 32
+    "pushed_at": "2026-04-26T05:41:12Z",
+    "recent_commits": 80
   },
   {
     "name": ".ai-agent-jack",
@@ -18,8 +18,63 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/.ai-agent-jack",
-    "pushed_at": "2026-04-25T03:15:04Z",
-    "recent_commits": 158
+    "pushed_at": "2026-04-26T05:35:48Z",
+    "recent_commits": 194
+  },
+  {
+    "name": "op-exec",
+    "full_name": "nsheaps/op-exec",
+    "description": "Execute commands with 1Password secrets as environment variables",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/op-exec",
+    "pushed_at": "2026-04-26T05:34:19Z",
+    "recent_commits": 16
+  },
+  {
+    "name": "claudesh",
+    "full_name": "nsheaps/claudesh",
+    "description": "",
+    "language": "",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/claudesh",
+    "pushed_at": "2026-04-26T02:21:47Z",
+    "recent_commits": 1
+  },
+  {
+    "name": "homebrew-devsetup",
+    "full_name": "nsheaps/homebrew-devsetup",
+    "description": "A template for your own homebrew tap. Fork this repo (or copy it) and add your own formula to set up new devices how you want.",
+    "language": "Ruby",
+    "stars": 1,
+    "forks": 1,
+    "url": "https://github.com/nsheaps/homebrew-devsetup",
+    "pushed_at": "2026-04-25T13:59:46Z",
+    "recent_commits": 24
+  },
+  {
+    "name": "claude-utils",
+    "full_name": "nsheaps/claude-utils",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/claude-utils",
+    "pushed_at": "2026-04-25T13:59:32Z",
+    "recent_commits": 18
+  },
+  {
+    "name": "nsheaps",
+    "full_name": "nsheaps/nsheaps",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 1,
+    "url": "https://github.com/nsheaps/nsheaps",
+    "pushed_at": "2026-04-25T06:31:48Z",
+    "recent_commits": 30
   },
   {
     "name": "ai-mktpl",
@@ -29,8 +84,8 @@
     "stars": 1,
     "forks": 0,
     "url": "https://github.com/nsheaps/ai-mktpl",
-    "pushed_at": "2026-04-25T03:16:19Z",
-    "recent_commits": 38
+    "pushed_at": "2026-04-26T05:53:01Z",
+    "recent_commits": 37
   },
   {
     "name": "agents",
@@ -66,17 +121,6 @@
     "recent_commits": 4
   },
   {
-    "name": "nsheaps",
-    "full_name": "nsheaps/nsheaps",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 1,
-    "url": "https://github.com/nsheaps/nsheaps",
-    "pushed_at": "2026-04-24T06:39:34Z",
-    "recent_commits": 30
-  },
-  {
     "name": "ramp-interview",
     "full_name": "nsheaps/ramp-interview",
     "description": "",
@@ -110,39 +154,6 @@
     "recent_commits": 19
   },
   {
-    "name": "homebrew-devsetup",
-    "full_name": "nsheaps/homebrew-devsetup",
-    "description": "A template for your own homebrew tap. Fork this repo (or copy it) and add your own formula to set up new devices how you want.",
-    "language": "Ruby",
-    "stars": 1,
-    "forks": 1,
-    "url": "https://github.com/nsheaps/homebrew-devsetup",
-    "pushed_at": "2026-04-22T17:10:48Z",
-    "recent_commits": 22
-  },
-  {
-    "name": "claude-utils",
-    "full_name": "nsheaps/claude-utils",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/claude-utils",
-    "pushed_at": "2026-04-22T17:10:16Z",
-    "recent_commits": 14
-  },
-  {
-    "name": "op-exec",
-    "full_name": "nsheaps/op-exec",
-    "description": "Execute commands with 1Password secrets as environment variables",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/op-exec",
-    "pushed_at": "2026-04-22T17:08:57Z",
-    "recent_commits": 15
-  },
-  {
     "name": "git-wt",
     "full_name": "nsheaps/git-wt",
     "description": "",
@@ -161,7 +172,7 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/.github",
-    "pushed_at": "2026-04-22T18:10:24Z",
+    "pushed_at": "2026-04-26T01:01:21Z",
     "recent_commits": 5
   },
   {
@@ -249,7 +260,7 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/github-actions",
-    "pushed_at": "2026-04-21T21:41:06Z",
+    "pushed_at": "2026-04-25T13:00:46Z",
     "recent_commits": 0
   },
   {
@@ -330,17 +341,6 @@
     "recent_commits": 0
   },
   {
-    "name": "aitkit",
-    "full_name": "nsheaps/aitkit",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/aitkit",
-    "pushed_at": "2026-04-15T13:41:34Z",
-    "recent_commits": 0
-  },
-  {
     "name": ".org",
     "full_name": "nsheaps/.org",
     "description": "Organization-level shared resources for nsheaps",
@@ -393,17 +393,6 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/greasemonkey-scripts",
     "pushed_at": "2026-01-21T18:48:07Z",
-    "recent_commits": 0
-  },
-  {
-    "name": "tmux-ui",
-    "full_name": "nsheaps/tmux-ui",
-    "description": "",
-    "language": "",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/tmux-ui",
-    "pushed_at": "2026-01-19T19:41:43Z",
     "recent_commits": 0
   }
 ]
