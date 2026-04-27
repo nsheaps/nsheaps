@@ -7,8 +7,41 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/.ai-agent-henry",
-    "pushed_at": "2026-04-26T05:41:12Z",
-    "recent_commits": 80
+    "pushed_at": "2026-04-26T22:08:49Z",
+    "recent_commits": 97
+  },
+  {
+    "name": ".ai-agent-alex",
+    "full_name": "nsheaps/.ai-agent-alex",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/.ai-agent-alex",
+    "pushed_at": "2026-04-26T22:08:11Z",
+    "recent_commits": 17
+  },
+  {
+    "name": "homebrew-devsetup",
+    "full_name": "nsheaps/homebrew-devsetup",
+    "description": "A template for your own homebrew tap. Fork this repo (or copy it) and add your own formula to set up new devices how you want.",
+    "language": "Ruby",
+    "stars": 1,
+    "forks": 1,
+    "url": "https://github.com/nsheaps/homebrew-devsetup",
+    "pushed_at": "2026-04-26T22:03:30Z",
+    "recent_commits": 32
+  },
+  {
+    "name": "claude-utils",
+    "full_name": "nsheaps/claude-utils",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/claude-utils",
+    "pushed_at": "2026-04-26T22:02:38Z",
+    "recent_commits": 32
   },
   {
     "name": ".ai-agent-jack",
@@ -18,8 +51,19 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/.ai-agent-jack",
-    "pushed_at": "2026-04-26T05:35:48Z",
-    "recent_commits": 194
+    "pushed_at": "2026-04-26T19:17:01Z",
+    "recent_commits": 188
+  },
+  {
+    "name": "ai-mktpl",
+    "full_name": "nsheaps/ai-mktpl",
+    "description": "",
+    "language": "Shell",
+    "stars": 1,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/ai-mktpl",
+    "pushed_at": "2026-04-26T18:45:59Z",
+    "recent_commits": 37
   },
   {
     "name": "op-exec",
@@ -29,8 +73,19 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/op-exec",
-    "pushed_at": "2026-04-26T05:34:19Z",
-    "recent_commits": 16
+    "pushed_at": "2026-04-26T08:20:27Z",
+    "recent_commits": 18
+  },
+  {
+    "name": "nsheaps",
+    "full_name": "nsheaps/nsheaps",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 1,
+    "url": "https://github.com/nsheaps/nsheaps",
+    "pushed_at": "2026-04-26T06:38:29Z",
+    "recent_commits": 29
   },
   {
     "name": "claudesh",
@@ -42,50 +97,6 @@
     "url": "https://github.com/nsheaps/claudesh",
     "pushed_at": "2026-04-26T02:21:47Z",
     "recent_commits": 1
-  },
-  {
-    "name": "homebrew-devsetup",
-    "full_name": "nsheaps/homebrew-devsetup",
-    "description": "A template for your own homebrew tap. Fork this repo (or copy it) and add your own formula to set up new devices how you want.",
-    "language": "Ruby",
-    "stars": 1,
-    "forks": 1,
-    "url": "https://github.com/nsheaps/homebrew-devsetup",
-    "pushed_at": "2026-04-25T13:59:46Z",
-    "recent_commits": 24
-  },
-  {
-    "name": "claude-utils",
-    "full_name": "nsheaps/claude-utils",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/claude-utils",
-    "pushed_at": "2026-04-25T13:59:32Z",
-    "recent_commits": 18
-  },
-  {
-    "name": "nsheaps",
-    "full_name": "nsheaps/nsheaps",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 1,
-    "url": "https://github.com/nsheaps/nsheaps",
-    "pushed_at": "2026-04-25T06:31:48Z",
-    "recent_commits": 30
-  },
-  {
-    "name": "ai-mktpl",
-    "full_name": "nsheaps/ai-mktpl",
-    "description": "",
-    "language": "Shell",
-    "stars": 1,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/ai-mktpl",
-    "pushed_at": "2026-04-26T05:53:01Z",
-    "recent_commits": 37
   },
   {
     "name": "agents",
@@ -108,17 +119,6 @@
     "url": "https://github.com/nsheaps/renovate-config",
     "pushed_at": "2026-04-24T19:07:38Z",
     "recent_commits": 45
-  },
-  {
-    "name": ".ai-agent-alex",
-    "full_name": "nsheaps/.ai-agent-alex",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/.ai-agent-alex",
-    "pushed_at": "2026-04-24T18:16:03Z",
-    "recent_commits": 4
   },
   {
     "name": "ramp-interview",
@@ -172,7 +172,7 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/.github",
-    "pushed_at": "2026-04-26T01:01:21Z",
+    "pushed_at": "2026-04-26T21:49:01Z",
     "recent_commits": 5
   },
   {
