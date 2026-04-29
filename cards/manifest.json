@@ -7,8 +7,30 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/.ai-agent-henry",
-    "pushed_at": "2026-04-28T05:15:48Z",
-    "recent_commits": 103
+    "pushed_at": "2026-04-29T04:35:45Z",
+    "recent_commits": 196
+  },
+  {
+    "name": "ai-mktpl",
+    "full_name": "nsheaps/ai-mktpl",
+    "description": "",
+    "language": "Shell",
+    "stars": 1,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/ai-mktpl",
+    "pushed_at": "2026-04-29T04:32:40Z",
+    "recent_commits": 59
+  },
+  {
+    "name": ".ai-agent-alex",
+    "full_name": "nsheaps/.ai-agent-alex",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/.ai-agent-alex",
+    "pushed_at": "2026-04-29T04:14:41Z",
+    "recent_commits": 35
   },
   {
     "name": ".ai-agent-jack",
@@ -18,8 +40,30 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/.ai-agent-jack",
-    "pushed_at": "2026-04-28T02:08:34Z",
-    "recent_commits": 191
+    "pushed_at": "2026-04-29T03:57:52Z",
+    "recent_commits": 241
+  },
+  {
+    "name": "iac",
+    "full_name": "nsheaps/iac",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/iac",
+    "pushed_at": "2026-04-28T08:54:21Z",
+    "recent_commits": 18
+  },
+  {
+    "name": "nsheaps",
+    "full_name": "nsheaps/nsheaps",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 1,
+    "url": "https://github.com/nsheaps/nsheaps",
+    "pushed_at": "2026-04-28T06:55:13Z",
+    "recent_commits": 30
   },
   {
     "name": "greasemonkey-scripts",
@@ -66,17 +110,6 @@
     "recent_commits": 33
   },
   {
-    "name": ".ai-agent-alex",
-    "full_name": "nsheaps/.ai-agent-alex",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/.ai-agent-alex",
-    "pushed_at": "2026-04-27T16:32:57Z",
-    "recent_commits": 22
-  },
-  {
     "name": "claude-utils",
     "full_name": "nsheaps/claude-utils",
     "description": "",
@@ -88,28 +121,6 @@
     "recent_commits": 34
   },
   {
-    "name": "nsheaps",
-    "full_name": "nsheaps/nsheaps",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 1,
-    "url": "https://github.com/nsheaps/nsheaps",
-    "pushed_at": "2026-04-27T06:53:40Z",
-    "recent_commits": 30
-  },
-  {
-    "name": "ai-mktpl",
-    "full_name": "nsheaps/ai-mktpl",
-    "description": "",
-    "language": "Shell",
-    "stars": 1,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/ai-mktpl",
-    "pushed_at": "2026-04-26T18:45:59Z",
-    "recent_commits": 37
-  },
-  {
     "name": "op-exec",
     "full_name": "nsheaps/op-exec",
     "description": "Execute commands with 1Password secrets as environment variables",
@@ -117,7 +128,7 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/op-exec",
-    "pushed_at": "2026-04-26T08:20:27Z",
+    "pushed_at": "2026-04-28T16:29:18Z",
     "recent_commits": 18
   },
   {
@@ -174,17 +185,6 @@
     "url": "https://github.com/nsheaps/obsidian-vaults",
     "pushed_at": "2026-04-23T19:41:18Z",
     "recent_commits": 1
-  },
-  {
-    "name": "iac",
-    "full_name": "nsheaps/iac",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/iac",
-    "pushed_at": "2026-04-28T04:51:54Z",
-    "recent_commits": 16
   },
   {
     "name": ".github",
