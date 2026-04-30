@@ -73,6 +73,12 @@
           <img src="cards/ai-mktpl-light.svg" alt="ai-mktpl" width="400">
         </picture>
       </a>
+  <a href="https://github.com/nsheaps/.ai-agent-alex">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/.ai-agent-alex-dark.svg">
+          <img src="cards/.ai-agent-alex-light.svg" alt=".ai-agent-alex" width="400">
+        </picture>
+      </a>
   <a href="https://github.com/nsheaps/renovate-config">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/renovate-config-dark.svg">
@@ -83,12 +89,6 @@
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/agents-dark.svg">
           <img src="cards/agents-light.svg" alt="agents" width="400">
-        </picture>
-      </a>
-  <a href="https://github.com/nsheaps/.ai-agent-alex">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/.ai-agent-alex-dark.svg">
-          <img src="cards/.ai-agent-alex-light.svg" alt=".ai-agent-alex" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/claude-utils">
@@ -109,16 +109,16 @@
           <img src="cards/ramp-interview-light.svg" alt="ramp-interview" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/iac">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/iac-dark.svg">
-          <img src="cards/iac-light.svg" alt="iac" width="400">
-        </picture>
-      </a>
   <a href="https://github.com/nsheaps/op-exec">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/op-exec-dark.svg">
           <img src="cards/op-exec-light.svg" alt="op-exec" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/iac">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/iac-dark.svg">
+          <img src="cards/iac-light.svg" alt="iac" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/git-wt">
