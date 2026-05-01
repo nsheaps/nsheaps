@@ -1,14 +1,25 @@
 [
   {
-    "name": "ai-mktpl",
-    "full_name": "nsheaps/ai-mktpl",
-    "description": "",
+    "name": "homebrew-devsetup",
+    "full_name": "nsheaps/homebrew-devsetup",
+    "description": "A template for your own homebrew tap. Fork this repo (or copy it) and add your own formula to set up new devices how you want.",
+    "language": "Ruby",
+    "stars": 2,
+    "forks": 1,
+    "url": "https://github.com/nsheaps/homebrew-devsetup",
+    "pushed_at": "2026-04-30T15:55:11Z",
+    "recent_commits": 35
+  },
+  {
+    "name": "op-exec",
+    "full_name": "nsheaps/op-exec",
+    "description": "Execute commands with 1Password secrets as environment variables",
     "language": "Shell",
-    "stars": 1,
+    "stars": 0,
     "forks": 0,
-    "url": "https://github.com/nsheaps/ai-mktpl",
-    "pushed_at": "2026-04-30T05:37:38Z",
-    "recent_commits": 65
+    "url": "https://github.com/nsheaps/op-exec",
+    "pushed_at": "2026-04-30T15:54:28Z",
+    "recent_commits": 18
   },
   {
     "name": ".ai-agent-henry",
@@ -18,8 +29,41 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/.ai-agent-henry",
-    "pushed_at": "2026-04-30T05:31:35Z",
-    "recent_commits": 293
+    "pushed_at": "2026-04-30T18:10:15Z",
+    "recent_commits": 294
+  },
+  {
+    "name": "renovate-config",
+    "full_name": "nsheaps/renovate-config",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/renovate-config",
+    "pushed_at": "2026-05-01T01:10:30Z",
+    "recent_commits": 41
+  },
+  {
+    "name": "nsheaps",
+    "full_name": "nsheaps/nsheaps",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 1,
+    "url": "https://github.com/nsheaps/nsheaps",
+    "pushed_at": "2026-04-30T06:53:06Z",
+    "recent_commits": 30
+  },
+  {
+    "name": "ai-mktpl",
+    "full_name": "nsheaps/ai-mktpl",
+    "description": "",
+    "language": "Shell",
+    "stars": 1,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/ai-mktpl",
+    "pushed_at": "2026-04-30T05:37:38Z",
+    "recent_commits": 64
   },
   {
     "name": ".ai-agent-alex",
@@ -41,18 +85,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/.ai-agent-jack",
     "pushed_at": "2026-04-30T04:42:38Z",
-    "recent_commits": 282
-  },
-  {
-    "name": "homebrew-devsetup",
-    "full_name": "nsheaps/homebrew-devsetup",
-    "description": "A template for your own homebrew tap. Fork this repo (or copy it) and add your own formula to set up new devices how you want.",
-    "language": "Ruby",
-    "stars": 2,
-    "forks": 1,
-    "url": "https://github.com/nsheaps/homebrew-devsetup",
-    "pushed_at": "2026-04-30T03:33:01Z",
-    "recent_commits": 36
+    "recent_commits": 273
   },
   {
     "name": "claude-utils",
@@ -63,7 +96,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/claude-utils",
     "pushed_at": "2026-04-30T03:33:12Z",
-    "recent_commits": 40
+    "recent_commits": 38
   },
   {
     "name": ".github",
@@ -77,28 +110,6 @@
     "recent_commits": 9
   },
   {
-    "name": "op-exec",
-    "full_name": "nsheaps/op-exec",
-    "description": "Execute commands with 1Password secrets as environment variables",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/op-exec",
-    "pushed_at": "2026-04-29T14:11:25Z",
-    "recent_commits": 18
-  },
-  {
-    "name": "nsheaps",
-    "full_name": "nsheaps/nsheaps",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 1,
-    "url": "https://github.com/nsheaps/nsheaps",
-    "pushed_at": "2026-04-30T04:01:41Z",
-    "recent_commits": 30
-  },
-  {
     "name": "iac",
     "full_name": "nsheaps/iac",
     "description": "",
@@ -107,7 +118,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/iac",
     "pushed_at": "2026-04-28T08:54:21Z",
-    "recent_commits": 16
+    "recent_commits": 15
   },
   {
     "name": "greasemonkey-scripts",
@@ -165,17 +176,6 @@
     "recent_commits": 41
   },
   {
-    "name": "renovate-config",
-    "full_name": "nsheaps/renovate-config",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/renovate-config",
-    "pushed_at": "2026-04-30T03:36:53Z",
-    "recent_commits": 45
-  },
-  {
     "name": "ramp-interview",
     "full_name": "nsheaps/ramp-interview",
     "description": "",
@@ -217,7 +217,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/claude-code-py",
     "pushed_at": "2026-03-31T17:41:04Z",
-    "recent_commits": 1
+    "recent_commits": 0
   },
   {
     "name": "cept",
