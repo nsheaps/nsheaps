@@ -97,16 +97,16 @@
           <img src="cards/claude-utils-light.svg" alt="claude-utils" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/renovate-config">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/renovate-config-dark.svg">
-          <img src="cards/renovate-config-light.svg" alt="renovate-config" width="400">
-        </picture>
-      </a>
   <a href="https://github.com/nsheaps/homebrew-devsetup">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/homebrew-devsetup-dark.svg">
           <img src="cards/homebrew-devsetup-light.svg" alt="homebrew-devsetup" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/renovate-config">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/renovate-config-dark.svg">
+          <img src="cards/renovate-config-light.svg" alt="renovate-config" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/ramp-interview">
