@@ -1,5 +1,27 @@
 [
   {
+    "name": ".ai-agent-henry",
+    "full_name": "nsheaps/.ai-agent-henry",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/.ai-agent-henry",
+    "pushed_at": "2026-05-08T14:28:18Z",
+    "recent_commits": 278
+  },
+  {
+    "name": "nsheaps",
+    "full_name": "nsheaps/nsheaps",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 1,
+    "url": "https://github.com/nsheaps/nsheaps",
+    "pushed_at": "2026-05-08T06:36:41Z",
+    "recent_commits": 30
+  },
+  {
     "name": "ai-mktpl",
     "full_name": "nsheaps/ai-mktpl",
     "description": "",
@@ -19,7 +41,7 @@
     "forks": 1,
     "url": "https://github.com/nsheaps/homebrew-devsetup",
     "pushed_at": "2026-05-07T19:19:55Z",
-    "recent_commits": 43
+    "recent_commits": 42
   },
   {
     "name": "claude-utils",
@@ -44,17 +66,6 @@
     "recent_commits": 17
   },
   {
-    "name": "nsheaps",
-    "full_name": "nsheaps/nsheaps",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 1,
-    "url": "https://github.com/nsheaps/nsheaps",
-    "pushed_at": "2026-05-08T04:11:37Z",
-    "recent_commits": 30
-  },
-  {
     "name": ".ai-agent-alex",
     "full_name": "nsheaps/.ai-agent-alex",
     "description": "",
@@ -62,7 +73,7 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/.ai-agent-alex",
-    "pushed_at": "2026-05-07T03:22:48Z",
+    "pushed_at": "2026-05-08T23:48:51Z",
     "recent_commits": 112
   },
   {
@@ -73,19 +84,8 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/renovate-config",
-    "pushed_at": "2026-05-08T05:36:24Z",
-    "recent_commits": 25
-  },
-  {
-    "name": ".ai-agent-henry",
-    "full_name": "nsheaps/.ai-agent-henry",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/.ai-agent-henry",
-    "pushed_at": "2026-05-07T20:34:45Z",
-    "recent_commits": 277
+    "pushed_at": "2026-05-09T05:45:30Z",
+    "recent_commits": 24
   },
   {
     "name": ".ai-agent-jack",
@@ -96,7 +96,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/.ai-agent-jack",
     "pushed_at": "2026-05-06T20:56:10Z",
-    "recent_commits": 232
+    "recent_commits": 223
   },
   {
     "name": "agent-kenny",
@@ -128,7 +128,7 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/.github",
-    "pushed_at": "2026-05-07T14:14:35Z",
+    "pushed_at": "2026-05-08T06:36:55Z",
     "recent_commits": 8
   },
   {
@@ -184,7 +184,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/agents",
     "pushed_at": "2026-04-30T02:45:36Z",
-    "recent_commits": 18
+    "recent_commits": 16
   },
   {
     "name": "ramp-interview",
