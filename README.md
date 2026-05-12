@@ -103,16 +103,16 @@
           <img src="cards/renovate-config-light.svg" alt="renovate-config" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/ramp-interview">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/ramp-interview-dark.svg">
-          <img src="cards/ramp-interview-light.svg" alt="ramp-interview" width="400">
-        </picture>
-      </a>
   <a href="https://github.com/nsheaps/iac">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/iac-dark.svg">
           <img src="cards/iac-light.svg" alt="iac" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/ramp-interview">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/ramp-interview-dark.svg">
+          <img src="cards/ramp-interview-light.svg" alt="ramp-interview" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/op-exec">
