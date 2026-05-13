@@ -7,19 +7,8 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/renovate-config",
-    "pushed_at": "2026-05-12T00:27:40Z",
+    "pushed_at": "2026-05-12T21:46:10Z",
     "recent_commits": 24
-  },
-  {
-    "name": ".ai-agent-jack",
-    "full_name": "nsheaps/.ai-agent-jack",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/.ai-agent-jack",
-    "pushed_at": "2026-05-11T17:39:36Z",
-    "recent_commits": 209
   },
   {
     "name": "iac",
@@ -29,8 +18,52 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/iac",
-    "pushed_at": "2026-05-11T17:11:14Z",
-    "recent_commits": 21
+    "pushed_at": "2026-05-12T21:08:56Z",
+    "recent_commits": 23
+  },
+  {
+    "name": "ai-mktpl",
+    "full_name": "nsheaps/ai-mktpl",
+    "description": "",
+    "language": "Shell",
+    "stars": 3,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/ai-mktpl",
+    "pushed_at": "2026-05-12T17:44:09Z",
+    "recent_commits": 52
+  },
+  {
+    "name": "agents",
+    "full_name": "nsheaps/agents",
+    "description": "Provider-agnostic agent team orchestration",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/agents",
+    "pushed_at": "2026-05-12T17:25:15Z",
+    "recent_commits": 17
+  },
+  {
+    "name": "nsheaps",
+    "full_name": "nsheaps/nsheaps",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 1,
+    "url": "https://github.com/nsheaps/nsheaps",
+    "pushed_at": "2026-05-12T06:58:54Z",
+    "recent_commits": 30
+  },
+  {
+    "name": ".ai-agent-jack",
+    "full_name": "nsheaps/.ai-agent-jack",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/.ai-agent-jack",
+    "pushed_at": "2026-05-12T12:06:20Z",
+    "recent_commits": 209
   },
   {
     "name": ".ai-agent-alex",
@@ -62,30 +95,8 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/cept",
-    "pushed_at": "2026-05-11T22:16:28Z",
+    "pushed_at": "2026-05-12T11:56:21Z",
     "recent_commits": 9
-  },
-  {
-    "name": "nsheaps",
-    "full_name": "nsheaps/nsheaps",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 1,
-    "url": "https://github.com/nsheaps/nsheaps",
-    "pushed_at": "2026-05-12T03:28:23Z",
-    "recent_commits": 30
-  },
-  {
-    "name": "ai-mktpl",
-    "full_name": "nsheaps/ai-mktpl",
-    "description": "",
-    "language": "Shell",
-    "stars": 3,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/ai-mktpl",
-    "pushed_at": "2026-05-11T17:47:45Z",
-    "recent_commits": 49
   },
   {
     "name": "homebrew-devsetup",
@@ -139,7 +150,7 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/.github",
-    "pushed_at": "2026-05-10T16:35:56Z",
+    "pushed_at": "2026-05-12T14:28:31Z",
     "recent_commits": 4
   },
   {
@@ -161,7 +172,7 @@
     "stars": 1,
     "forks": 0,
     "url": "https://github.com/nsheaps/github-actions",
-    "pushed_at": "2026-05-11T19:55:42Z",
+    "pushed_at": "2026-05-12T12:56:05Z",
     "recent_commits": 0
   },
   {
@@ -187,17 +198,6 @@
     "recent_commits": 1
   },
   {
-    "name": "agents",
-    "full_name": "nsheaps/agents",
-    "description": "Provider-agnostic agent team orchestration",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/agents",
-    "pushed_at": "2026-05-11T16:57:21Z",
-    "recent_commits": 16
-  },
-  {
     "name": "ramp-interview",
     "full_name": "nsheaps/ramp-interview",
     "description": "",
@@ -205,7 +205,7 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/ramp-interview",
-    "pushed_at": "2026-05-09T08:10:01Z",
+    "pushed_at": "2026-05-13T03:58:52Z",
     "recent_commits": 21
   },
   {
