@@ -7,8 +7,8 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/renovate-config",
-    "pushed_at": "2026-05-12T21:46:10Z",
-    "recent_commits": 24
+    "pushed_at": "2026-05-14T02:04:20Z",
+    "recent_commits": 23
   },
   {
     "name": "iac",
@@ -18,8 +18,41 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/iac",
-    "pushed_at": "2026-05-12T21:08:56Z",
+    "pushed_at": "2026-05-14T02:01:46Z",
     "recent_commits": 23
+  },
+  {
+    "name": "cept",
+    "full_name": "nsheaps/cept",
+    "description": "Share your ideas and con-cept-ions with the world",
+    "language": "TypeScript",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/cept",
+    "pushed_at": "2026-05-13T21:25:08Z",
+    "recent_commits": 12
+  },
+  {
+    "name": "homebrew-devsetup",
+    "full_name": "nsheaps/homebrew-devsetup",
+    "description": "A template for your own homebrew tap. Fork this repo (or copy it) and add your own formula to set up new devices how you want.",
+    "language": "Ruby",
+    "stars": 3,
+    "forks": 1,
+    "url": "https://github.com/nsheaps/homebrew-devsetup",
+    "pushed_at": "2026-05-13T16:45:34Z",
+    "recent_commits": 39
+  },
+  {
+    "name": "nsheaps",
+    "full_name": "nsheaps/nsheaps",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 1,
+    "url": "https://github.com/nsheaps/nsheaps",
+    "pushed_at": "2026-05-13T23:23:20Z",
+    "recent_commits": 30
   },
   {
     "name": "ai-mktpl",
@@ -40,19 +73,8 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/agents",
-    "pushed_at": "2026-05-12T17:25:15Z",
-    "recent_commits": 17
-  },
-  {
-    "name": "nsheaps",
-    "full_name": "nsheaps/nsheaps",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 1,
-    "url": "https://github.com/nsheaps/nsheaps",
-    "pushed_at": "2026-05-12T06:58:54Z",
-    "recent_commits": 30
+    "pushed_at": "2026-05-13T14:29:40Z",
+    "recent_commits": 16
   },
   {
     "name": ".ai-agent-jack",
@@ -63,7 +85,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/.ai-agent-jack",
     "pushed_at": "2026-05-12T12:06:20Z",
-    "recent_commits": 209
+    "recent_commits": 208
   },
   {
     "name": ".ai-agent-alex",
@@ -88,28 +110,6 @@
     "recent_commits": 280
   },
   {
-    "name": "cept",
-    "full_name": "nsheaps/cept",
-    "description": "Share your ideas and con-cept-ions with the world",
-    "language": "TypeScript",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/cept",
-    "pushed_at": "2026-05-12T11:56:21Z",
-    "recent_commits": 9
-  },
-  {
-    "name": "homebrew-devsetup",
-    "full_name": "nsheaps/homebrew-devsetup",
-    "description": "A template for your own homebrew tap. Fork this repo (or copy it) and add your own formula to set up new devices how you want.",
-    "language": "Ruby",
-    "stars": 3,
-    "forks": 1,
-    "url": "https://github.com/nsheaps/homebrew-devsetup",
-    "pushed_at": "2026-05-10T17:40:31Z",
-    "recent_commits": 40
-  },
-  {
     "name": "claude-utils",
     "full_name": "nsheaps/claude-utils",
     "description": "",
@@ -118,7 +118,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/claude-utils",
     "pushed_at": "2026-05-07T19:18:42Z",
-    "recent_commits": 60
+    "recent_commits": 58
   },
   {
     "name": "agent-kenny",
@@ -150,7 +150,7 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/.github",
-    "pushed_at": "2026-05-12T14:28:31Z",
+    "pushed_at": "2026-05-13T20:35:24Z",
     "recent_commits": 4
   },
   {
