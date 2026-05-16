@@ -1,36 +1,14 @@
 [
   {
-    "name": "renovate-config",
-    "full_name": "nsheaps/renovate-config",
+    "name": "ai-mktpl",
+    "full_name": "nsheaps/ai-mktpl",
     "description": "",
     "language": "Shell",
-    "stars": 0,
+    "stars": 3,
     "forks": 0,
-    "url": "https://github.com/nsheaps/renovate-config",
-    "pushed_at": "2026-05-15T05:15:12Z",
-    "recent_commits": 25
-  },
-  {
-    "name": ".ai-agent-alex",
-    "full_name": "nsheaps/.ai-agent-alex",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/.ai-agent-alex",
-    "pushed_at": "2026-05-15T03:22:42Z",
-    "recent_commits": 125
-  },
-  {
-    "name": ".ai-agent-henry",
-    "full_name": "nsheaps/.ai-agent-henry",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/.ai-agent-henry",
-    "pushed_at": "2026-05-15T03:22:28Z",
-    "recent_commits": 291
+    "url": "https://github.com/nsheaps/ai-mktpl",
+    "pushed_at": "2026-05-16T06:36:35Z",
+    "recent_commits": 62
   },
   {
     "name": ".ai-agent-jack",
@@ -40,8 +18,41 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/.ai-agent-jack",
-    "pushed_at": "2026-05-15T03:09:54Z",
-    "recent_commits": 211
+    "pushed_at": "2026-05-16T06:15:56Z",
+    "recent_commits": 250
+  },
+  {
+    "name": ".ai-agent-alex",
+    "full_name": "nsheaps/.ai-agent-alex",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/.ai-agent-alex",
+    "pushed_at": "2026-05-16T06:03:30Z",
+    "recent_commits": 155
+  },
+  {
+    "name": ".ai-agent-henry",
+    "full_name": "nsheaps/.ai-agent-henry",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/.ai-agent-henry",
+    "pushed_at": "2026-05-16T05:56:45Z",
+    "recent_commits": 300
+  },
+  {
+    "name": "github-actions",
+    "full_name": "nsheaps/github-actions",
+    "description": "",
+    "language": "Shell",
+    "stars": 1,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/github-actions",
+    "pushed_at": "2026-05-16T05:12:31Z",
+    "recent_commits": 1
   },
   {
     "name": "agents",
@@ -55,15 +66,48 @@
     "recent_commits": 17
   },
   {
-    "name": "ai-mktpl",
-    "full_name": "nsheaps/ai-mktpl",
+    "name": "homebrew-devsetup",
+    "full_name": "nsheaps/homebrew-devsetup",
+    "description": "A template for your own homebrew tap. Fork this repo (or copy it) and add your own formula to set up new devices how you want.",
+    "language": "Ruby",
+    "stars": 3,
+    "forks": 1,
+    "url": "https://github.com/nsheaps/homebrew-devsetup",
+    "pushed_at": "2026-05-15T18:00:00Z",
+    "recent_commits": 38
+  },
+  {
+    "name": "claude-utils",
+    "full_name": "nsheaps/claude-utils",
     "description": "",
     "language": "Shell",
-    "stars": 3,
+    "stars": 0,
     "forks": 0,
-    "url": "https://github.com/nsheaps/ai-mktpl",
-    "pushed_at": "2026-05-15T05:46:11Z",
-    "recent_commits": 54
+    "url": "https://github.com/nsheaps/claude-utils",
+    "pushed_at": "2026-05-15T17:59:31Z",
+    "recent_commits": 61
+  },
+  {
+    "name": "op-exec",
+    "full_name": "nsheaps/op-exec",
+    "description": "Execute commands with 1Password secrets as environment variables",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/op-exec",
+    "pushed_at": "2026-05-15T16:32:56Z",
+    "recent_commits": 18
+  },
+  {
+    "name": "git-wt",
+    "full_name": "nsheaps/git-wt",
+    "description": "",
+    "language": "Shell",
+    "stars": 1,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/git-wt",
+    "pushed_at": "2026-05-15T14:02:21Z",
+    "recent_commits": 11
   },
   {
     "name": "nsheaps",
@@ -73,8 +117,19 @@
     "stars": 0,
     "forks": 1,
     "url": "https://github.com/nsheaps/nsheaps",
-    "pushed_at": "2026-05-15T00:41:24Z",
+    "pushed_at": "2026-05-15T07:07:00Z",
     "recent_commits": 31
+  },
+  {
+    "name": "renovate-config",
+    "full_name": "nsheaps/renovate-config",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/renovate-config",
+    "pushed_at": "2026-05-16T05:38:46Z",
+    "recent_commits": 25
   },
   {
     "name": "ramp-interview",
@@ -96,7 +151,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/iac",
     "pushed_at": "2026-05-14T02:01:46Z",
-    "recent_commits": 23
+    "recent_commits": 22
   },
   {
     "name": "cept",
@@ -110,28 +165,6 @@
     "recent_commits": 12
   },
   {
-    "name": "homebrew-devsetup",
-    "full_name": "nsheaps/homebrew-devsetup",
-    "description": "A template for your own homebrew tap. Fork this repo (or copy it) and add your own formula to set up new devices how you want.",
-    "language": "Ruby",
-    "stars": 3,
-    "forks": 1,
-    "url": "https://github.com/nsheaps/homebrew-devsetup",
-    "pushed_at": "2026-05-13T16:45:34Z",
-    "recent_commits": 39
-  },
-  {
-    "name": "claude-utils",
-    "full_name": "nsheaps/claude-utils",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/claude-utils",
-    "pushed_at": "2026-05-15T04:43:44Z",
-    "recent_commits": 58
-  },
-  {
     "name": "agent-kenny",
     "full_name": "nsheaps/agent-kenny",
     "description": "",
@@ -141,17 +174,6 @@
     "url": "https://github.com/nsheaps/agent-kenny",
     "pushed_at": "2026-05-01T19:43:46Z",
     "recent_commits": 60
-  },
-  {
-    "name": "op-exec",
-    "full_name": "nsheaps/op-exec",
-    "description": "Execute commands with 1Password secrets as environment variables",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/op-exec",
-    "pushed_at": "2026-05-15T05:15:09Z",
-    "recent_commits": 18
   },
   {
     "name": ".github",
@@ -174,28 +196,6 @@
     "url": "https://github.com/nsheaps/greasemonkey-scripts",
     "pushed_at": "2026-01-21T18:48:07Z",
     "recent_commits": 0
-  },
-  {
-    "name": "github-actions",
-    "full_name": "nsheaps/github-actions",
-    "description": "",
-    "language": "Shell",
-    "stars": 1,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/github-actions",
-    "pushed_at": "2026-05-12T12:56:05Z",
-    "recent_commits": 0
-  },
-  {
-    "name": "git-wt",
-    "full_name": "nsheaps/git-wt",
-    "description": "",
-    "language": "Shell",
-    "stars": 1,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/git-wt",
-    "pushed_at": "2026-04-22T16:03:47Z",
-    "recent_commits": 12
   },
   {
     "name": "claudesh",
