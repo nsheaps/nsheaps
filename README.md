@@ -73,16 +73,16 @@
           <img src="cards/.ai-agent-alex-light.svg" alt=".ai-agent-alex" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/ai-mktpl">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/ai-mktpl-dark.svg">
-          <img src="cards/ai-mktpl-light.svg" alt="ai-mktpl" width="400">
-        </picture>
-      </a>
   <a href="https://github.com/nsheaps/claude-utils">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/claude-utils-dark.svg">
           <img src="cards/claude-utils-light.svg" alt="claude-utils" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/ai-mktpl">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/ai-mktpl-dark.svg">
+          <img src="cards/ai-mktpl-light.svg" alt="ai-mktpl" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/agent-kenny">
@@ -109,16 +109,16 @@
           <img src="cards/agents-light.svg" alt="agents" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/ramp-interview">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/ramp-interview-dark.svg">
-          <img src="cards/ramp-interview-light.svg" alt="ramp-interview" width="400">
-        </picture>
-      </a>
   <a href="https://github.com/nsheaps/iac">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/iac-dark.svg">
           <img src="cards/iac-light.svg" alt="iac" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/ramp-interview">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/ramp-interview-dark.svg">
+          <img src="cards/ramp-interview-light.svg" alt="ramp-interview" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/op-exec">
@@ -138,6 +138,12 @@
           <img src="cards/claude-team-light.svg" alt="claude-team" width="400">
         </picture>
       </a>
+  <a href="https://github.com/nsheaps/agent">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/agent-dark.svg">
+          <img src="cards/agent-light.svg" alt="agent" width="400">
+        </picture>
+      </a>
   <a href="https://github.com/nsheaps/claude-utils">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/claude-utils-dark.svg">
@@ -154,6 +160,12 @@
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/ai-mktpl-dark.svg">
           <img src="cards/ai-mktpl-light.svg" alt="ai-mktpl" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/aitkit">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/aitkit-dark.svg">
+          <img src="cards/aitkit-light.svg" alt="aitkit" width="400">
         </picture>
       </a>
 </p>
@@ -331,10 +343,16 @@
           <img src="cards/scratch-light.svg" alt="scratch" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/aifs">
+  <a href="https://github.com/nsheaps/claude-code-sessions">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/aifs-dark.svg">
-          <img src="cards/aifs-light.svg" alt="aifs" width="400">
+          <source media="(prefers-color-scheme: dark)" srcset="cards/claude-code-sessions-dark.svg">
+          <img src="cards/claude-code-sessions-light.svg" alt="claude-code-sessions" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/n8-ansible">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/n8-ansible-dark.svg">
+          <img src="cards/n8-ansible-light.svg" alt="n8-ansible" width="400">
         </picture>
       </a>
 </p>
