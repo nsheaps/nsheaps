@@ -7,8 +7,52 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/iac",
-    "pushed_at": "2026-05-19T05:32:05Z",
-    "recent_commits": 24
+    "pushed_at": "2026-05-20T04:30:49Z",
+    "recent_commits": 27
+  },
+  {
+    "name": "agents",
+    "full_name": "nsheaps/agents",
+    "description": "Provider-agnostic agent team orchestration",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/agents",
+    "pushed_at": "2026-05-20T04:43:08Z",
+    "recent_commits": 33
+  },
+  {
+    "name": "ai-mktpl",
+    "full_name": "nsheaps/ai-mktpl",
+    "description": "",
+    "language": "Shell",
+    "stars": 3,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/ai-mktpl",
+    "pushed_at": "2026-05-20T04:57:09Z",
+    "recent_commits": 71
+  },
+  {
+    "name": ".ai-agent-alex",
+    "full_name": "nsheaps/.ai-agent-alex",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/.ai-agent-alex",
+    "pushed_at": "2026-05-20T03:55:55Z",
+    "recent_commits": 213
+  },
+  {
+    "name": ".ai-agent-henry",
+    "full_name": "nsheaps/.ai-agent-henry",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/.ai-agent-henry",
+    "pushed_at": "2026-05-20T03:47:36Z",
+    "recent_commits": 326
   },
   {
     "name": "homebrew-devsetup",
@@ -18,8 +62,63 @@
     "stars": 3,
     "forks": 1,
     "url": "https://github.com/nsheaps/homebrew-devsetup",
-    "pushed_at": "2026-05-18T17:50:22Z",
-    "recent_commits": 35
+    "pushed_at": "2026-05-20T01:55:13Z",
+    "recent_commits": 38
+  },
+  {
+    "name": "op-exec",
+    "full_name": "nsheaps/op-exec",
+    "description": "Execute commands with 1Password secrets as environment variables",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/op-exec",
+    "pushed_at": "2026-05-20T01:54:46Z",
+    "recent_commits": 20
+  },
+  {
+    "name": "renovate-config",
+    "full_name": "nsheaps/renovate-config",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/renovate-config",
+    "pushed_at": "2026-05-20T01:13:22Z",
+    "recent_commits": 27
+  },
+  {
+    "name": ".ai-agent-jack",
+    "full_name": "nsheaps/.ai-agent-jack",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/.ai-agent-jack",
+    "pushed_at": "2026-05-20T03:59:58Z",
+    "recent_commits": 309
+  },
+  {
+    "name": "claude-utils",
+    "full_name": "nsheaps/claude-utils",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/claude-utils",
+    "pushed_at": "2026-05-20T04:36:09Z",
+    "recent_commits": 62
+  },
+  {
+    "name": "nsheaps",
+    "full_name": "nsheaps/nsheaps",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 1,
+    "url": "https://github.com/nsheaps/nsheaps",
+    "pushed_at": "2026-05-19T07:12:53Z",
+    "recent_commits": 31
   },
   {
     "name": "git-wt",
@@ -33,83 +132,6 @@
     "recent_commits": 8
   },
   {
-    "name": ".ai-agent-henry",
-    "full_name": "nsheaps/.ai-agent-henry",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/.ai-agent-henry",
-    "pushed_at": "2026-05-18T15:57:30Z",
-    "recent_commits": 314
-  },
-  {
-    "name": "nsheaps",
-    "full_name": "nsheaps/nsheaps",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 1,
-    "url": "https://github.com/nsheaps/nsheaps",
-    "pushed_at": "2026-05-18T07:23:08Z",
-    "recent_commits": 30
-  },
-  {
-    "name": "renovate-config",
-    "full_name": "nsheaps/renovate-config",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/renovate-config",
-    "pushed_at": "2026-05-18T01:54:22Z",
-    "recent_commits": 27
-  },
-  {
-    "name": ".ai-agent-alex",
-    "full_name": "nsheaps/.ai-agent-alex",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/.ai-agent-alex",
-    "pushed_at": "2026-05-17T21:17:38Z",
-    "recent_commits": 201
-  },
-  {
-    "name": "agents",
-    "full_name": "nsheaps/agents",
-    "description": "Provider-agnostic agent team orchestration",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/agents",
-    "pushed_at": "2026-05-17T21:23:38Z",
-    "recent_commits": 26
-  },
-  {
-    "name": ".ai-agent-jack",
-    "full_name": "nsheaps/.ai-agent-jack",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/.ai-agent-jack",
-    "pushed_at": "2026-05-18T17:01:58Z",
-    "recent_commits": 294
-  },
-  {
-    "name": "ai-mktpl",
-    "full_name": "nsheaps/ai-mktpl",
-    "description": "",
-    "language": "Shell",
-    "stars": 3,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/ai-mktpl",
-    "pushed_at": "2026-05-18T18:57:17Z",
-    "recent_commits": 60
-  },
-  {
     "name": "github-actions",
     "full_name": "nsheaps/github-actions",
     "description": "",
@@ -119,28 +141,6 @@
     "url": "https://github.com/nsheaps/github-actions",
     "pushed_at": "2026-05-16T05:12:31Z",
     "recent_commits": 1
-  },
-  {
-    "name": "claude-utils",
-    "full_name": "nsheaps/claude-utils",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/claude-utils",
-    "pushed_at": "2026-05-17T09:36:36Z",
-    "recent_commits": 61
-  },
-  {
-    "name": "op-exec",
-    "full_name": "nsheaps/op-exec",
-    "description": "Execute commands with 1Password secrets as environment variables",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/op-exec",
-    "pushed_at": "2026-05-15T16:32:56Z",
-    "recent_commits": 12
   },
   {
     "name": "ramp-interview",

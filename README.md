@@ -73,16 +73,16 @@
           <img src="cards/.ai-agent-alex-light.svg" alt=".ai-agent-alex" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/claude-utils">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/claude-utils-dark.svg">
-          <img src="cards/claude-utils-light.svg" alt="claude-utils" width="400">
-        </picture>
-      </a>
   <a href="https://github.com/nsheaps/ai-mktpl">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/ai-mktpl-dark.svg">
           <img src="cards/ai-mktpl-light.svg" alt="ai-mktpl" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/claude-utils">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/claude-utils-dark.svg">
+          <img src="cards/claude-utils-light.svg" alt="claude-utils" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/agent-kenny">
@@ -97,12 +97,6 @@
           <img src="cards/homebrew-devsetup-light.svg" alt="homebrew-devsetup" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/renovate-config">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/renovate-config-dark.svg">
-          <img src="cards/renovate-config-light.svg" alt="renovate-config" width="400">
-        </picture>
-      </a>
   <a href="https://github.com/nsheaps/agents">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/agents-dark.svg">
@@ -113,6 +107,12 @@
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/iac-dark.svg">
           <img src="cards/iac-light.svg" alt="iac" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/renovate-config">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/renovate-config-dark.svg">
+          <img src="cards/renovate-config-light.svg" alt="renovate-config" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/ramp-interview">
@@ -289,16 +289,16 @@
 ### Other Projects
 
 <p align="center">
-  <a href="https://github.com/nsheaps/.ai-agent-alex">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/.ai-agent-alex-dark.svg">
-          <img src="cards/.ai-agent-alex-light.svg" alt=".ai-agent-alex" width="400">
-        </picture>
-      </a>
   <a href="https://github.com/nsheaps/agents">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/agents-dark.svg">
           <img src="cards/agents-light.svg" alt="agents" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/.ai-agent-alex">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/.ai-agent-alex-dark.svg">
+          <img src="cards/.ai-agent-alex-light.svg" alt=".ai-agent-alex" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/ramp-interview">
