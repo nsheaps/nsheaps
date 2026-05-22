@@ -7,52 +7,8 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/renovate-config",
-    "pushed_at": "2026-05-21T05:46:25Z",
-    "recent_commits": 28
-  },
-  {
-    "name": ".ai-agent-alex",
-    "full_name": "nsheaps/.ai-agent-alex",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/.ai-agent-alex",
-    "pushed_at": "2026-05-21T04:16:17Z",
-    "recent_commits": 226
-  },
-  {
-    "name": "agents",
-    "full_name": "nsheaps/agents",
-    "description": "Provider-agnostic agent team orchestration",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/agents",
-    "pushed_at": "2026-05-21T04:48:01Z",
-    "recent_commits": 46
-  },
-  {
-    "name": ".ai-agent-jack",
-    "full_name": "nsheaps/.ai-agent-jack",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/.ai-agent-jack",
-    "pushed_at": "2026-05-21T03:21:25Z",
-    "recent_commits": 317
-  },
-  {
-    "name": "farish",
-    "full_name": "nsheaps/farish",
-    "description": "an app to use AI (BYOK) to generate 3d models for you to print based on your description and parameters.",
-    "language": "",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/farish",
-    "pushed_at": "2026-05-21T07:14:06Z",
-    "recent_commits": 1
+    "pushed_at": "2026-05-22T05:42:28Z",
+    "recent_commits": 29
   },
   {
     "name": ".ai-agent-henry",
@@ -62,8 +18,52 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/.ai-agent-henry",
-    "pushed_at": "2026-05-21T00:00:18Z",
-    "recent_commits": 329
+    "pushed_at": "2026-05-21T23:43:32Z",
+    "recent_commits": 330
+  },
+  {
+    "name": ".ai-agent-alex",
+    "full_name": "nsheaps/.ai-agent-alex",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/.ai-agent-alex",
+    "pushed_at": "2026-05-21T21:23:27Z",
+    "recent_commits": 232
+  },
+  {
+    "name": "agents",
+    "full_name": "nsheaps/agents",
+    "description": "Provider-agnostic agent team orchestration",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/agents",
+    "pushed_at": "2026-05-21T21:21:53Z",
+    "recent_commits": 48
+  },
+  {
+    "name": ".ai-agent-jack",
+    "full_name": "nsheaps/.ai-agent-jack",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/.ai-agent-jack",
+    "pushed_at": "2026-05-21T21:20:02Z",
+    "recent_commits": 325
+  },
+  {
+    "name": "ai-mktpl",
+    "full_name": "nsheaps/ai-mktpl",
+    "description": "",
+    "language": "Shell",
+    "stars": 3,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/ai-mktpl",
+    "pushed_at": "2026-05-21T20:16:08Z",
+    "recent_commits": 70
   },
   {
     "name": ".github",
@@ -73,8 +73,8 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/.github",
-    "pushed_at": "2026-05-20T18:51:44Z",
-    "recent_commits": 5
+    "pushed_at": "2026-05-21T18:35:02Z",
+    "recent_commits": 7
   },
   {
     "name": "nsheaps",
@@ -84,8 +84,19 @@
     "stars": 0,
     "forks": 1,
     "url": "https://github.com/nsheaps/nsheaps",
-    "pushed_at": "2026-05-20T07:13:46Z",
+    "pushed_at": "2026-05-22T03:36:12Z",
     "recent_commits": 31
+  },
+  {
+    "name": "farish",
+    "full_name": "nsheaps/farish",
+    "description": "an app to use AI (BYOK) to generate 3d models for you to print based on your description and parameters.",
+    "language": "",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/farish",
+    "pushed_at": "2026-05-21T19:01:36Z",
+    "recent_commits": 1
   },
   {
     "name": "iac",
@@ -96,18 +107,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/iac",
     "pushed_at": "2026-05-20T04:30:49Z",
-    "recent_commits": 26
-  },
-  {
-    "name": "ai-mktpl",
-    "full_name": "nsheaps/ai-mktpl",
-    "description": "",
-    "language": "Shell",
-    "stars": 3,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/ai-mktpl",
-    "pushed_at": "2026-05-20T04:57:09Z",
-    "recent_commits": 71
+    "recent_commits": 24
   },
   {
     "name": "homebrew-devsetup",
@@ -118,7 +118,7 @@
     "forks": 1,
     "url": "https://github.com/nsheaps/homebrew-devsetup",
     "pushed_at": "2026-05-20T01:55:13Z",
-    "recent_commits": 36
+    "recent_commits": 35
   },
   {
     "name": "op-exec",
@@ -140,7 +140,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/claude-utils",
     "pushed_at": "2026-05-20T04:36:09Z",
-    "recent_commits": 62
+    "recent_commits": 60
   },
   {
     "name": "git-wt",
@@ -183,7 +183,7 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/cept",
-    "pushed_at": "2026-05-20T18:11:41Z",
+    "pushed_at": "2026-05-21T11:29:10Z",
     "recent_commits": 12
   },
   {
