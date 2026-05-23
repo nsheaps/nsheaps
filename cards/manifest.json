@@ -7,30 +7,8 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/renovate-config",
-    "pushed_at": "2026-05-22T05:42:28Z",
-    "recent_commits": 29
-  },
-  {
-    "name": ".ai-agent-henry",
-    "full_name": "nsheaps/.ai-agent-henry",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/.ai-agent-henry",
-    "pushed_at": "2026-05-21T23:43:32Z",
-    "recent_commits": 330
-  },
-  {
-    "name": ".ai-agent-alex",
-    "full_name": "nsheaps/.ai-agent-alex",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/.ai-agent-alex",
-    "pushed_at": "2026-05-21T21:23:27Z",
-    "recent_commits": 232
+    "pushed_at": "2026-05-23T01:49:02Z",
+    "recent_commits": 31
   },
   {
     "name": "agents",
@@ -40,8 +18,41 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/agents",
-    "pushed_at": "2026-05-21T21:21:53Z",
-    "recent_commits": 48
+    "pushed_at": "2026-05-23T05:13:05Z",
+    "recent_commits": 49
+  },
+  {
+    "name": ".ai-agent-alex",
+    "full_name": "nsheaps/.ai-agent-alex",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/.ai-agent-alex",
+    "pushed_at": "2026-05-22T18:01:20Z",
+    "recent_commits": 234
+  },
+  {
+    "name": "nsheaps",
+    "full_name": "nsheaps/nsheaps",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 1,
+    "url": "https://github.com/nsheaps/nsheaps",
+    "pushed_at": "2026-05-22T07:13:26Z",
+    "recent_commits": 30
+  },
+  {
+    "name": ".ai-agent-henry",
+    "full_name": "nsheaps/.ai-agent-henry",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/.ai-agent-henry",
+    "pushed_at": "2026-05-22T17:50:55Z",
+    "recent_commits": 330
   },
   {
     "name": ".ai-agent-jack",
@@ -51,7 +62,7 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/.ai-agent-jack",
-    "pushed_at": "2026-05-21T21:20:02Z",
+    "pushed_at": "2026-05-22T17:46:12Z",
     "recent_commits": 325
   },
   {
@@ -62,7 +73,7 @@
     "stars": 3,
     "forks": 0,
     "url": "https://github.com/nsheaps/ai-mktpl",
-    "pushed_at": "2026-05-21T20:16:08Z",
+    "pushed_at": "2026-05-22T17:08:01Z",
     "recent_commits": 70
   },
   {
@@ -73,19 +84,8 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/.github",
-    "pushed_at": "2026-05-21T18:35:02Z",
+    "pushed_at": "2026-05-22T18:04:58Z",
     "recent_commits": 7
-  },
-  {
-    "name": "nsheaps",
-    "full_name": "nsheaps/nsheaps",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 1,
-    "url": "https://github.com/nsheaps/nsheaps",
-    "pushed_at": "2026-05-22T03:36:12Z",
-    "recent_commits": 31
   },
   {
     "name": "farish",
@@ -107,7 +107,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/iac",
     "pushed_at": "2026-05-20T04:30:49Z",
-    "recent_commits": 24
+    "recent_commits": 22
   },
   {
     "name": "homebrew-devsetup",
@@ -118,7 +118,7 @@
     "forks": 1,
     "url": "https://github.com/nsheaps/homebrew-devsetup",
     "pushed_at": "2026-05-20T01:55:13Z",
-    "recent_commits": 35
+    "recent_commits": 33
   },
   {
     "name": "op-exec",
@@ -129,7 +129,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/op-exec",
     "pushed_at": "2026-05-20T01:54:46Z",
-    "recent_commits": 19
+    "recent_commits": 17
   },
   {
     "name": "claude-utils",
@@ -140,7 +140,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/claude-utils",
     "pushed_at": "2026-05-20T04:36:09Z",
-    "recent_commits": 60
+    "recent_commits": 57
   },
   {
     "name": "git-wt",
@@ -151,7 +151,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/git-wt",
     "pushed_at": "2026-05-18T17:49:46Z",
-    "recent_commits": 6
+    "recent_commits": 3
   },
   {
     "name": "github-actions",
@@ -161,7 +161,7 @@
     "stars": 1,
     "forks": 0,
     "url": "https://github.com/nsheaps/github-actions",
-    "pushed_at": "2026-05-16T05:12:31Z",
+    "pushed_at": "2026-05-22T18:49:43Z",
     "recent_commits": 1
   },
   {
