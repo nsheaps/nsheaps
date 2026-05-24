@@ -79,6 +79,12 @@
           <img src="cards/ai-mktpl-light.svg" alt="ai-mktpl" width="400">
         </picture>
       </a>
+  <a href="https://github.com/nsheaps/agents">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/agents-dark.svg">
+          <img src="cards/agents-light.svg" alt="agents" width="400">
+        </picture>
+      </a>
   <a href="https://github.com/nsheaps/agent-kenny">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/agent-kenny-dark.svg">
@@ -89,12 +95,6 @@
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/claude-utils-dark.svg">
           <img src="cards/claude-utils-light.svg" alt="claude-utils" width="400">
-        </picture>
-      </a>
-  <a href="https://github.com/nsheaps/agents">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/agents-dark.svg">
-          <img src="cards/agents-light.svg" alt="agents" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/homebrew-devsetup">
@@ -109,12 +109,6 @@
           <img src="cards/renovate-config-light.svg" alt="renovate-config" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/ramp-interview">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/ramp-interview-dark.svg">
-          <img src="cards/ramp-interview-light.svg" alt="ramp-interview" width="400">
-        </picture>
-      </a>
   <a href="https://github.com/nsheaps/iac">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/iac-dark.svg">
@@ -125,6 +119,12 @@
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/op-exec-dark.svg">
           <img src="cards/op-exec-light.svg" alt="op-exec" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/cept">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/cept-dark.svg">
+          <img src="cards/cept-light.svg" alt="cept" width="400">
         </picture>
       </a>
 </p>
@@ -177,6 +177,12 @@
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/portainer-stacks-dark.svg">
           <img src="cards/portainer-stacks-light.svg" alt="portainer-stacks" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/tiltenv">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/tiltenv-dark.svg">
+          <img src="cards/tiltenv-light.svg" alt="tiltenv" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/n8-renovate">

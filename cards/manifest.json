@@ -1,16 +1,5 @@
 [
   {
-    "name": "renovate-config",
-    "full_name": "nsheaps/renovate-config",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/renovate-config",
-    "pushed_at": "2026-05-23T01:49:02Z",
-    "recent_commits": 31
-  },
-  {
     "name": "agents",
     "full_name": "nsheaps/agents",
     "description": "Provider-agnostic agent team orchestration",
@@ -18,8 +7,8 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/agents",
-    "pushed_at": "2026-05-23T05:13:05Z",
-    "recent_commits": 49
+    "pushed_at": "2026-05-24T05:48:36Z",
+    "recent_commits": 67
   },
   {
     "name": ".ai-agent-alex",
@@ -29,8 +18,19 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/.ai-agent-alex",
-    "pushed_at": "2026-05-22T18:01:20Z",
-    "recent_commits": 234
+    "pushed_at": "2026-05-24T04:57:32Z",
+    "recent_commits": 248
+  },
+  {
+    "name": "iac",
+    "full_name": "nsheaps/iac",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/iac",
+    "pushed_at": "2026-05-23T20:30:19Z",
+    "recent_commits": 24
   },
   {
     "name": "nsheaps",
@@ -40,8 +40,19 @@
     "stars": 0,
     "forks": 1,
     "url": "https://github.com/nsheaps/nsheaps",
-    "pushed_at": "2026-05-22T07:13:26Z",
+    "pushed_at": "2026-05-23T06:55:08Z",
     "recent_commits": 30
+  },
+  {
+    "name": "renovate-config",
+    "full_name": "nsheaps/renovate-config",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/renovate-config",
+    "pushed_at": "2026-05-23T01:49:02Z",
+    "recent_commits": 29
   },
   {
     "name": ".ai-agent-henry",
@@ -51,8 +62,8 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/.ai-agent-henry",
-    "pushed_at": "2026-05-22T17:50:55Z",
-    "recent_commits": 330
+    "pushed_at": "2026-05-24T04:03:10Z",
+    "recent_commits": 322
   },
   {
     "name": ".ai-agent-jack",
@@ -62,8 +73,8 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/.ai-agent-jack",
-    "pushed_at": "2026-05-22T17:46:12Z",
-    "recent_commits": 325
+    "pushed_at": "2026-05-23T18:19:50Z",
+    "recent_commits": 307
   },
   {
     "name": "ai-mktpl",
@@ -74,7 +85,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/ai-mktpl",
     "pushed_at": "2026-05-22T17:08:01Z",
-    "recent_commits": 70
+    "recent_commits": 68
   },
   {
     "name": ".github",
@@ -95,19 +106,8 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/farish",
-    "pushed_at": "2026-05-21T19:01:36Z",
+    "pushed_at": "2026-05-24T03:51:57Z",
     "recent_commits": 1
-  },
-  {
-    "name": "iac",
-    "full_name": "nsheaps/iac",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/iac",
-    "pushed_at": "2026-05-20T04:30:49Z",
-    "recent_commits": 22
   },
   {
     "name": "homebrew-devsetup",
@@ -173,7 +173,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/ramp-interview",
     "pushed_at": "2026-05-18T19:14:17Z",
-    "recent_commits": 23
+    "recent_commits": 2
   },
   {
     "name": "cept",
@@ -228,7 +228,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/obsidian-vaults",
     "pushed_at": "2026-04-23T19:41:18Z",
-    "recent_commits": 1
+    "recent_commits": 0
   },
   {
     "name": "workspaces",
@@ -404,6 +404,17 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/pull-from-upstream",
     "pushed_at": "2026-02-10T11:54:57Z",
+    "recent_commits": 0
+  },
+  {
+    "name": "tiltenv",
+    "full_name": "nsheaps/tiltenv",
+    "description": "Make managing multi-service tilt deployments easier",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/tiltenv",
+    "pushed_at": "2026-01-18T05:54:39Z",
     "recent_commits": 0
   },
   {
