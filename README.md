@@ -97,12 +97,6 @@
           <img src="cards/claude-utils-light.svg" alt="claude-utils" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/homebrew-devsetup">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/homebrew-devsetup-dark.svg">
-          <img src="cards/homebrew-devsetup-light.svg" alt="homebrew-devsetup" width="400">
-        </picture>
-      </a>
   <a href="https://github.com/nsheaps/renovate-config">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/renovate-config-dark.svg">
@@ -113,6 +107,12 @@
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/iac-dark.svg">
           <img src="cards/iac-light.svg" alt="iac" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/homebrew-devsetup">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/homebrew-devsetup-dark.svg">
+          <img src="cards/homebrew-devsetup-light.svg" alt="homebrew-devsetup" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/op-exec">
@@ -177,12 +177,6 @@
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/portainer-stacks-dark.svg">
           <img src="cards/portainer-stacks-light.svg" alt="portainer-stacks" width="400">
-        </picture>
-      </a>
-  <a href="https://github.com/nsheaps/tiltenv">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/tiltenv-dark.svg">
-          <img src="cards/tiltenv-light.svg" alt="tiltenv" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/n8-renovate">
@@ -295,6 +289,12 @@
           <img src="cards/agents-light.svg" alt="agents" width="400">
         </picture>
       </a>
+  <a href="https://github.com/nsheaps/framework-touchpad-toggle">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/framework-touchpad-toggle-dark.svg">
+          <img src="cards/framework-touchpad-toggle-light.svg" alt="framework-touchpad-toggle" width="400">
+        </picture>
+      </a>
   <a href="https://github.com/nsheaps/farish">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/farish-dark.svg">
@@ -335,12 +335,6 @@
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/public-scratch-dark.svg">
           <img src="cards/public-scratch-light.svg" alt="public-scratch" width="400">
-        </picture>
-      </a>
-  <a href="https://github.com/nsheaps/scratch">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/scratch-dark.svg">
-          <img src="cards/scratch-light.svg" alt="scratch" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/claude-code-sessions">
