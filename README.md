@@ -97,16 +97,10 @@
           <img src="cards/claude-utils-light.svg" alt="claude-utils" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/renovate-config">
+  <a href="https://github.com/nsheaps/cept">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/renovate-config-dark.svg">
-          <img src="cards/renovate-config-light.svg" alt="renovate-config" width="400">
-        </picture>
-      </a>
-  <a href="https://github.com/nsheaps/agent-kenny">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/agent-kenny-dark.svg">
-          <img src="cards/agent-kenny-light.svg" alt="agent-kenny" width="400">
+          <source media="(prefers-color-scheme: dark)" srcset="cards/cept-dark.svg">
+          <img src="cards/cept-light.svg" alt="cept" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/op-exec">
@@ -115,16 +109,22 @@
           <img src="cards/op-exec-light.svg" alt="op-exec" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/cept">
+  <a href="https://github.com/nsheaps/renovate-config">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/cept-dark.svg">
-          <img src="cards/cept-light.svg" alt="cept" width="400">
+          <source media="(prefers-color-scheme: dark)" srcset="cards/renovate-config-dark.svg">
+          <img src="cards/renovate-config-light.svg" alt="renovate-config" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/git-wt">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/git-wt-dark.svg">
           <img src="cards/git-wt-light.svg" alt="git-wt" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/agent-kenny">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/agent-kenny-dark.svg">
+          <img src="cards/agent-kenny-light.svg" alt="agent-kenny" width="400">
         </picture>
       </a>
 </p>
@@ -142,12 +142,6 @@
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/claude-utils-dark.svg">
           <img src="cards/claude-utils-light.svg" alt="claude-utils" width="400">
-        </picture>
-      </a>
-  <a href="https://github.com/nsheaps/vscode-claude-log-plugin">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/vscode-claude-log-plugin-dark.svg">
-          <img src="cards/vscode-claude-log-plugin-light.svg" alt="vscode-claude-log-plugin" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/ai-mktpl">
@@ -265,12 +259,6 @@
 ### Other Projects
 
 <p align="center">
-  <a href="https://github.com/nsheaps/agents">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/agents-dark.svg">
-          <img src="cards/agents-light.svg" alt="agents" width="400">
-        </picture>
-      </a>
   <a href="https://github.com/nsheaps/.ai-agent-alex">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/.ai-agent-alex-dark.svg">
@@ -325,10 +313,22 @@
           <img src="cards/farish-light.svg" alt="farish" width="400">
         </picture>
       </a>
+  <a href="https://github.com/nsheaps/agents">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/agents-dark.svg">
+          <img src="cards/agents-light.svg" alt="agents" width="400">
+        </picture>
+      </a>
   <a href="https://github.com/nsheaps/claude-code-sessions">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/claude-code-sessions-dark.svg">
           <img src="cards/claude-code-sessions-light.svg" alt="claude-code-sessions" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/agent-template">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/agent-template-dark.svg">
+          <img src="cards/agent-template-light.svg" alt="agent-template" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/framework-touchpad-toggle">
