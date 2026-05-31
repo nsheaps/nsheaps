@@ -115,16 +115,16 @@
           <img src="cards/renovate-config-light.svg" alt="renovate-config" width="400">
         </picture>
       </a>
+  <a href="https://github.com/nsheaps/iac">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/iac-dark.svg">
+          <img src="cards/iac-light.svg" alt="iac" width="400">
+        </picture>
+      </a>
   <a href="https://github.com/nsheaps/git-wt">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/git-wt-dark.svg">
           <img src="cards/git-wt-light.svg" alt="git-wt" width="400">
-        </picture>
-      </a>
-  <a href="https://github.com/nsheaps/agent-kenny">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/agent-kenny-dark.svg">
-          <img src="cards/agent-kenny-light.svg" alt="agent-kenny" width="400">
         </picture>
       </a>
 </p>
@@ -161,16 +161,16 @@
 ### DevOps & Infrastructure
 
 <p align="center">
+  <a href="https://github.com/nsheaps/iac">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/iac-dark.svg">
+          <img src="cards/iac-light.svg" alt="iac" width="400">
+        </picture>
+      </a>
   <a href="https://github.com/nsheaps/portainer-stacks">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/portainer-stacks-dark.svg">
           <img src="cards/portainer-stacks-light.svg" alt="portainer-stacks" width="400">
-        </picture>
-      </a>
-  <a href="https://github.com/nsheaps/n8-renovate">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/n8-renovate-dark.svg">
-          <img src="cards/n8-renovate-light.svg" alt="n8-renovate" width="400">
         </picture>
       </a>
 </p>
