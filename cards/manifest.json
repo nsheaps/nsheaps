@@ -1,36 +1,14 @@
 [
   {
-    "name": ".ai-agent-jack",
-    "full_name": "nsheaps/.ai-agent-jack",
+    "name": "renovate-config",
+    "full_name": "nsheaps/renovate-config",
     "description": "",
     "language": "Shell",
     "stars": 0,
     "forks": 0,
-    "url": "https://github.com/nsheaps/.ai-agent-jack",
-    "pushed_at": "2026-05-31T06:07:27Z",
-    "recent_commits": 203
-  },
-  {
-    "name": "homebrew-devsetup",
-    "full_name": "nsheaps/homebrew-devsetup",
-    "description": "A template for your own homebrew tap. Fork this repo (or copy it) and add your own formula to set up new devices how you want.",
-    "language": "Ruby",
-    "stars": 3,
-    "forks": 1,
-    "url": "https://github.com/nsheaps/homebrew-devsetup",
-    "pushed_at": "2026-05-31T04:52:02Z",
-    "recent_commits": 194
-  },
-  {
-    "name": "claude-utils",
-    "full_name": "nsheaps/claude-utils",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/claude-utils",
-    "pushed_at": "2026-05-31T04:51:41Z",
-    "recent_commits": 83
+    "url": "https://github.com/nsheaps/renovate-config",
+    "pushed_at": "2026-06-01T03:56:36Z",
+    "recent_commits": 32
   },
   {
     "name": "cept",
@@ -40,8 +18,8 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/cept",
-    "pushed_at": "2026-05-31T00:48:08Z",
-    "recent_commits": 48
+    "pushed_at": "2026-05-31T21:49:10Z",
+    "recent_commits": 50
   },
   {
     "name": ".ai-agent-henry",
@@ -51,8 +29,52 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/.ai-agent-henry",
-    "pushed_at": "2026-05-31T05:01:45Z",
-    "recent_commits": 94
+    "pushed_at": "2026-05-31T18:32:36Z",
+    "recent_commits": 95
+  },
+  {
+    "name": ".ai-agent-jack",
+    "full_name": "nsheaps/.ai-agent-jack",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/.ai-agent-jack",
+    "pushed_at": "2026-05-31T13:47:05Z",
+    "recent_commits": 206
+  },
+  {
+    "name": "homebrew-devsetup",
+    "full_name": "nsheaps/homebrew-devsetup",
+    "description": "A template for your own homebrew tap. Fork this repo (or copy it) and add your own formula to set up new devices how you want.",
+    "language": "Ruby",
+    "stars": 3,
+    "forks": 1,
+    "url": "https://github.com/nsheaps/homebrew-devsetup",
+    "pushed_at": "2026-05-31T12:38:45Z",
+    "recent_commits": 196
+  },
+  {
+    "name": "claude-utils",
+    "full_name": "nsheaps/claude-utils",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/claude-utils",
+    "pushed_at": "2026-05-31T12:38:22Z",
+    "recent_commits": 88
+  },
+  {
+    "name": "nsheaps",
+    "full_name": "nsheaps/nsheaps",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 1,
+    "url": "https://github.com/nsheaps/nsheaps",
+    "pushed_at": "2026-05-31T07:18:59Z",
+    "recent_commits": 75
   },
   {
     "name": "iac",
@@ -63,18 +85,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/iac",
     "pushed_at": "2026-05-30T16:36:57Z",
-    "recent_commits": 32
-  },
-  {
-    "name": "nsheaps",
-    "full_name": "nsheaps/nsheaps",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 1,
-    "url": "https://github.com/nsheaps/nsheaps",
-    "pushed_at": "2026-05-30T07:00:53Z",
-    "recent_commits": 75
+    "recent_commits": 31
   },
   {
     "name": "github2",
@@ -106,7 +117,7 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/.github",
-    "pushed_at": "2026-05-30T03:42:52Z",
+    "pushed_at": "2026-05-31T18:17:23Z",
     "recent_commits": 68
   },
   {
@@ -261,7 +272,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/agent-kenny",
     "pushed_at": "2026-05-29T20:26:11Z",
-    "recent_commits": 13
+    "recent_commits": 11
   },
   {
     "name": "farish",
@@ -339,17 +350,6 @@
     "url": "https://github.com/nsheaps/github-actions",
     "pushed_at": "2026-05-30T00:25:30Z",
     "recent_commits": 12
-  },
-  {
-    "name": "renovate-config",
-    "full_name": "nsheaps/renovate-config",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/renovate-config",
-    "pushed_at": "2026-05-30T00:24:58Z",
-    "recent_commits": 33
   },
   {
     "name": "framework-touchpad-toggle",
