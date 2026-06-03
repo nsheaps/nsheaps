@@ -1,5 +1,60 @@
 [
   {
+    "name": ".org",
+    "full_name": "nsheaps/.org",
+    "description": "Organization-level shared resources for nsheaps",
+    "language": "TypeScript",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/.org",
+    "pushed_at": "2026-06-03T02:54:05Z",
+    "recent_commits": 109
+  },
+  {
+    "name": "cept",
+    "full_name": "nsheaps/cept",
+    "description": "Share your ideas and con-cept-ions with the world",
+    "language": "TypeScript",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/cept",
+    "pushed_at": "2026-06-03T02:53:34Z",
+    "recent_commits": 55
+  },
+  {
+    "name": "github2",
+    "full_name": "nsheaps/github2",
+    "description": "",
+    "language": "Vue",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/github2",
+    "pushed_at": "2026-06-03T01:13:36Z",
+    "recent_commits": 80
+  },
+  {
+    "name": "homebrew-devsetup",
+    "full_name": "nsheaps/homebrew-devsetup",
+    "description": "A template for your own homebrew tap. Fork this repo (or copy it) and add your own formula to set up new devices how you want.",
+    "language": "Ruby",
+    "stars": 3,
+    "forks": 1,
+    "url": "https://github.com/nsheaps/homebrew-devsetup",
+    "pushed_at": "2026-06-02T23:25:56Z",
+    "recent_commits": 232
+  },
+  {
+    "name": "agents",
+    "full_name": "nsheaps/agents",
+    "description": "Provider-agnostic agent team orchestration",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/agents",
+    "pushed_at": "2026-06-02T23:25:19Z",
+    "recent_commits": 415
+  },
+  {
     "name": "iac",
     "full_name": "nsheaps/iac",
     "description": "",
@@ -7,8 +62,30 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/iac",
-    "pushed_at": "2026-06-02T05:07:00Z",
-    "recent_commits": 37
+    "pushed_at": "2026-06-02T22:31:40Z",
+    "recent_commits": 39
+  },
+  {
+    "name": ".ai-agent-henry",
+    "full_name": "nsheaps/.ai-agent-henry",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/.ai-agent-henry",
+    "pushed_at": "2026-06-02T18:49:23Z",
+    "recent_commits": 101
+  },
+  {
+    "name": "nsheaps",
+    "full_name": "nsheaps/nsheaps",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 1,
+    "url": "https://github.com/nsheaps/nsheaps",
+    "pushed_at": "2026-06-02T07:38:35Z",
+    "recent_commits": 85
   },
   {
     "name": "renovate-config",
@@ -19,29 +96,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/renovate-config",
     "pushed_at": "2026-06-02T01:47:32Z",
-    "recent_commits": 34
-  },
-  {
-    "name": ".ai-agent-henry",
-    "full_name": "nsheaps/.ai-agent-henry",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/.ai-agent-henry",
-    "pushed_at": "2026-06-02T01:35:54Z",
-    "recent_commits": 100
-  },
-  {
-    "name": "github2",
-    "full_name": "nsheaps/github2",
-    "description": "",
-    "language": "Vue",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/github2",
-    "pushed_at": "2026-06-02T01:24:38Z",
-    "recent_commits": 54
+    "recent_commits": 33
   },
   {
     "name": ".github",
@@ -51,30 +106,8 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/.github",
-    "pushed_at": "2026-06-02T01:18:06Z",
+    "pushed_at": "2026-06-02T19:46:22Z",
     "recent_commits": 79
-  },
-  {
-    "name": "homebrew-devsetup",
-    "full_name": "nsheaps/homebrew-devsetup",
-    "description": "A template for your own homebrew tap. Fork this repo (or copy it) and add your own formula to set up new devices how you want.",
-    "language": "Ruby",
-    "stars": 3,
-    "forks": 1,
-    "url": "https://github.com/nsheaps/homebrew-devsetup",
-    "pushed_at": "2026-06-01T17:30:40Z",
-    "recent_commits": 230
-  },
-  {
-    "name": "nsheaps",
-    "full_name": "nsheaps/nsheaps",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 1,
-    "url": "https://github.com/nsheaps/nsheaps",
-    "pushed_at": "2026-06-01T17:20:56Z",
-    "recent_commits": 85
   },
   {
     "name": ".ai-agent-jack",
@@ -108,17 +141,6 @@
     "url": "https://github.com/nsheaps/.ai-agent-alex",
     "pushed_at": "2026-06-01T17:19:51Z",
     "recent_commits": 761
-  },
-  {
-    "name": "agents",
-    "full_name": "nsheaps/agents",
-    "description": "Provider-agnostic agent team orchestration",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/agents",
-    "pushed_at": "2026-06-01T17:20:04Z",
-    "recent_commits": 413
   },
   {
     "name": "gs-stack-status",
@@ -185,17 +207,6 @@
     "url": "https://github.com/nsheaps/.ai-agent-qlod",
     "pushed_at": "2026-06-01T17:21:31Z",
     "recent_commits": 13
-  },
-  {
-    "name": ".org",
-    "full_name": "nsheaps/.org",
-    "description": "Organization-level shared resources for nsheaps",
-    "language": "TypeScript",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/.org",
-    "pushed_at": "2026-06-01T17:21:16Z",
-    "recent_commits": 89
   },
   {
     "name": "claude-code-sessions",
@@ -286,17 +297,6 @@
     "recent_commits": 96
   },
   {
-    "name": "cept",
-    "full_name": "nsheaps/cept",
-    "description": "Share your ideas and con-cept-ions with the world",
-    "language": "TypeScript",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/cept",
-    "pushed_at": "2026-06-01T17:20:18Z",
-    "recent_commits": 54
-  },
-  {
     "name": "aitkit",
     "full_name": "nsheaps/aitkit",
     "description": "",
@@ -348,7 +348,7 @@
     "stars": 1,
     "forks": 0,
     "url": "https://github.com/nsheaps/github-actions",
-    "pushed_at": "2026-06-01T17:21:14Z",
+    "pushed_at": "2026-06-02T15:16:19Z",
     "recent_commits": 12
   },
   {
