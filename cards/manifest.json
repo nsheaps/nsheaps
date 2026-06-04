@@ -7,30 +7,19 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/.org",
-    "pushed_at": "2026-06-03T02:54:05Z",
-    "recent_commits": 109
+    "pushed_at": "2026-06-04T06:57:51Z",
+    "recent_commits": 129
   },
   {
-    "name": "cept",
-    "full_name": "nsheaps/cept",
-    "description": "Share your ideas and con-cept-ions with the world",
-    "language": "TypeScript",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/cept",
-    "pushed_at": "2026-06-03T02:53:34Z",
-    "recent_commits": 55
-  },
-  {
-    "name": "github2",
-    "full_name": "nsheaps/github2",
+    "name": ".ai-agent-jack",
+    "full_name": "nsheaps/.ai-agent-jack",
     "description": "",
-    "language": "Vue",
+    "language": "Shell",
     "stars": 0,
     "forks": 0,
-    "url": "https://github.com/nsheaps/github2",
-    "pushed_at": "2026-06-03T01:13:36Z",
-    "recent_commits": 80
+    "url": "https://github.com/nsheaps/.ai-agent-jack",
+    "pushed_at": "2026-06-04T06:56:19Z",
+    "recent_commits": 208
   },
   {
     "name": "homebrew-devsetup",
@@ -40,8 +29,52 @@
     "stars": 3,
     "forks": 1,
     "url": "https://github.com/nsheaps/homebrew-devsetup",
-    "pushed_at": "2026-06-02T23:25:56Z",
-    "recent_commits": 232
+    "pushed_at": "2026-06-04T05:37:48Z",
+    "recent_commits": 228
+  },
+  {
+    "name": "claude-utils",
+    "full_name": "nsheaps/claude-utils",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/claude-utils",
+    "pushed_at": "2026-06-04T05:37:20Z",
+    "recent_commits": 80
+  },
+  {
+    "name": "cept",
+    "full_name": "nsheaps/cept",
+    "description": "Share your ideas and con-cept-ions with the world",
+    "language": "TypeScript",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/cept",
+    "pushed_at": "2026-06-03T19:33:03Z",
+    "recent_commits": 58
+  },
+  {
+    "name": "github2",
+    "full_name": "nsheaps/github2",
+    "description": "",
+    "language": "Vue",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/github2",
+    "pushed_at": "2026-06-03T19:30:00Z",
+    "recent_commits": 82
+  },
+  {
+    "name": "nsheaps",
+    "full_name": "nsheaps/nsheaps",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 1,
+    "url": "https://github.com/nsheaps/nsheaps",
+    "pushed_at": "2026-06-03T07:41:54Z",
+    "recent_commits": 85
   },
   {
     "name": "agents",
@@ -73,19 +106,8 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/.ai-agent-henry",
-    "pushed_at": "2026-06-02T18:49:23Z",
+    "pushed_at": "2026-06-04T05:29:24Z",
     "recent_commits": 101
-  },
-  {
-    "name": "nsheaps",
-    "full_name": "nsheaps/nsheaps",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 1,
-    "url": "https://github.com/nsheaps/nsheaps",
-    "pushed_at": "2026-06-02T07:38:35Z",
-    "recent_commits": 85
   },
   {
     "name": "renovate-config",
@@ -96,7 +118,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/renovate-config",
     "pushed_at": "2026-06-02T01:47:32Z",
-    "recent_commits": 33
+    "recent_commits": 32
   },
   {
     "name": ".github",
@@ -106,19 +128,8 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/.github",
-    "pushed_at": "2026-06-02T19:46:22Z",
+    "pushed_at": "2026-06-03T19:58:07Z",
     "recent_commits": 79
-  },
-  {
-    "name": ".ai-agent-jack",
-    "full_name": "nsheaps/.ai-agent-jack",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/.ai-agent-jack",
-    "pushed_at": "2026-06-01T17:27:54Z",
-    "recent_commits": 210
   },
   {
     "name": ".ai-old",
@@ -140,7 +151,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/.ai-agent-alex",
     "pushed_at": "2026-06-01T17:19:51Z",
-    "recent_commits": 761
+    "recent_commits": 745
   },
   {
     "name": "gs-stack-status",
@@ -284,17 +295,6 @@
     "url": "https://github.com/nsheaps/git-wt",
     "pushed_at": "2026-06-01T17:20:56Z",
     "recent_commits": 35
-  },
-  {
-    "name": "claude-utils",
-    "full_name": "nsheaps/claude-utils",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/claude-utils",
-    "pushed_at": "2026-06-01T17:20:42Z",
-    "recent_commits": 96
   },
   {
     "name": "aitkit",
