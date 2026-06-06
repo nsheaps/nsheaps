@@ -1,0 +1,6 @@
+# Python bytecode (profile generation scripts)
+__pycache__/
+*.pyc
+
+# Agent working files (task plans, scratch, tmp) — not part of the profile repo
+.claude/
