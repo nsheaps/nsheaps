@@ -8,6 +8,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/private-pages",
     "pushed_at": "2026-06-06T20:56:40Z",
+    "private": false,
     "recent_commits": 2
   },
   {
@@ -19,6 +20,7 @@
     "forks": 1,
     "url": "https://github.com/nsheaps/homebrew-devsetup",
     "pushed_at": "2026-06-06T20:56:43Z",
+    "private": false,
     "recent_commits": 255
   },
   {
@@ -30,6 +32,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/iac",
     "pushed_at": "2026-06-06T20:56:40Z",
+    "private": true,
     "recent_commits": 39
   },
   {
@@ -41,6 +44,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/claude-utils",
     "pushed_at": "2026-06-06T20:56:35Z",
+    "private": false,
     "recent_commits": 113
   },
   {
@@ -52,6 +56,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/claude-code-sessions",
     "pushed_at": "2026-06-06T20:56:17Z",
+    "private": true,
     "recent_commits": 17
   },
   {
@@ -63,6 +68,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/github2",
     "pushed_at": "2026-06-06T20:56:32Z",
+    "private": true,
     "recent_commits": 88
   },
   {
@@ -74,6 +80,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/aitkit",
     "pushed_at": "2026-06-06T20:56:14Z",
+    "private": true,
     "recent_commits": 18
   },
   {
@@ -85,6 +92,7 @@
     "forks": 1,
     "url": "https://github.com/nsheaps/nsheaps",
     "pushed_at": "2026-06-06T20:56:28Z",
+    "private": false,
     "recent_commits": 92
   },
   {
@@ -96,6 +104,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/.ai-old",
     "pushed_at": "2026-06-06T20:56:14Z",
+    "private": true,
     "recent_commits": 14
   },
   {
@@ -107,6 +116,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/cors-proxy",
     "pushed_at": "2026-06-06T20:56:43Z",
+    "private": false,
     "recent_commits": 3
   },
   {
@@ -118,6 +128,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/agents",
     "pushed_at": "2026-06-06T20:56:25Z",
+    "private": false,
     "recent_commits": 425
   },
   {
@@ -129,6 +140,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/ai-mktpl",
     "pushed_at": "2026-06-06T20:56:06Z",
+    "private": false,
     "recent_commits": 113
   },
   {
@@ -140,6 +152,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/agent-kenny",
     "pushed_at": "2026-06-06T20:56:04Z",
+    "private": true,
     "recent_commits": 15
   },
   {
@@ -151,6 +164,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/.ai-agent-henry",
     "pushed_at": "2026-06-06T20:56:04Z",
+    "private": true,
     "recent_commits": 103
   },
   {
@@ -162,6 +176,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/claudesh",
     "pushed_at": "2026-06-06T20:56:02Z",
+    "private": false,
     "recent_commits": 14
   },
   {
@@ -173,6 +188,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/.ai-agent-jack",
     "pushed_at": "2026-06-06T20:56:01Z",
+    "private": true,
     "recent_commits": 202
   },
   {
@@ -184,6 +200,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/.ai-agent-qlod",
     "pushed_at": "2026-06-06T20:56:01Z",
+    "private": true,
     "recent_commits": 14
   },
   {
@@ -195,6 +212,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/.ai-agent-pamela",
     "pushed_at": "2026-06-06T20:55:58Z",
+    "private": true,
     "recent_commits": 14
   },
   {
@@ -206,6 +224,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/.ai-agent-alex",
     "pushed_at": "2026-06-06T20:55:57Z",
+    "private": true,
     "recent_commits": 710
   },
   {
@@ -217,6 +236,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/obsidian-vaults",
     "pushed_at": "2026-06-06T20:55:45Z",
+    "private": true,
     "recent_commits": 14
   },
   {
@@ -228,6 +248,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/workspaces",
     "pushed_at": "2026-06-06T20:55:45Z",
+    "private": true,
     "recent_commits": 15
   },
   {
@@ -239,6 +260,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/gs-stack-status",
     "pushed_at": "2026-06-06T20:55:51Z",
+    "private": false,
     "recent_commits": 14
   },
   {
@@ -250,6 +272,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/op-exec",
     "pushed_at": "2026-06-06T20:55:51Z",
+    "private": false,
     "recent_commits": 46
   },
   {
@@ -261,6 +284,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/git-wt",
     "pushed_at": "2026-06-06T20:55:51Z",
+    "private": false,
     "recent_commits": 36
   },
   {
@@ -272,6 +296,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/framework-touchpad-toggle",
     "pushed_at": "2026-06-06T20:56:40Z",
+    "private": false,
     "recent_commits": 10
   },
   {
@@ -283,6 +308,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/farish",
     "pushed_at": "2026-06-06T20:55:47Z",
+    "private": false,
     "recent_commits": 16
   },
   {
@@ -294,6 +320,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/cept",
     "pushed_at": "2026-06-06T20:55:47Z",
+    "private": false,
     "recent_commits": 71
   },
   {
@@ -305,6 +332,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/.org",
     "pushed_at": "2026-06-06T20:55:45Z",
+    "private": true,
     "recent_commits": 233
   },
   {
@@ -316,6 +344,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/dotfiles",
     "pushed_at": "2026-06-06T20:55:45Z",
+    "private": false,
     "recent_commits": 15
   },
   {
@@ -327,6 +356,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/brew-meta-formula",
     "pushed_at": "2026-06-06T20:55:43Z",
+    "private": false,
     "recent_commits": 14
   },
   {
@@ -338,6 +368,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/.github",
     "pushed_at": "2026-06-06T20:56:33Z",
+    "private": true,
     "recent_commits": 91
   },
   {
@@ -349,6 +380,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/renovate-config",
     "pushed_at": "2026-06-06T20:56:21Z",
+    "private": false,
     "recent_commits": 29
   },
   {
@@ -360,6 +392,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/n8n",
     "pushed_at": "2026-06-01T17:21:27Z",
+    "private": true,
     "recent_commits": 12
   },
   {
@@ -371,6 +404,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/agent-template",
     "pushed_at": "2026-05-29T20:17:00Z",
+    "private": false,
     "recent_commits": 0
   },
   {
@@ -382,6 +416,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/github-actions",
     "pushed_at": "2026-06-02T15:16:19Z",
+    "private": false,
     "recent_commits": 12
   },
   {
@@ -393,6 +428,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/greasemonkey-scripts",
     "pushed_at": "2026-01-21T18:48:07Z",
+    "private": false,
     "recent_commits": 0
   },
   {
@@ -404,6 +440,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/tilt",
     "pushed_at": "2026-04-23T16:50:22Z",
+    "private": false,
     "recent_commits": 0
   },
   {
@@ -415,6 +452,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/govee-ble-plugs",
     "pushed_at": "2026-01-29T04:12:45Z",
+    "private": false,
     "recent_commits": 0
   },
   {
@@ -426,6 +464,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/gh-ext--issue-sync",
     "pushed_at": "2026-04-15T23:54:32Z",
+    "private": false,
     "recent_commits": 0
   },
   {
@@ -437,6 +476,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/public-scratch",
     "pushed_at": "2026-03-22T00:34:19Z",
+    "private": false,
     "recent_commits": 0
   },
   {
@@ -448,6 +488,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/scratch",
     "pushed_at": "2026-03-21T20:57:59Z",
+    "private": true,
     "recent_commits": 0
   },
   {
@@ -459,6 +500,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/claude-team",
     "pushed_at": "2026-03-01T08:02:21Z",
+    "private": false,
     "recent_commits": 0
   },
   {
@@ -470,6 +512,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/portainer-stacks",
     "pushed_at": "2026-06-01T16:48:28Z",
+    "private": false,
     "recent_commits": 0
   },
   {
@@ -481,6 +524,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/n8-renovate",
     "pushed_at": "2023-12-03T18:32:57Z",
+    "private": false,
     "recent_commits": 0
   },
   {
@@ -492,6 +536,7 @@
     "forks": 1,
     "url": "https://github.com/nsheaps/vscode-claude-log-plugin",
     "pushed_at": "2026-01-12T19:03:51Z",
+    "private": false,
     "recent_commits": 0
   },
   {
@@ -503,6 +548,7 @@
     "forks": 0,
     "url": "https://github.com/nsheaps/pull-from-upstream",
     "pushed_at": "2026-02-10T11:54:57Z",
+    "private": false,
     "recent_commits": 0
   }
 ]

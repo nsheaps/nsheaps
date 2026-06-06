@@ -179,11 +179,29 @@ def generate_card_svg(repo: dict, theme_name: str) -> str:
         f"</svg>\n"
     )
 
+    # "Private" pill (top-right) — only rendered for private repos; public
+    # repos get no badge.
+    private_svg = ""
+    if repo.get("private"):
+        badge_w = 64
+        badge_h = 18
+        badge_x = CARD_WIDTH - 16 - badge_w
+        badge_y = 12
+        private_svg = (
+            f'    <rect x="{badge_x}" y="{badge_y}" width="{badge_w}" height="{badge_h}" rx="9" '
+            f'fill="none" stroke="{t["border"]}" stroke-width="1" />\n'
+            f'    <svg x="{badge_x + 9}" y="{badge_y + 3}" width="11" height="11" viewBox="0 0 16 16" fill="{t["meta"]}">'
+            f'<path d="M4 4a4 4 0 0 1 8 0v2h.25c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 12.25 15h-8.5A1.75 1.75 0 0 1 2 13.25v-5.5C2 6.784 2.784 6 3.75 6H4Zm8.25 3.5h-8.5a.25.25 0 0 0-.25.25v5.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-5.5a.25.25 0 0 0-.25-.25ZM10.5 6V4a2.5 2.5 0 1 0-5 0v2Z"/>'
+            f"</svg>\n"
+            f'    <text x="{badge_x + 24}" y="{badge_y + 13}" fill="{t["meta"]}" '
+            f'font-size="10" font-family="-apple-system,BlinkMacSystemFont,\'Segoe UI\',Helvetica,Arial,sans-serif">'
+            f"Private</text>\n"
+        )
+
     return f"""<svg width="{CARD_WIDTH}" height="{CARD_HEIGHT}" viewBox="0 0 {CARD_WIDTH} {CARD_HEIGHT}" xmlns="http://www.w3.org/2000/svg">
   <rect x="0.5" y="0.5" width="{CARD_WIDTH - 1}" height="{CARD_HEIGHT - 1}" rx="6" fill="{t['bg']}" stroke="{t['border']}" stroke-width="1" />
-{repo_icon}
-    <text x="42" y="30" fill="{t['title']}" font-size="14" font-weight="600" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">{escape_xml(name)}</text>
-{desc_svg}{lang_svg}{star_svg}{fork_svg}</svg>
+{repo_icon}    <text x="42" y="30" fill="{t['title']}" font-size="14" font-weight="600" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">{escape_xml(name)}</text>
+{private_svg}{desc_svg}{lang_svg}{star_svg}{fork_svg}</svg>
 """
 
 
@@ -373,6 +391,7 @@ def main():
                 "forks": repo.get("forks_count", 0),
                 "url": repo["html_url"],
                 "pushed_at": repo.get("pushed_at", ""),
+                "private": repo.get("private", False),
                 "recent_commits": commit_counts.get(repo["full_name"], 0),
             }
         )
