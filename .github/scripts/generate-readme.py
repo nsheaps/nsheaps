@@ -57,7 +57,7 @@ def generate_repo_card_html(repo: dict) -> str:
     return f"""<a href="{url}">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/{name}-dark.svg">
-          <img src="cards/{name}-light.svg" alt="{name}" width="280">
+          <img src="cards/{name}-light.svg" alt="{name}" width="400">
         </picture>
       </a>"""
 

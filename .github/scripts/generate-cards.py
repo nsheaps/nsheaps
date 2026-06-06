@@ -52,8 +52,8 @@ THEMES = {
     },
 }
 
-CARD_WIDTH = 280
-CARD_HEIGHT = 60
+CARD_WIDTH = 400
+CARD_HEIGHT = 120
 
 BASE_REPOS = [
     ".ai-agent-alex", ".ai-agent-henry", ".ai-agent-jack", ".ai-agent-pamela", ".ai-agent-qlod",
@@ -113,60 +113,68 @@ def generate_card_svg(repo: dict, theme_name: str) -> str:
     forks = repo.get("forks_count", 0)
     lang_color = LANG_COLORS.get(lang, "#8b949e")
 
-    desc_lines = wrap_text(desc, 36)[:1]  # Only 1 line fits in 60px card
+    desc_lines = wrap_text(desc, 52)
     desc_svg = ""
     for i, line in enumerate(desc_lines):
-        y = 34 + i * 14
+        y = 55 + i * 18
         desc_svg += (
             f'    <text x="20" y="{y}" fill="{t["desc"]}" '
-            f'font-size="11" font-family="-apple-system,BlinkMacSystemFont,\'Segoe UI\',Helvetica,Arial,sans-serif">'
+            f'font-size="12.5" font-family="-apple-system,BlinkMacSystemFont,\'Segoe UI\',Helvetica,Arial,sans-serif">'
             f"{escape_xml(line)}</text>\n"
         )
 
     # Bottom metadata line
-    meta_y = 50
+    meta_y = 100
     meta_parts = []
     x_offset = 20
 
-    # Language dot + label (compact for smaller card)
+    # Language badge (shields.io style)
     lang_svg = ""
     if lang:
-        label_text = truncate(lang, 14)
-        dot_cx = x_offset + 5
-        dot_cy = meta_y - 4
-        text_x = x_offset + 12
+        label_text = lang
+        text_width = len(label_text) * 6.2 + 10
+        badge_height = 20
+        badge_y = meta_y - 14
+        dot_cx = x_offset + 10
+        dot_cy = badge_y + badge_height / 2
+        text_x = x_offset + 18
+        text_y = badge_y + 14
+        badge_width = text_width + 14
+        # Contrast color for text on the badge
+        badge_bg = lang_color
         lang_svg = (
-            f'    <circle cx="{dot_cx}" cy="{dot_cy}" r="4" fill="{lang_color}" />\n'
-            f'    <text x="{text_x}" y="{meta_y}" fill="{t["meta"]}" '
-            f'font-size="10" font-family="-apple-system,BlinkMacSystemFont,\'Segoe UI\',Helvetica,Arial,sans-serif">'
+            f'    <rect x="{x_offset}" y="{badge_y}" width="{badge_width}" height="{badge_height}" rx="10" fill="{badge_bg}" opacity="0.15" />\n'
+            f'    <circle cx="{dot_cx}" cy="{dot_cy}" r="4" fill="{badge_bg}" />\n'
+            f'    <text x="{text_x}" y="{text_y}" fill="{t["meta"]}" '
+            f'font-size="11" font-weight="500" font-family="-apple-system,BlinkMacSystemFont,\'Segoe UI\',Helvetica,Arial,sans-serif">'
             f"{escape_xml(label_text)}</text>\n"
         )
-        x_offset += 12 + len(label_text) * 6 + 10
+        x_offset += badge_width + 12
 
     # Stars (always shown)
     star_svg = (
-        f'    <svg x="{x_offset}" y="{meta_y - 10}" width="11" height="11" viewBox="0 0 16 16" fill="{t["star"]}">'
+        f'    <svg x="{x_offset}" y="{meta_y - 11}" width="14" height="14" viewBox="0 0 16 16" fill="{t["star"]}">'
         f'<path d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"/>'
         f"</svg>\n"
-        f'    <text x="{x_offset + 13}" y="{meta_y}" fill="{t["meta"]}" '
-        f'font-size="10" font-family="-apple-system,BlinkMacSystemFont,\'Segoe UI\',Helvetica,Arial,sans-serif">'
+        f'    <text x="{x_offset + 17}" y="{meta_y}" fill="{t["meta"]}" '
+        f'font-size="11" font-family="-apple-system,BlinkMacSystemFont,\'Segoe UI\',Helvetica,Arial,sans-serif">'
         f"{stars}</text>\n"
     )
-    x_offset += 13 + len(str(stars)) * 6 + 10
+    x_offset += 17 + len(str(stars)) * 7 + 16
 
     # Forks (always shown)
     fork_svg = (
-        f'    <svg x="{x_offset}" y="{meta_y - 10}" width="11" height="11" viewBox="0 0 16 16" fill="{t["icon"]}">'
+        f'    <svg x="{x_offset}" y="{meta_y - 11}" width="14" height="14" viewBox="0 0 16 16" fill="{t["icon"]}">'
         f'<path d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>'
         f"</svg>\n"
-        f'    <text x="{x_offset + 13}" y="{meta_y}" fill="{t["meta"]}" '
-        f'font-size="10" font-family="-apple-system,BlinkMacSystemFont,\'Segoe UI\',Helvetica,Arial,sans-serif">'
+        f'    <text x="{x_offset + 17}" y="{meta_y}" fill="{t["meta"]}" '
+        f'font-size="11" font-family="-apple-system,BlinkMacSystemFont,\'Segoe UI\',Helvetica,Arial,sans-serif">'
         f"{forks}</text>\n"
     )
 
     # Repo icon (book)
     repo_icon = (
-        f'    <svg x="14" y="8" width="14" height="14" viewBox="0 0 16 16" fill="{t["icon"]}">'
+        f'    <svg x="20" y="16" width="16" height="16" viewBox="0 0 16 16" fill="{t["icon"]}">'
         f'<path d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1h-8a1 1 0 00-1 1v6.708A2.486 2.486 0 014.5 9h8V1.5zm-8 11h8v1h-8a1 1 0 010-2z"/>'
         f"</svg>\n"
     )
@@ -174,7 +182,7 @@ def generate_card_svg(repo: dict, theme_name: str) -> str:
     return f"""<svg width="{CARD_WIDTH}" height="{CARD_HEIGHT}" viewBox="0 0 {CARD_WIDTH} {CARD_HEIGHT}" xmlns="http://www.w3.org/2000/svg">
   <rect x="0.5" y="0.5" width="{CARD_WIDTH - 1}" height="{CARD_HEIGHT - 1}" rx="6" fill="{t['bg']}" stroke="{t['border']}" stroke-width="1" />
 {repo_icon}
-    <text x="34" y="18" fill="{t['title']}" font-size="12" font-weight="600" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">{escape_xml(truncate(name, 28))}</text>
+    <text x="42" y="30" fill="{t['title']}" font-size="14" font-weight="600" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">{escape_xml(name)}</text>
 {desc_svg}{lang_svg}{star_svg}{fork_svg}</svg>
 """
 
