@@ -109,16 +109,16 @@
           <img src="cards/op-exec-light.svg" alt="op-exec" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/iac">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/iac-dark.svg">
-          <img src="cards/iac-light.svg" alt="iac" width="400">
-        </picture>
-      </a>
   <a href="https://github.com/nsheaps/git-wt">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/git-wt-dark.svg">
           <img src="cards/git-wt-light.svg" alt="git-wt" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/iac">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/iac-dark.svg">
+          <img src="cards/iac-light.svg" alt="iac" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/renovate-config">
