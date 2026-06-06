@@ -202,7 +202,7 @@ def fetch_repo_data(repo_name: str) -> dict | None:
 def fetch_repos() -> list[dict]:
     """Fetch repos from GitHub API using gh CLI, merging both endpoints.
 
-    Always includes LOCAL_FS_REPOS as a guaranteed floor — any local repo not
+    Always includes BASE_REPOS as a guaranteed floor — any local repo not
     already in the API-fetched set is fetched individually and appended.
     """
     # Search API (non-fork org repos)
@@ -251,9 +251,9 @@ def fetch_repos() -> list[dict]:
             merged.append(r)
             seen.add(r["full_name"])
 
-    # --- Guaranteed floor: always include LOCAL_FS_REPOS ---
+    # --- Guaranteed floor: always include BASE_REPOS ---
     seen_names = {r["name"] for r in merged}
-    for local_name in LOCAL_FS_REPOS:
+    for local_name in BASE_REPOS:
         if local_name not in seen_names:
             print(f"Fetching missing local repo: nsheaps/{local_name}", file=sys.stderr)
             repo_data = fetch_repo_data(local_name)
