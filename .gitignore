@@ -4,3 +4,6 @@ __pycache__/
 
 # Agent working files (task plans, scratch, tmp) — not part of the profile repo
 .claude/
+
+# Tool binaries installed by session hooks (e.g. mise)
+bin/
