@@ -55,9 +55,7 @@ THEMES = {
 CARD_WIDTH = 280
 CARD_HEIGHT = 60
 
-# Local repos guaranteed to always appear (basenames under /home/user/ that are git repos)
-# These are discovered at runtime so the set stays fresh.
-LOCAL_FS_REPOS = [
+BASE_REPOS = [
     ".ai-agent-alex", ".ai-agent-henry", ".ai-agent-jack", ".ai-agent-pamela", ".ai-agent-qlod",
     ".github", ".org",
     "agent-kenny", "agent-template", "agents", "ai-mktpl", "aitkit", "brew-meta-formula",
