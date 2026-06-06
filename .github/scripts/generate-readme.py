@@ -39,6 +39,8 @@ CATEGORIES = {
         "gs-stack-status",
         "homebrew-devsetup",
         "dotfiles",
+        "govee-ble-plugs",
+        "tilt",
     ],
     "Web & Extensions": [
         "cept",
@@ -55,7 +57,7 @@ def generate_repo_card_html(repo: dict) -> str:
     return f"""<a href="{url}">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/{name}-dark.svg">
-          <img src="cards/{name}-light.svg" alt="{name}" width="400">
+          <img src="cards/{name}-light.svg" alt="{name}" width="280">
         </picture>
       </a>"""
 
@@ -95,6 +97,7 @@ def main():
         "github2",
         "tmux-ui",
         "webrtc-graph-demo",
+        "scratch",  # personal scratch, not for profile
     }
     uncategorized = [
         r["name"]
@@ -176,6 +179,13 @@ def main():
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="cards/claude-usage-dark.svg">
     <img src="cards/claude-usage-light.svg" alt="Claude Code Activity" />
+  </picture>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="cards/commit-activity-dark.svg">
+    <img src="cards/commit-activity-light.svg" alt="ai-mktpl Commit Activity (52 weeks)" />
   </picture>
 </div>
 
