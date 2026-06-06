@@ -1,0 +1,39 @@
+# Plugin configuration for the nsheaps/nsheaps profile repo.
+#
+# This file pairs with .claude/settings.json (which enables the plugins)
+# and tells each plugin how to behave for this repo. It is read by the
+# ai-mktpl plugins' SessionStart hooks. It is modelled on the equivalent
+# config in nsheaps/agents.
+#
+# The 1pass + github-app config below uses the Agent-Jack vault because
+# the OP service-account token provisioned for these sessions has access
+# to it. The github-app token minted from `op://Agent-Jack/github--app--jack`
+# is what lets a session open/update PRs against this repo (the GH_TOKEN in
+# web sessions is proxy-scoped and can't reach api.github.com directly).
+# Flip the vault name in `1pass.opExec.items` and `github-app.ref` to switch.
+
+1pass:
+  opExec:
+    items:
+      - 'op://Agent-Jack/ENVIRONMENT'
+      - 'op://Agent-Jack/github--app--jack'
+    targets:
+      # envLocal: writes $AGENT_HOME_DIR/.env.local (sourced via .envrc
+      # in agent launches). sessionStartBashEnv: appends `export` lines
+      # into $CLAUDE_ENV_FILE so the github-app plugin's SessionStart
+      # hook sees GITHUB_APP_ID / GITHUB_INSTALLATION_ID /
+      # GITHUB_APP_PRIVATE_KEY without needing a prior shell session.
+      - envLocal
+      - sessionStartBashEnv
+    recursiveResolve: true
+
+github-app:
+  ref: 'op://Agent-Jack/github--app--jack'
+  autoGitConfig: true
+
+github:
+  autoInstall: false
+
+mise:
+  autoInstallTools: true
+  autoTrust: true

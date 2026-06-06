@@ -17,6 +17,55 @@ CARDS_DIR = REPO_DIR / "cards"
 
 USERNAME = "nsheaps"
 WEEKS_TO_SHOW = 30
+
+# ---------------------------------------------------------------------------
+# What counts as "Claude Code usage" (edit this section to tune the graph)
+# ---------------------------------------------------------------------------
+# Commit searches are scoped to repositories owned by this account/org.
+OWNER = "nsheaps"
+
+# gh search commits caps results at 1000 per query.
+SEARCH_LIMIT = 1000
+
+# Commit identities for the AI agents and Claude itself. Each email below is
+# matched as BOTH the commit author and the committer. These are the bot/agent
+# git identities discovered across the nsheaps org repos:
+#   - Claude Code (direct commits, e.g. cept, op-exec, gs-stack-status)
+#   - Claude Code GitHub App
+#   - Jack, Henry, Alex (the nsheaps AI agents)
+# Add a new agent by appending its commit email here.
+AGENT_COMMIT_EMAILS = [
+    "noreply@anthropic.com",  # claude (direct)
+    "221249200+claude-code-gather[bot]@users.noreply.github.com",  # claude (app)
+    "254347511+jack-nsheaps[bot]@users.noreply.github.com",  # jack
+    "246599473+henry-nsheaps[bot]@users.noreply.github.com",  # henry
+    "279051173+alex-nsheaps[bot]@users.noreply.github.com",  # alex
+]
+
+# Free-text commit-message searches, filtered by a specific author login. This
+# captures human commits that reference a Claude Code session (the original
+# behavior of this script).
+MESSAGE_SEARCHES = [
+    {"author": USERNAME, "query": "claude.ai/code"},
+]
+
+
+def build_search_specs() -> list[dict]:
+    """Assemble the list of gh-search-commits queries to run.
+
+    Each spec is a dict whose keys map to gh search flags (any subset of
+    ``author``, ``committer``, ``author_email``, ``committer_email``,
+    ``query``). Specs are combined as a union and deduplicated by commit SHA,
+    so a commit matching multiple specs is only counted once.
+    """
+    specs: list[dict] = list(MESSAGE_SEARCHES)
+    for email in AGENT_COMMIT_EMAILS:
+        # Author OR committer: gh ANDs flags within a query, so use two specs.
+        specs.append({"author_email": email})
+        specs.append({"committer_email": email})
+    return specs
+
+
 CELL_SIZE = 11
 CELL_GAP = 3
 CELL_RADIUS = 2
@@ -59,59 +108,73 @@ MONTH_LABELS = [
 DAY_LABELS = ["Mon", "Wed", "Fri"]
 
 
-def fetch_claude_commits() -> dict[str, int]:
-    """Fetch commit counts per day that contain Claude Code session URLs.
+def run_commit_search(spec: dict) -> list[dict]:
+    """Run a single ``gh search commits`` query and return the parsed results.
 
-    Returns a dict mapping date strings (YYYY-MM-DD) to commit counts.
+    ``spec`` keys map onto gh flags (``author``, ``committer``,
+    ``author_email``, ``committer_email``, ``query``). All searches are scoped
+    to ``OWNER``.
     """
-    # Search commits across all user repos for Claude Code session URLs
-    # Use gh search commits which searches commit messages
-    counts: dict[str, int] = {}
-    page = 1
-    per_page = 100
+    cmd = [
+        "gh",
+        "search",
+        "commits",
+        "--owner",
+        OWNER,
+        "--order",
+        "desc",
+        "--sort",
+        "committer-date",
+        "--limit",
+        str(SEARCH_LIMIT),
+        "--json",
+        "sha,commit",
+    ]
+    if spec.get("author"):
+        cmd += ["--author", spec["author"]]
+    if spec.get("committer"):
+        cmd += ["--committer", spec["committer"]]
+    if spec.get("author_email"):
+        cmd += ["--author-email", spec["author_email"]]
+    if spec.get("committer_email"):
+        cmd += ["--committer-email", spec["committer_email"]]
+    if spec.get("query"):
+        cmd += ["--", spec["query"]]
 
-    while True:
-        try:
-            result = subprocess.run(
-                [
-                    "gh",
-                    "search",
-                    "commits",
-                    "--author",
-                    USERNAME,
-                    "--order",
-                    "desc",
-                    "--sort",
-                    "committer-date",
-                    "--limit",
-                    str(per_page),
-                    "--json",
-                    "commit",
-                    "--",
-                    "claude.ai/code",
-                ],
-                capture_output=True,
-                text=True,
-                check=True,
-            )
-        except (subprocess.CalledProcessError, FileNotFoundError) as e:
-            print(f"Warning: gh search failed: {e}", file=sys.stderr)
-            break
+    try:
+        result = subprocess.run(cmd, capture_output=True, text=True, check=True)
+    except (subprocess.CalledProcessError, FileNotFoundError) as e:
+        print(f"Warning: gh search failed for {spec}: {e}", file=sys.stderr)
+        return []
 
-        commits = json.loads(result.stdout)
-        if not commits:
-            break
+    return json.loads(result.stdout)
 
-        for item in commits:
+
+def fetch_claude_commits() -> dict[str, int]:
+    """Fetch per-day commit counts for all configured Claude Code searches.
+
+    Runs every spec from :func:`build_search_specs` (human session-URL commits
+    plus the AI agents' author/committer commits), deduplicates by commit SHA
+    so each commit is counted once, and returns a dict mapping date strings
+    (YYYY-MM-DD) to commit counts.
+    """
+    seen: dict[str, str] = {}  # commit SHA -> commit day (YYYY-MM-DD)
+
+    for spec in build_search_specs():
+        for item in run_commit_search(spec):
             committer = item.get("commit", {}).get("committer", {})
             date_str = committer.get("date", "")
-            if date_str:
-                # Parse ISO date, keep just the date part
-                day = date_str[:10]
-                counts[day] = counts.get(day, 0) + 1
+            if not date_str:
+                continue
+            day = date_str[:10]
+            # Fall back to a synthetic key if a SHA is somehow missing, so we
+            # never silently drop a real commit.
+            sha = item.get("sha") or f"{date_str}:{len(seen)}"
+            seen[sha] = day
 
-        # gh search commits --limit handles pagination internally
-        break
+    counts: dict[str, int] = {}
+    for day in seen.values():
+        counts[day] = counts.get(day, 0) + 1
 
     return counts
 
