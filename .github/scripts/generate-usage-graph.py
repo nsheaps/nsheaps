@@ -94,8 +94,8 @@ def fetch_claude_commits() -> dict[str, int]:
                 text=True,
                 check=True,
             )
-        except subprocess.CalledProcessError as e:
-            print(f"Warning: gh search failed: {e.stderr}", file=sys.stderr)
+        except (subprocess.CalledProcessError, FileNotFoundError) as e:
+            print(f"Warning: gh search failed: {e}", file=sys.stderr)
             break
 
         commits = json.loads(result.stdout)
@@ -308,6 +308,171 @@ def generate_heatmap_svg(
     return "\n".join(parts)
 
 
+def fetch_commit_activity(owner: str = "nsheaps", repo: str = "ai-mktpl") -> list[dict]:
+    """Fetch 52-week commit activity from GitHub REST API.
+
+    The /stats/commit_activity endpoint may return 202 (empty body) while GitHub
+    computes the stats. Retry up to 5 times with 3-second sleeps.
+
+    Returns a list of weekly dicts: {total, week (unix ts), days: [7 ints]}.
+    Returns empty list on failure (degrade gracefully).
+    """
+    import time
+
+    for attempt in range(5):
+        try:
+            result = subprocess.run(
+                [
+                    "gh",
+                    "api",
+                    f"repos/{owner}/{repo}/stats/commit_activity",
+                    "--hostname",
+                    "github.com",
+                ],
+                capture_output=True,
+                text=True,
+            )
+            if result.returncode != 0:
+                print(
+                    f"Warning: commit_activity API error (attempt {attempt+1}): {result.stderr.strip()}",
+                    file=sys.stderr,
+                )
+                time.sleep(3)
+                continue
+
+            body = result.stdout.strip()
+            if not body or body == "null":
+                print(
+                    f"Warning: commit_activity returned empty (attempt {attempt+1}/5), retrying...",
+                    file=sys.stderr,
+                )
+                time.sleep(3)
+                continue
+
+            data = json.loads(body)
+            if isinstance(data, list) and data:
+                print(f"Fetched {len(data)} weeks of commit activity for {owner}/{repo}")
+                return data
+
+            time.sleep(3)
+        except Exception as e:
+            print(f"Warning: commit_activity fetch error (attempt {attempt+1}): {e}", file=sys.stderr)
+            time.sleep(3)
+
+    print("Warning: could not fetch commit activity data; graph will be empty.", file=sys.stderr)
+    return []
+
+
+def generate_commit_graph_svg(weekly_data: list[dict], theme_name: str) -> str:
+    """Generate a weekly bar-chart SVG for commit activity.
+
+    Renders 52 weeks (or whatever is available) as vertical bars.
+    Follows the same visual style as generate_heatmap_svg().
+    """
+    t = THEMES[theme_name]
+
+    BAR_W = 8
+    BAR_GAP = 2
+    NUM_WEEKS = 52
+    MAX_BAR_H = 60
+    PADDING = 16
+    TITLE_H = 28
+    BOTTOM_LABEL_H = 20
+    CHART_H = MAX_BAR_H + BOTTOM_LABEL_H
+    SVG_W = PADDING + NUM_WEEKS * (BAR_W + BAR_GAP) + PADDING
+    SVG_H = TITLE_H + CHART_H + PADDING * 2
+
+    totals = [w.get("total", 0) for w in weekly_data] if weekly_data else [0] * NUM_WEEKS
+    # Pad or trim to exactly 52 weeks
+    while len(totals) < NUM_WEEKS:
+        totals.insert(0, 0)
+    totals = totals[-NUM_WEEKS:]
+
+    max_total = max(totals) if any(totals) else 1
+    grand_total = sum(totals)
+
+    # Month labels: derive from week unix timestamps
+    month_labels: list[tuple[int, str]] = []  # (bar_index, month_abbr)
+    MONTH_ABBR = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]
+    last_month = -1
+    for i, w in enumerate(weekly_data[-NUM_WEEKS:]):
+        ts = w.get("week", 0)
+        if ts:
+            dt = datetime.utcfromtimestamp(ts)
+            if dt.month != last_month:
+                month_labels.append((i, MONTH_ABBR[dt.month - 1]))
+                last_month = dt.month
+
+    parts = []
+    parts.append(
+        f'<svg width="{SVG_W}" height="{SVG_H}" '
+        f'viewBox="0 0 {SVG_W} {SVG_H}" '
+        f'xmlns="http://www.w3.org/2000/svg">'
+    )
+    parts.append(
+        f'  <rect x="0.5" y="0.5" width="{SVG_W - 1}" height="{SVG_H - 1}" '
+        f'rx="6" fill="{t["bg"]}" stroke="{t["border"]}" stroke-width="1" />'
+    )
+
+    # Title
+    parts.append(
+        f'  <text x="{PADDING}" y="{PADDING + 16}" fill="{t["text"]}" '
+        f'font-size="14" font-weight="600" '
+        f'font-family="-apple-system,BlinkMacSystemFont,\'Segoe UI\',Helvetica,Arial,sans-serif">'
+        f"ai-mktpl Commit Activity</text>"
+    )
+    # Subtitle
+    parts.append(
+        f'  <text x="{SVG_W - PADDING}" y="{PADDING + 16}" fill="{t["subtext"]}" '
+        f'font-size="11" text-anchor="end" '
+        f'font-family="-apple-system,BlinkMacSystemFont,\'Segoe UI\',Helvetica,Arial,sans-serif">'
+        f"{grand_total} commits in 52 weeks</text>"
+    )
+
+    # Bar chart
+    bar_area_y = PADDING + TITLE_H
+    bar_bottom = bar_area_y + MAX_BAR_H
+
+    for i, total in enumerate(totals):
+        bar_h = int(MAX_BAR_H * total / max_total) if max_total > 0 else 0
+        bar_h = max(bar_h, 1) if total > 0 else 0
+        bx = PADDING + i * (BAR_W + BAR_GAP)
+        by = bar_bottom - bar_h
+        # Use level-based color (same palette as heatmap)
+        if total == 0:
+            color = t["empty"]
+        else:
+            ratio = total / max_total
+            if ratio <= 0.25:
+                color = t["levels"][1]
+            elif ratio <= 0.50:
+                color = t["levels"][2]
+            elif ratio <= 0.75:
+                color = t["levels"][3]
+            else:
+                color = t["levels"][4]
+        tooltip = f"{total} commits (week {i+1})"
+        parts.append(
+            f'  <rect x="{bx}" y="{by}" width="{BAR_W}" height="{max(bar_h, 1) if total > 0 else 2}" '
+            f'rx="1" fill="{color}">'
+            f"<title>{escape_xml(tooltip)}</title></rect>"
+        )
+
+    # Month labels below bars
+    label_y = bar_bottom + 14
+    for bar_i, abbr in month_labels:
+        lx = PADDING + bar_i * (BAR_W + BAR_GAP)
+        parts.append(
+            f'  <text x="{lx}" y="{label_y}" fill="{t["subtext"]}" '
+            f'font-size="9" '
+            f'font-family="-apple-system,BlinkMacSystemFont,\'Segoe UI\',Helvetica,Arial,sans-serif">'
+            f"{abbr}</text>"
+        )
+
+    parts.append("</svg>")
+    return "\n".join(parts)
+
+
 def main():
     CARDS_DIR.mkdir(exist_ok=True)
 
@@ -318,6 +483,16 @@ def main():
     for theme_name in THEMES:
         svg = generate_heatmap_svg(counts, theme_name)
         path = CARDS_DIR / f"claude-usage-{theme_name}.svg"
+        path.write_text(svg)
+        print(f"Generated {path}")
+
+    # Generate ai-mktpl commit-activity bar chart
+    print("Fetching ai-mktpl commit activity (52 weeks)...")
+    weekly_data = fetch_commit_activity("nsheaps", "ai-mktpl")
+
+    for theme_name in THEMES:
+        svg = generate_commit_graph_svg(weekly_data, theme_name)
+        path = CARDS_DIR / f"commit-activity-{theme_name}.svg"
         path.write_text(svg)
         print(f"Generated {path}")
 
