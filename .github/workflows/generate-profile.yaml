@@ -3,6 +3,14 @@ name: generate-profile
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/scripts/generate-cards.py'
+      - '.github/scripts/generate-readme.py'
+      - '.github/scripts/generate-usage-graph.py'
+      - '.github/workflows/generate-profile.yaml'
   schedule:
     # Regenerate daily at 6am UTC
     - cron: '0 6 * * *'
