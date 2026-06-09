@@ -7,21 +7,9 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/.org",
-    "pushed_at": "2026-06-08T05:29:30Z",
+    "pushed_at": "2026-06-09T00:33:32Z",
     "private": true,
-    "recent_commits": 309
-  },
-  {
-    "name": "ai-mktpl",
-    "full_name": "nsheaps/ai-mktpl",
-    "description": "",
-    "language": "Shell",
-    "stars": 3,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/ai-mktpl",
-    "pushed_at": "2026-06-08T05:28:34Z",
-    "private": false,
-    "recent_commits": 118
+    "recent_commits": 364
   },
   {
     "name": ".ai-agent-jack",
@@ -31,9 +19,21 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/.ai-agent-jack",
-    "pushed_at": "2026-06-08T05:12:24Z",
+    "pushed_at": "2026-06-08T23:33:50Z",
     "private": true,
-    "recent_commits": 222
+    "recent_commits": 232
+  },
+  {
+    "name": "renovate-config",
+    "full_name": "nsheaps/renovate-config",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/renovate-config",
+    "pushed_at": "2026-06-08T22:13:05Z",
+    "private": false,
+    "recent_commits": 30
   },
   {
     "name": "homebrew-devsetup",
@@ -43,21 +43,9 @@
     "stars": 3,
     "forks": 1,
     "url": "https://github.com/nsheaps/homebrew-devsetup",
-    "pushed_at": "2026-06-08T04:34:12Z",
+    "pushed_at": "2026-06-08T21:06:51Z",
     "private": false,
-    "recent_commits": 278
-  },
-  {
-    "name": "agents",
-    "full_name": "nsheaps/agents",
-    "description": "Provider-agnostic agent team orchestration",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/agents",
-    "pushed_at": "2026-06-08T04:33:14Z",
-    "private": false,
-    "recent_commits": 431
+    "recent_commits": 293
   },
   {
     "name": "claude-utils",
@@ -67,9 +55,165 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/claude-utils",
-    "pushed_at": "2026-06-08T06:01:29Z",
+    "pushed_at": "2026-06-08T21:06:26Z",
     "private": false,
-    "recent_commits": 130
+    "recent_commits": 142
+  },
+  {
+    "name": "ai-mktpl",
+    "full_name": "nsheaps/ai-mktpl",
+    "description": "",
+    "language": "Shell",
+    "stars": 3,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/ai-mktpl",
+    "pushed_at": "2026-06-08T23:35:52Z",
+    "private": false,
+    "recent_commits": 128
+  },
+  {
+    "name": "op-exec",
+    "full_name": "nsheaps/op-exec",
+    "description": "Execute commands with 1Password secrets as environment variables",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/op-exec",
+    "pushed_at": "2026-06-08T18:56:36Z",
+    "private": false,
+    "recent_commits": 49
+  },
+  {
+    "name": "agents",
+    "full_name": "nsheaps/agents",
+    "description": "Provider-agnostic agent team orchestration",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/agents",
+    "pushed_at": "2026-06-08T18:53:21Z",
+    "private": false,
+    "recent_commits": 435
+  },
+  {
+    "name": ".ai-agent-alex",
+    "full_name": "nsheaps/.ai-agent-alex",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/.ai-agent-alex",
+    "pushed_at": "2026-06-08T20:03:50Z",
+    "private": true,
+    "recent_commits": 714
+  },
+  {
+    "name": "iac",
+    "full_name": "nsheaps/iac",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/iac",
+    "pushed_at": "2026-06-08T23:36:47Z",
+    "private": true,
+    "recent_commits": 51
+  },
+  {
+    "name": "nsheaps",
+    "full_name": "nsheaps/nsheaps",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 1,
+    "url": "https://github.com/nsheaps/nsheaps",
+    "pushed_at": "2026-06-08T08:01:58Z",
+    "private": false,
+    "recent_commits": 101
+  },
+  {
+    "name": "scratch",
+    "full_name": "nsheaps/scratch",
+    "description": "Scratch repo for ClawHub plugin research",
+    "language": "",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/scratch",
+    "pushed_at": "2026-06-08T07:59:30Z",
+    "private": true,
+    "recent_commits": 5
+  },
+  {
+    "name": "public-scratch",
+    "full_name": "nsheaps/public-scratch",
+    "description": "",
+    "language": "",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/public-scratch",
+    "pushed_at": "2026-06-08T07:59:31Z",
+    "private": false,
+    "recent_commits": 5
+  },
+  {
+    "name": "greasemonkey-scripts",
+    "full_name": "nsheaps/greasemonkey-scripts",
+    "description": "Monorepo for Greasy Fork userscripts",
+    "language": "TypeScript",
+    "stars": 1,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/greasemonkey-scripts",
+    "pushed_at": "2026-06-08T07:59:14Z",
+    "private": false,
+    "recent_commits": 5
+  },
+  {
+    "name": "agent-template",
+    "full_name": "nsheaps/agent-template",
+    "description": "",
+    "language": "",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/agent-template",
+    "pushed_at": "2026-06-08T07:59:14Z",
+    "private": false,
+    "recent_commits": 5
+  },
+  {
+    "name": "govee-ble-plugs",
+    "full_name": "nsheaps/govee-ble-plugs",
+    "description": "Control your Govee Smart Plugs via BLE directly from HomeAssistant",
+    "language": "Python",
+    "stars": 1,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/govee-ble-plugs",
+    "pushed_at": "2026-06-08T07:59:13Z",
+    "private": false,
+    "recent_commits": 5
+  },
+  {
+    "name": "tilt",
+    "full_name": "nsheaps/tilt",
+    "description": "Define your dev environment as code. For microservice apps on Kubernetes.",
+    "language": "Go",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/tilt",
+    "pushed_at": "2026-06-08T07:59:12Z",
+    "private": false,
+    "recent_commits": 5
+  },
+  {
+    "name": ".github",
+    "full_name": "nsheaps/.github",
+    "description": "",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/.github",
+    "pushed_at": "2026-06-08T20:01:37Z",
+    "private": true,
+    "recent_commits": 94
   },
   {
     "name": "cept",
@@ -91,129 +235,9 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/.ai-agent-henry",
-    "pushed_at": "2026-06-08T05:01:59Z",
+    "pushed_at": "2026-06-08T21:13:09Z",
     "private": true,
     "recent_commits": 105
-  },
-  {
-    "name": ".ai-agent-alex",
-    "full_name": "nsheaps/.ai-agent-alex",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/.ai-agent-alex",
-    "pushed_at": "2026-06-08T06:06:53Z",
-    "private": true,
-    "recent_commits": 713
-  },
-  {
-    "name": "public-scratch",
-    "full_name": "nsheaps/public-scratch",
-    "description": "",
-    "language": "",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/public-scratch",
-    "pushed_at": "2026-06-07T20:11:05Z",
-    "private": false,
-    "recent_commits": 4
-  },
-  {
-    "name": "scratch",
-    "full_name": "nsheaps/scratch",
-    "description": "Scratch repo for ClawHub plugin research",
-    "language": "",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/scratch",
-    "pushed_at": "2026-06-07T20:11:04Z",
-    "private": true,
-    "recent_commits": 4
-  },
-  {
-    "name": "iac",
-    "full_name": "nsheaps/iac",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/iac",
-    "pushed_at": "2026-06-07T20:35:05Z",
-    "private": true,
-    "recent_commits": 48
-  },
-  {
-    "name": "nsheaps",
-    "full_name": "nsheaps/nsheaps",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 1,
-    "url": "https://github.com/nsheaps/nsheaps",
-    "pushed_at": "2026-06-07T20:09:47Z",
-    "private": false,
-    "recent_commits": 99
-  },
-  {
-    "name": "agent-template",
-    "full_name": "nsheaps/agent-template",
-    "description": "",
-    "language": "",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/agent-template",
-    "pushed_at": "2026-06-07T20:09:46Z",
-    "private": false,
-    "recent_commits": 4
-  },
-  {
-    "name": "greasemonkey-scripts",
-    "full_name": "nsheaps/greasemonkey-scripts",
-    "description": "Monorepo for Greasy Fork userscripts",
-    "language": "TypeScript",
-    "stars": 1,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/greasemonkey-scripts",
-    "pushed_at": "2026-06-07T20:09:44Z",
-    "private": false,
-    "recent_commits": 4
-  },
-  {
-    "name": "govee-ble-plugs",
-    "full_name": "nsheaps/govee-ble-plugs",
-    "description": "Control your Govee Smart Plugs via BLE directly from HomeAssistant",
-    "language": "Python",
-    "stars": 1,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/govee-ble-plugs",
-    "pushed_at": "2026-06-07T20:09:44Z",
-    "private": false,
-    "recent_commits": 4
-  },
-  {
-    "name": "tilt",
-    "full_name": "nsheaps/tilt",
-    "description": "Define your dev environment as code. For microservice apps on Kubernetes.",
-    "language": "Go",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/tilt",
-    "pushed_at": "2026-06-07T20:09:41Z",
-    "private": false,
-    "recent_commits": 4
-  },
-  {
-    "name": "renovate-config",
-    "full_name": "nsheaps/renovate-config",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/renovate-config",
-    "pushed_at": "2026-06-07T20:20:29Z",
-    "private": false,
-    "recent_commits": 30
   },
   {
     "name": "private-pages",
@@ -238,18 +262,6 @@
     "pushed_at": "2026-06-07T20:07:46Z",
     "private": false,
     "recent_commits": 6
-  },
-  {
-    "name": ".github",
-    "full_name": "nsheaps/.github",
-    "description": "",
-    "language": "Python",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/.github",
-    "pushed_at": "2026-06-07T20:06:32Z",
-    "private": true,
-    "recent_commits": 93
   },
   {
     "name": "github2",
@@ -396,18 +408,6 @@
     "recent_commits": 14
   },
   {
-    "name": "op-exec",
-    "full_name": "nsheaps/op-exec",
-    "description": "Execute commands with 1Password secrets as environment variables",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/op-exec",
-    "pushed_at": "2026-06-06T20:55:51Z",
-    "private": false,
-    "recent_commits": 46
-  },
-  {
     "name": "git-wt",
     "full_name": "nsheaps/git-wt",
     "description": "",
@@ -475,7 +475,7 @@
     "stars": 1,
     "forks": 0,
     "url": "https://github.com/nsheaps/github-actions",
-    "pushed_at": "2026-06-02T15:16:19Z",
+    "pushed_at": "2026-06-08T19:40:37Z",
     "private": false,
     "recent_commits": 12
   },
