@@ -203,12 +203,6 @@
           <img src="cards/github-actions-light.svg" alt="github-actions" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/pull-from-upstream">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/pull-from-upstream-dark.svg">
-          <img src="cards/pull-from-upstream-light.svg" alt="pull-from-upstream" width="400">
-        </picture>
-      </a>
   <a href="https://github.com/nsheaps/renovate-config">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/renovate-config-dark.svg">
@@ -300,6 +294,12 @@
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/agents-dark.svg">
           <img src="cards/agents-light.svg" alt="agents" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/aiMark">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/aiMark-dark.svg">
+          <img src="cards/aiMark-light.svg" alt="aiMark" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/.ai-agent-alex">
