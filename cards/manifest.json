@@ -7,21 +7,9 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/.org",
-    "pushed_at": "2026-06-26T06:14:54Z",
+    "pushed_at": "2026-06-27T06:13:46Z",
     "private": true,
-    "recent_commits": 842
-  },
-  {
-    "name": "cept",
-    "full_name": "nsheaps/cept",
-    "description": "Share your ideas and con-cept-ions with the world",
-    "language": "TypeScript",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/cept",
-    "pushed_at": "2026-06-26T06:14:44Z",
-    "private": false,
-    "recent_commits": 110
+    "recent_commits": 875
   },
   {
     "name": ".ai-agent-jack",
@@ -31,9 +19,9 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/.ai-agent-jack",
-    "pushed_at": "2026-06-26T06:08:27Z",
+    "pushed_at": "2026-06-27T06:12:45Z",
     "private": true,
-    "recent_commits": 166
+    "recent_commits": 171
   },
   {
     "name": "homebrew-devsetup",
@@ -43,9 +31,9 @@
     "stars": 3,
     "forks": 1,
     "url": "https://github.com/nsheaps/homebrew-devsetup",
-    "pushed_at": "2026-06-26T04:36:31Z",
+    "pushed_at": "2026-06-27T04:26:37Z",
     "private": false,
-    "recent_commits": 427
+    "recent_commits": 435
   },
   {
     "name": "claude-utils",
@@ -55,69 +43,9 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/claude-utils",
-    "pushed_at": "2026-06-26T04:36:09Z",
+    "pushed_at": "2026-06-27T04:26:16Z",
     "private": false,
-    "recent_commits": 259
-  },
-  {
-    "name": "agents",
-    "full_name": "nsheaps/agents",
-    "description": "Provider-agnostic agent team orchestration",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/agents",
-    "pushed_at": "2026-06-26T01:57:35Z",
-    "private": false,
-    "recent_commits": 256
-  },
-  {
-    "name": "ai-mktpl",
-    "full_name": "nsheaps/ai-mktpl",
-    "description": "",
-    "language": "Shell",
-    "stars": 3,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/ai-mktpl",
-    "pushed_at": "2026-06-26T00:43:11Z",
-    "private": false,
-    "recent_commits": 118
-  },
-  {
-    "name": "nsheaps",
-    "full_name": "nsheaps/nsheaps",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 1,
-    "url": "https://github.com/nsheaps/nsheaps",
-    "pushed_at": "2026-06-25T07:12:15Z",
-    "private": false,
-    "recent_commits": 105
-  },
-  {
-    "name": ".ai-agent-alex",
-    "full_name": "nsheaps/.ai-agent-alex",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/.ai-agent-alex",
-    "pushed_at": "2026-06-25T05:51:37Z",
-    "private": true,
-    "recent_commits": 473
-  },
-  {
-    "name": ".ai-agent-henry",
-    "full_name": "nsheaps/.ai-agent-henry",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/.ai-agent-henry",
-    "pushed_at": "2026-06-26T05:58:39Z",
-    "private": true,
-    "recent_commits": 74
+    "recent_commits": 264
   },
   {
     "name": "renovate-config",
@@ -127,9 +55,81 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/renovate-config",
-    "pushed_at": "2026-06-25T04:40:06Z",
+    "pushed_at": "2026-06-27T05:55:56Z",
     "private": false,
     "recent_commits": 13
+  },
+  {
+    "name": "ai-mktpl",
+    "full_name": "nsheaps/ai-mktpl",
+    "description": "",
+    "language": "Shell",
+    "stars": 3,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/ai-mktpl",
+    "pushed_at": "2026-06-27T02:11:40Z",
+    "private": false,
+    "recent_commits": 120
+  },
+  {
+    "name": "agents",
+    "full_name": "nsheaps/agents",
+    "description": "Provider-agnostic agent team orchestration",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/agents",
+    "pushed_at": "2026-06-27T04:58:09Z",
+    "private": false,
+    "recent_commits": 208
+  },
+  {
+    "name": ".ai-agent-henry",
+    "full_name": "nsheaps/.ai-agent-henry",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/.ai-agent-henry",
+    "pushed_at": "2026-06-27T04:55:58Z",
+    "private": true,
+    "recent_commits": 76
+  },
+  {
+    "name": ".ai-agent-alex",
+    "full_name": "nsheaps/.ai-agent-alex",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/.ai-agent-alex",
+    "pushed_at": "2026-06-27T01:30:55Z",
+    "private": true,
+    "recent_commits": 385
+  },
+  {
+    "name": "cept",
+    "full_name": "nsheaps/cept",
+    "description": "Share your ideas and con-cept-ions with the world",
+    "language": "TypeScript",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/cept",
+    "pushed_at": "2026-06-27T01:04:39Z",
+    "private": false,
+    "recent_commits": 111
+  },
+  {
+    "name": "nsheaps",
+    "full_name": "nsheaps/nsheaps",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 1,
+    "url": "https://github.com/nsheaps/nsheaps",
+    "pushed_at": "2026-06-26T07:18:41Z",
+    "private": false,
+    "recent_commits": 105
   },
   {
     "name": "aitkit",
@@ -153,7 +153,7 @@
     "url": "https://github.com/nsheaps/iac",
     "pushed_at": "2026-06-23T21:09:08Z",
     "private": true,
-    "recent_commits": 52
+    "recent_commits": 48
   },
   {
     "name": ".github",
@@ -163,9 +163,9 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/.github",
-    "pushed_at": "2026-06-24T20:52:38Z",
+    "pushed_at": "2026-06-26T20:53:09Z",
     "private": true,
-    "recent_commits": 92
+    "recent_commits": 79
   },
   {
     "name": "git-wt",
@@ -343,7 +343,7 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/claude-code-sessions",
-    "pushed_at": "2026-06-20T15:42:28Z",
+    "pushed_at": "2026-06-27T03:02:31Z",
     "private": true,
     "recent_commits": 17
   },
