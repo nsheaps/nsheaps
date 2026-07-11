@@ -7,33 +7,9 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/.org",
-    "pushed_at": "2026-07-10T06:18:17Z",
+    "pushed_at": "2026-07-11T06:18:53Z",
     "private": true,
-    "recent_commits": 893
-  },
-  {
-    "name": "homebrew-devsetup",
-    "full_name": "nsheaps/homebrew-devsetup",
-    "description": "A template for your own homebrew tap. Fork this repo (or copy it) and add your own formula to set up new devices how you want.",
-    "language": "Ruby",
-    "stars": 4,
-    "forks": 1,
-    "url": "https://github.com/nsheaps/homebrew-devsetup",
-    "pushed_at": "2026-07-10T06:17:06Z",
-    "private": false,
-    "recent_commits": 267
-  },
-  {
-    "name": "claude-utils",
-    "full_name": "nsheaps/claude-utils",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/claude-utils",
-    "pushed_at": "2026-07-10T06:16:28Z",
-    "private": false,
-    "recent_commits": 274
+    "recent_commits": 873
   },
   {
     "name": ".ai-agent-jack",
@@ -43,9 +19,9 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/.ai-agent-jack",
-    "pushed_at": "2026-07-10T05:55:30Z",
+    "pushed_at": "2026-07-11T06:18:35Z",
     "private": true,
-    "recent_commits": 159
+    "recent_commits": 154
   },
   {
     "name": "cept",
@@ -55,9 +31,9 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/cept",
-    "pushed_at": "2026-07-10T05:50:40Z",
+    "pushed_at": "2026-07-11T06:10:16Z",
     "private": false,
-    "recent_commits": 65
+    "recent_commits": 58
   },
   {
     "name": "ai-mktpl",
@@ -67,21 +43,33 @@
     "stars": 3,
     "forks": 0,
     "url": "https://github.com/nsheaps/ai-mktpl",
-    "pushed_at": "2026-07-10T02:42:00Z",
+    "pushed_at": "2026-07-11T05:47:05Z",
     "private": false,
-    "recent_commits": 67
+    "recent_commits": 70
   },
   {
-    "name": "renovate-config",
-    "full_name": "nsheaps/renovate-config",
+    "name": "homebrew-devsetup",
+    "full_name": "nsheaps/homebrew-devsetup",
+    "description": "A template for your own homebrew tap. Fork this repo (or copy it) and add your own formula to set up new devices how you want.",
+    "language": "Ruby",
+    "stars": 4,
+    "forks": 1,
+    "url": "https://github.com/nsheaps/homebrew-devsetup",
+    "pushed_at": "2026-07-11T05:16:38Z",
+    "private": false,
+    "recent_commits": 242
+  },
+  {
+    "name": "claude-utils",
+    "full_name": "nsheaps/claude-utils",
     "description": "",
     "language": "Shell",
     "stars": 0,
     "forks": 0,
-    "url": "https://github.com/nsheaps/renovate-config",
-    "pushed_at": "2026-07-10T06:43:19Z",
+    "url": "https://github.com/nsheaps/claude-utils",
+    "pushed_at": "2026-07-11T05:16:11Z",
     "private": false,
-    "recent_commits": 24
+    "recent_commits": 275
   },
   {
     "name": ".ai-agent-alex",
@@ -91,21 +79,21 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/.ai-agent-alex",
-    "pushed_at": "2026-07-09T23:53:31Z",
+    "pushed_at": "2026-07-11T04:48:50Z",
     "private": true,
-    "recent_commits": 25
+    "recent_commits": 13
   },
   {
-    "name": "agents",
-    "full_name": "nsheaps/agents",
-    "description": "Provider-agnostic agent team orchestration",
+    "name": "renovate-config",
+    "full_name": "nsheaps/renovate-config",
+    "description": "",
     "language": "Shell",
     "stars": 0,
     "forks": 0,
-    "url": "https://github.com/nsheaps/agents",
-    "pushed_at": "2026-07-09T23:45:03Z",
+    "url": "https://github.com/nsheaps/renovate-config",
+    "pushed_at": "2026-07-11T03:59:50Z",
     "private": false,
-    "recent_commits": 109
+    "recent_commits": 26
   },
   {
     "name": ".ai-agent-henry",
@@ -115,9 +103,21 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/.ai-agent-henry",
-    "pushed_at": "2026-07-10T06:04:42Z",
+    "pushed_at": "2026-07-11T05:38:15Z",
     "private": true,
-    "recent_commits": 38
+    "recent_commits": 32
+  },
+  {
+    "name": "agents",
+    "full_name": "nsheaps/agents",
+    "description": "Provider-agnostic agent team orchestration",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/agents",
+    "pushed_at": "2026-07-10T23:55:41Z",
+    "private": false,
+    "recent_commits": 80
   },
   {
     "name": "nsheaps",
@@ -127,7 +127,7 @@
     "stars": 0,
     "forks": 1,
     "url": "https://github.com/nsheaps/nsheaps",
-    "pushed_at": "2026-07-09T07:17:10Z",
+    "pushed_at": "2026-07-10T07:11:12Z",
     "private": false,
     "recent_commits": 38
   },
@@ -139,7 +139,7 @@
     "stars": 1,
     "forks": 0,
     "url": "https://github.com/nsheaps/dotfiles",
-    "pushed_at": "2026-07-09T22:11:30Z",
+    "pushed_at": "2026-07-10T17:49:42Z",
     "private": false,
     "recent_commits": 0
   },
@@ -163,7 +163,7 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/.github",
-    "pushed_at": "2026-07-08T23:44:43Z",
+    "pushed_at": "2026-07-11T01:37:28Z",
     "private": true,
     "recent_commits": 4
   },

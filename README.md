@@ -110,16 +110,16 @@
           <img src="cards/iac-light.svg" alt="iac" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/.ai-agent-alex">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/.ai-agent-alex-dark.svg">
-          <img src="cards/.ai-agent-alex-light.svg" alt=".ai-agent-alex" width="400">
-        </picture>
-      </a>
   <a href="https://github.com/nsheaps/renovate-config">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/renovate-config-dark.svg">
           <img src="cards/renovate-config-light.svg" alt="renovate-config" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/.ai-agent-alex">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/.ai-agent-alex-dark.svg">
+          <img src="cards/.ai-agent-alex-light.svg" alt=".ai-agent-alex" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/aitkit">
