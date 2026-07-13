@@ -290,16 +290,22 @@
 ### Other Projects
 
 <p align="center">
-  <a href="https://github.com/nsheaps/agents">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/agents-dark.svg">
-          <img src="cards/agents-light.svg" alt="agents" width="400">
-        </picture>
-      </a>
   <a href="https://github.com/nsheaps/.ai-agent-alex">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/.ai-agent-alex-dark.svg">
           <img src="cards/.ai-agent-alex-light.svg" alt=".ai-agent-alex" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/agent-template">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/agent-template-dark.svg">
+          <img src="cards/agent-template-light.svg" alt="agent-template" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/agents">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/agents-dark.svg">
+          <img src="cards/agents-light.svg" alt="agents" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/aiMark">
@@ -318,12 +324,6 @@
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/public-scratch-dark.svg">
           <img src="cards/public-scratch-light.svg" alt="public-scratch" width="400">
-        </picture>
-      </a>
-  <a href="https://github.com/nsheaps/agent-template">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/agent-template-dark.svg">
-          <img src="cards/agent-template-light.svg" alt="agent-template" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/framework-touchpad-toggle">
