@@ -110,16 +110,16 @@
           <img src="cards/iac-light.svg" alt="iac" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/renovate-config">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/renovate-config-dark.svg">
-          <img src="cards/renovate-config-light.svg" alt="renovate-config" width="400">
-        </picture>
-      </a>
   <a href="https://github.com/nsheaps/.ai-agent-alex">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/.ai-agent-alex-dark.svg">
           <img src="cards/.ai-agent-alex-light.svg" alt=".ai-agent-alex" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/renovate-config">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/renovate-config-dark.svg">
+          <img src="cards/renovate-config-light.svg" alt="renovate-config" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/agent-orchestrators">
@@ -128,10 +128,10 @@
           <img src="cards/agent-orchestrators-light.svg" alt="agent-orchestrators" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/git-wt">
+  <a href="https://github.com/nsheaps/dotfiles">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/git-wt-dark.svg">
-          <img src="cards/git-wt-light.svg" alt="git-wt" width="400">
+          <source media="(prefers-color-scheme: dark)" srcset="cards/dotfiles-dark.svg">
+          <img src="cards/dotfiles-light.svg" alt="dotfiles" width="400">
         </picture>
       </a>
 </p>
