@@ -122,16 +122,16 @@
           <img src="cards/.ai-agent-alex-light.svg" alt=".ai-agent-alex" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/agent-orchestrators">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/agent-orchestrators-dark.svg">
-          <img src="cards/agent-orchestrators-light.svg" alt="agent-orchestrators" width="400">
-        </picture>
-      </a>
   <a href="https://github.com/nsheaps/dotfiles">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/dotfiles-dark.svg">
           <img src="cards/dotfiles-light.svg" alt="dotfiles" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/agent-orchestrators">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/agent-orchestrators-dark.svg">
+          <img src="cards/agent-orchestrators-light.svg" alt="agent-orchestrators" width="400">
         </picture>
       </a>
 </p>
@@ -284,6 +284,12 @@
 ### Other Projects
 
 <p align="center">
+  <a href="https://github.com/nsheaps/agent-jordan">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/agent-jordan-dark.svg">
+          <img src="cards/agent-jordan-light.svg" alt="agent-jordan" width="400">
+        </picture>
+      </a>
   <a href="https://github.com/nsheaps/farish">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/farish-dark.svg">
