@@ -74,16 +74,16 @@
 ### Recently Active
 
 <p align="center">
-  <a href="https://github.com/nsheaps/homebrew-devsetup">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/homebrew-devsetup-dark.svg">
-          <img src="cards/homebrew-devsetup-light.svg" alt="homebrew-devsetup" width="400">
-        </picture>
-      </a>
   <a href="https://github.com/nsheaps/claude-utils">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/claude-utils-dark.svg">
           <img src="cards/claude-utils-light.svg" alt="claude-utils" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/homebrew-devsetup">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/homebrew-devsetup-dark.svg">
+          <img src="cards/homebrew-devsetup-light.svg" alt="homebrew-devsetup" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/ai-mktpl">
@@ -284,6 +284,18 @@
 ### Other Projects
 
 <p align="center">
+  <a href="https://github.com/nsheaps/agents">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/agents-dark.svg">
+          <img src="cards/agents-light.svg" alt="agents" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/.ai-agent-alex">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/.ai-agent-alex-dark.svg">
+          <img src="cards/.ai-agent-alex-light.svg" alt=".ai-agent-alex" width="400">
+        </picture>
+      </a>
   <a href="https://github.com/nsheaps/agent-jordan">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/agent-jordan-dark.svg">
@@ -294,12 +306,6 @@
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/farish-dark.svg">
           <img src="cards/farish-light.svg" alt="farish" width="400">
-        </picture>
-      </a>
-  <a href="https://github.com/nsheaps/agents">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/agents-dark.svg">
-          <img src="cards/agents-light.svg" alt="agents" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/claude-code-sessions">
@@ -342,12 +348,6 @@
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/.ai-agent-pamela-dark.svg">
           <img src="cards/.ai-agent-pamela-light.svg" alt=".ai-agent-pamela" width="400">
-        </picture>
-      </a>
-  <a href="https://github.com/nsheaps/.ai-agent-alex">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/.ai-agent-alex-dark.svg">
-          <img src="cards/.ai-agent-alex-light.svg" alt=".ai-agent-alex" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/agent-template">
