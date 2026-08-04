@@ -7,21 +7,21 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/.org",
-    "pushed_at": "2026-08-03T06:54:04Z",
+    "pushed_at": "2026-08-04T02:29:51Z",
     "private": true,
-    "recent_commits": 940
+    "recent_commits": 936
   },
   {
-    "name": ".ai-agent-jack",
-    "full_name": "nsheaps/.ai-agent-jack",
-    "description": "Jack Oat \u2014 AI agent built on Claude, operating as a member of the nsheaps org",
+    "name": "ai-mktpl",
+    "full_name": "nsheaps/ai-mktpl",
+    "description": "",
     "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/.ai-agent-jack",
-    "pushed_at": "2026-08-03T06:52:43Z",
-    "private": true,
-    "recent_commits": 164
+    "stars": 3,
+    "forks": 1,
+    "url": "https://github.com/nsheaps/ai-mktpl",
+    "pushed_at": "2026-08-04T02:29:38Z",
+    "private": false,
+    "recent_commits": 88
   },
   {
     "name": "homebrew-devsetup",
@@ -31,9 +31,93 @@
     "stars": 5,
     "forks": 1,
     "url": "https://github.com/nsheaps/homebrew-devsetup",
-    "pushed_at": "2026-08-03T05:14:47Z",
+    "pushed_at": "2026-08-03T22:59:57Z",
     "private": false,
     "recent_commits": 249
+  },
+  {
+    "name": "claude-utils",
+    "full_name": "nsheaps/claude-utils",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/claude-utils",
+    "pushed_at": "2026-08-03T22:59:18Z",
+    "private": false,
+    "recent_commits": 230
+  },
+  {
+    "name": ".ai-agent-alex",
+    "full_name": "nsheaps/.ai-agent-alex",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/.ai-agent-alex",
+    "pushed_at": "2026-08-04T05:03:05Z",
+    "private": true,
+    "recent_commits": 59
+  },
+  {
+    "name": "greasemonkey-scripts",
+    "full_name": "nsheaps/greasemonkey-scripts",
+    "description": "Monorepo for Greasy Fork userscripts",
+    "language": "TypeScript",
+    "stars": 1,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/greasemonkey-scripts",
+    "pushed_at": "2026-08-03T22:36:26Z",
+    "private": false,
+    "recent_commits": 23
+  },
+  {
+    "name": ".ai-agent-jack",
+    "full_name": "nsheaps/.ai-agent-jack",
+    "description": "Jack Oat \u2014 AI agent built on Claude, operating as a member of the nsheaps org",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/.ai-agent-jack",
+    "pushed_at": "2026-08-03T20:50:04Z",
+    "private": true,
+    "recent_commits": 162
+  },
+  {
+    "name": "iac",
+    "full_name": "nsheaps/iac",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/iac",
+    "pushed_at": "2026-08-03T16:13:50Z",
+    "private": true,
+    "recent_commits": 62
+  },
+  {
+    "name": "nsheaps",
+    "full_name": "nsheaps/nsheaps",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 1,
+    "url": "https://github.com/nsheaps/nsheaps",
+    "pushed_at": "2026-08-03T07:19:34Z",
+    "private": false,
+    "recent_commits": 51
+  },
+  {
+    "name": ".github",
+    "full_name": "nsheaps/.github",
+    "description": "",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/.github",
+    "pushed_at": "2026-08-03T07:18:17Z",
+    "private": true,
+    "recent_commits": 37
   },
   {
     "name": "agents",
@@ -45,55 +129,7 @@
     "url": "https://github.com/nsheaps/agents",
     "pushed_at": "2026-08-03T05:13:52Z",
     "private": false,
-    "recent_commits": 78
-  },
-  {
-    "name": ".ai-agent-alex",
-    "full_name": "nsheaps/.ai-agent-alex",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/.ai-agent-alex",
-    "pushed_at": "2026-08-03T06:42:56Z",
-    "private": true,
-    "recent_commits": 58
-  },
-  {
-    "name": "ai-mktpl",
-    "full_name": "nsheaps/ai-mktpl",
-    "description": "",
-    "language": "Shell",
-    "stars": 3,
-    "forks": 1,
-    "url": "https://github.com/nsheaps/ai-mktpl",
-    "pushed_at": "2026-08-03T01:44:34Z",
-    "private": false,
-    "recent_commits": 86
-  },
-  {
-    "name": "claude-utils",
-    "full_name": "nsheaps/claude-utils",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/claude-utils",
-    "pushed_at": "2026-08-03T01:10:18Z",
-    "private": false,
-    "recent_commits": 233
-  },
-  {
-    "name": "iac",
-    "full_name": "nsheaps/iac",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/iac",
-    "pushed_at": "2026-08-02T22:17:55Z",
-    "private": true,
-    "recent_commits": 58
+    "recent_commits": 74
   },
   {
     "name": "renovate-config",
@@ -103,21 +139,9 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/renovate-config",
-    "pushed_at": "2026-08-02T18:46:06Z",
+    "pushed_at": "2026-08-03T07:19:27Z",
     "private": false,
-    "recent_commits": 44
-  },
-  {
-    "name": "nsheaps",
-    "full_name": "nsheaps/nsheaps",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 1,
-    "url": "https://github.com/nsheaps/nsheaps",
-    "pushed_at": "2026-08-02T06:53:37Z",
-    "private": false,
-    "recent_commits": 48
+    "recent_commits": 42
   },
   {
     "name": ".ai-agent-henry",
@@ -129,7 +153,7 @@
     "url": "https://github.com/nsheaps/.ai-agent-henry",
     "pushed_at": "2026-08-02T05:53:37Z",
     "private": true,
-    "recent_commits": 17
+    "recent_commits": 16
   },
   {
     "name": "cept",
@@ -156,18 +180,6 @@
     "recent_commits": 31
   },
   {
-    "name": "greasemonkey-scripts",
-    "full_name": "nsheaps/greasemonkey-scripts",
-    "description": "Monorepo for Greasy Fork userscripts",
-    "language": "TypeScript",
-    "stars": 1,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/greasemonkey-scripts",
-    "pushed_at": "2026-07-30T06:02:55Z",
-    "private": false,
-    "recent_commits": 21
-  },
-  {
     "name": "aitkit",
     "full_name": "nsheaps/aitkit",
     "description": "",
@@ -187,21 +199,9 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/op-exec",
-    "pushed_at": "2026-07-28T01:41:14Z",
+    "pushed_at": "2026-08-04T00:47:53Z",
     "private": false,
     "recent_commits": 15
-  },
-  {
-    "name": ".github",
-    "full_name": "nsheaps/.github",
-    "description": "",
-    "language": "Python",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/.github",
-    "pushed_at": "2026-08-02T17:08:48Z",
-    "private": true,
-    "recent_commits": 36
   },
   {
     "name": "github-actions",
@@ -211,7 +211,7 @@
     "stars": 1,
     "forks": 0,
     "url": "https://github.com/nsheaps/github-actions",
-    "pushed_at": "2026-07-27T17:31:34Z",
+    "pushed_at": "2026-08-03T07:19:50Z",
     "private": false,
     "recent_commits": 3
   },
@@ -547,7 +547,7 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/portainer-stacks",
-    "pushed_at": "2026-08-02T00:59:48Z",
+    "pushed_at": "2026-08-03T15:10:26Z",
     "private": false,
     "recent_commits": 0
   },
