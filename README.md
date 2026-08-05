@@ -122,16 +122,16 @@
           <img src="cards/renovate-config-light.svg" alt="renovate-config" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/dotfiles">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/dotfiles-dark.svg">
-          <img src="cards/dotfiles-light.svg" alt="dotfiles" width="400">
-        </picture>
-      </a>
   <a href="https://github.com/nsheaps/greasemonkey-scripts">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/greasemonkey-scripts-dark.svg">
           <img src="cards/greasemonkey-scripts-light.svg" alt="greasemonkey-scripts" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/dotfiles">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/dotfiles-dark.svg">
+          <img src="cards/dotfiles-light.svg" alt="dotfiles" width="400">
         </picture>
       </a>
 </p>
