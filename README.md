@@ -86,16 +86,16 @@
           <img src="cards/claude-utils-light.svg" alt="claude-utils" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/ai-mktpl">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/ai-mktpl-dark.svg">
-          <img src="cards/ai-mktpl-light.svg" alt="ai-mktpl" width="400">
-        </picture>
-      </a>
   <a href="https://github.com/nsheaps/agents">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/agents-dark.svg">
           <img src="cards/agents-light.svg" alt="agents" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/ai-mktpl">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/ai-mktpl-dark.svg">
+          <img src="cards/ai-mktpl-light.svg" alt="ai-mktpl" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/.ai-agent-alex">
@@ -116,16 +116,16 @@
           <img src="cards/iac-light.svg" alt="iac" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/renovate-config">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/renovate-config-dark.svg">
-          <img src="cards/renovate-config-light.svg" alt="renovate-config" width="400">
-        </picture>
-      </a>
   <a href="https://github.com/nsheaps/greasemonkey-scripts">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/greasemonkey-scripts-dark.svg">
           <img src="cards/greasemonkey-scripts-light.svg" alt="greasemonkey-scripts" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/renovate-config">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/renovate-config-dark.svg">
+          <img src="cards/renovate-config-light.svg" alt="renovate-config" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/dotfiles">
