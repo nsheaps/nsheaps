@@ -28,6 +28,7 @@
     recursiveResolve: true
 
 github-app:
+  enabled: true
   ref: 'op://Agent-Jack/github--app--jack'
   autoGitConfig: true
 
