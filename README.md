@@ -98,10 +98,10 @@
           <img src="cards/ai-mktpl-light.svg" alt="ai-mktpl" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/iac">
+  <a href="https://github.com/nsheaps/cept">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/iac-dark.svg">
-          <img src="cards/iac-light.svg" alt="iac" width="400">
+          <source media="(prefers-color-scheme: dark)" srcset="cards/cept-dark.svg">
+          <img src="cards/cept-light.svg" alt="cept" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/greasemonkey-scripts">
@@ -110,10 +110,10 @@
           <img src="cards/greasemonkey-scripts-light.svg" alt="greasemonkey-scripts" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/cept">
+  <a href="https://github.com/nsheaps/iac">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/cept-dark.svg">
-          <img src="cards/cept-light.svg" alt="cept" width="400">
+          <source media="(prefers-color-scheme: dark)" srcset="cards/iac-dark.svg">
+          <img src="cards/iac-light.svg" alt="iac" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/.ai-agent-alex">
@@ -128,10 +128,10 @@
           <img src="cards/renovate-config-light.svg" alt="renovate-config" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/dotfiles">
+  <a href="https://github.com/nsheaps/op-exec">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/dotfiles-dark.svg">
-          <img src="cards/dotfiles-light.svg" alt="dotfiles" width="400">
+          <source media="(prefers-color-scheme: dark)" srcset="cards/op-exec-dark.svg">
+          <img src="cards/op-exec-light.svg" alt="op-exec" width="400">
         </picture>
       </a>
 </p>
@@ -336,12 +336,6 @@
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/claude-code-sessions-dark.svg">
           <img src="cards/claude-code-sessions-light.svg" alt="claude-code-sessions" width="400">
-        </picture>
-      </a>
-  <a href="https://github.com/nsheaps/agent-jordan">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/agent-jordan-dark.svg">
-          <img src="cards/agent-jordan-light.svg" alt="agent-jordan" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/agent-template">
