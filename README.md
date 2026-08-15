@@ -272,6 +272,12 @@
 ### Other Projects
 
 <p align="center">
+  <a href="https://github.com/nsheaps/agent-kenny">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/agent-kenny-dark.svg">
+          <img src="cards/agent-kenny-light.svg" alt="agent-kenny" width="400">
+        </picture>
+      </a>
   <a href="https://github.com/nsheaps/agents">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/agents-dark.svg">
@@ -320,12 +326,6 @@
           <img src="cards/.ai-agent-pamela-light.svg" alt=".ai-agent-pamela" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/agent-kenny">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/agent-kenny-dark.svg">
-          <img src="cards/agent-kenny-light.svg" alt="agent-kenny" width="400">
-        </picture>
-      </a>
   <a href="https://github.com/nsheaps/agent-jordan">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/agent-jordan-dark.svg">
@@ -348,12 +348,6 @@
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/.ai-agent-alex-dark.svg">
           <img src="cards/.ai-agent-alex-light.svg" alt=".ai-agent-alex" width="400">
-        </picture>
-      </a>
-  <a href="https://github.com/nsheaps/vscode-structured-data-viewer">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/vscode-structured-data-viewer-dark.svg">
-          <img src="cards/vscode-structured-data-viewer-light.svg" alt="vscode-structured-data-viewer" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/framework-touchpad-toggle">
