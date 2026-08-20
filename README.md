@@ -104,16 +104,16 @@
           <img src="cards/cept-light.svg" alt="cept" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/greasemonkey-scripts">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/greasemonkey-scripts-dark.svg">
-          <img src="cards/greasemonkey-scripts-light.svg" alt="greasemonkey-scripts" width="400">
-        </picture>
-      </a>
   <a href="https://github.com/nsheaps/iac">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/iac-dark.svg">
           <img src="cards/iac-light.svg" alt="iac" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/greasemonkey-scripts">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/greasemonkey-scripts-dark.svg">
+          <img src="cards/greasemonkey-scripts-light.svg" alt="greasemonkey-scripts" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/renovate-config">
@@ -278,16 +278,16 @@
           <img src="cards/agent-kenny-light.svg" alt="agent-kenny" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/agents">
+  <a href="https://github.com/nsheaps/.ai-agent-qlod">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/agents-dark.svg">
-          <img src="cards/agents-light.svg" alt="agents" width="400">
+          <source media="(prefers-color-scheme: dark)" srcset="cards/.ai-agent-qlod-dark.svg">
+          <img src="cards/.ai-agent-qlod-light.svg" alt=".ai-agent-qlod" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/framework-touchpad-toggle">
+  <a href="https://github.com/nsheaps/brew-meta-formula">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/framework-touchpad-toggle-dark.svg">
-          <img src="cards/framework-touchpad-toggle-light.svg" alt="framework-touchpad-toggle" width="400">
+          <source media="(prefers-color-scheme: dark)" srcset="cards/brew-meta-formula-dark.svg">
+          <img src="cards/brew-meta-formula-light.svg" alt="brew-meta-formula" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/public-scratch">
@@ -296,28 +296,10 @@
           <img src="cards/public-scratch-light.svg" alt="public-scratch" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/.ai-old">
+  <a href="https://github.com/nsheaps/farish">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/.ai-old-dark.svg">
-          <img src="cards/.ai-old-light.svg" alt=".ai-old" width="400">
-        </picture>
-      </a>
-  <a href="https://github.com/nsheaps/claude-code-sessions">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/claude-code-sessions-dark.svg">
-          <img src="cards/claude-code-sessions-light.svg" alt="claude-code-sessions" width="400">
-        </picture>
-      </a>
-  <a href="https://github.com/nsheaps/claude-daemon-setup">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/claude-daemon-setup-dark.svg">
-          <img src="cards/claude-daemon-setup-light.svg" alt="claude-daemon-setup" width="400">
-        </picture>
-      </a>
-  <a href="https://github.com/nsheaps/daemon-agent-template">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/daemon-agent-template-dark.svg">
-          <img src="cards/daemon-agent-template-light.svg" alt="daemon-agent-template" width="400">
+          <source media="(prefers-color-scheme: dark)" srcset="cards/farish-dark.svg">
+          <img src="cards/farish-light.svg" alt="farish" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/claudesh">
@@ -326,46 +308,22 @@
           <img src="cards/claudesh-light.svg" alt="claudesh" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/.ai-agent-pamela">
+  <a href="https://github.com/nsheaps/framework-touchpad-toggle">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/.ai-agent-pamela-dark.svg">
-          <img src="cards/.ai-agent-pamela-light.svg" alt=".ai-agent-pamela" width="400">
+          <source media="(prefers-color-scheme: dark)" srcset="cards/framework-touchpad-toggle-dark.svg">
+          <img src="cards/framework-touchpad-toggle-light.svg" alt="framework-touchpad-toggle" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/agent-jordan">
+  <a href="https://github.com/nsheaps/claude-daemon-setup">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/agent-jordan-dark.svg">
-          <img src="cards/agent-jordan-light.svg" alt="agent-jordan" width="400">
+          <source media="(prefers-color-scheme: dark)" srcset="cards/claude-daemon-setup-dark.svg">
+          <img src="cards/claude-daemon-setup-light.svg" alt="claude-daemon-setup" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/.ai-agent-qlod">
+  <a href="https://github.com/nsheaps/.ai-old">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/.ai-agent-qlod-dark.svg">
-          <img src="cards/.ai-agent-qlod-light.svg" alt=".ai-agent-qlod" width="400">
-        </picture>
-      </a>
-  <a href="https://github.com/nsheaps/agent-template">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/agent-template-dark.svg">
-          <img src="cards/agent-template-light.svg" alt="agent-template" width="400">
-        </picture>
-      </a>
-  <a href="https://github.com/nsheaps/.ai-agent-alex">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/.ai-agent-alex-dark.svg">
-          <img src="cards/.ai-agent-alex-light.svg" alt=".ai-agent-alex" width="400">
-        </picture>
-      </a>
-  <a href="https://github.com/nsheaps/farish">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/farish-dark.svg">
-          <img src="cards/farish-light.svg" alt="farish" width="400">
-        </picture>
-      </a>
-  <a href="https://github.com/nsheaps/agent-orchestrators">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/agent-orchestrators-dark.svg">
-          <img src="cards/agent-orchestrators-light.svg" alt="agent-orchestrators" width="400">
+          <source media="(prefers-color-scheme: dark)" srcset="cards/.ai-old-dark.svg">
+          <img src="cards/.ai-old-light.svg" alt=".ai-old" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/n8n">
@@ -374,10 +332,52 @@
           <img src="cards/n8n-light.svg" alt="n8n" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/brew-meta-formula">
+  <a href="https://github.com/nsheaps/claude-code-sessions">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/brew-meta-formula-dark.svg">
-          <img src="cards/brew-meta-formula-light.svg" alt="brew-meta-formula" width="400">
+          <source media="(prefers-color-scheme: dark)" srcset="cards/claude-code-sessions-dark.svg">
+          <img src="cards/claude-code-sessions-light.svg" alt="claude-code-sessions" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/daemon-agent-template">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/daemon-agent-template-dark.svg">
+          <img src="cards/daemon-agent-template-light.svg" alt="daemon-agent-template" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/agent-jordan">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/agent-jordan-dark.svg">
+          <img src="cards/agent-jordan-light.svg" alt="agent-jordan" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/agents">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/agents-dark.svg">
+          <img src="cards/agents-light.svg" alt="agents" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/.ai-agent-pamela">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/.ai-agent-pamela-dark.svg">
+          <img src="cards/.ai-agent-pamela-light.svg" alt=".ai-agent-pamela" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/agent-template">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/agent-template-dark.svg">
+          <img src="cards/agent-template-light.svg" alt="agent-template" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/agent-orchestrators">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/agent-orchestrators-dark.svg">
+          <img src="cards/agent-orchestrators-light.svg" alt="agent-orchestrators" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/.ai-agent-alex">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/.ai-agent-alex-dark.svg">
+          <img src="cards/.ai-agent-alex-light.svg" alt=".ai-agent-alex" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/aiMark">
