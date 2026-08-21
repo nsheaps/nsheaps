@@ -7,45 +7,33 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/.org",
-    "pushed_at": "2026-08-20T05:27:55Z",
+    "pushed_at": "2026-08-21T05:58:00Z",
     "private": true,
-    "recent_commits": 1098
+    "recent_commits": 1123
   },
   {
-    "name": ".ai-agent-jack",
-    "full_name": "nsheaps/.ai-agent-jack",
-    "description": "Jack Oat \u2014 AI agent built on Claude, operating as a member of the nsheaps org",
-    "language": "Shell",
-    "stars": 0,
+    "name": "greasemonkey-scripts",
+    "full_name": "nsheaps/greasemonkey-scripts",
+    "description": "Monorepo for Greasy Fork userscripts",
+    "language": "TypeScript",
+    "stars": 1,
     "forks": 0,
-    "url": "https://github.com/nsheaps/.ai-agent-jack",
-    "pushed_at": "2026-08-20T05:26:36Z",
-    "private": true,
-    "recent_commits": 201
-  },
-  {
-    "name": "renovate-config",
-    "full_name": "nsheaps/renovate-config",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/renovate-config",
-    "pushed_at": "2026-08-20T05:10:51Z",
+    "url": "https://github.com/nsheaps/greasemonkey-scripts",
+    "pushed_at": "2026-08-21T05:57:03Z",
     "private": false,
-    "recent_commits": 67
+    "recent_commits": 75
   },
   {
-    "name": "cept",
-    "full_name": "nsheaps/cept",
-    "description": "Share your ideas and con-cept-ions with the world",
+    "name": "cors-proxy",
+    "full_name": "nsheaps/cors-proxy",
+    "description": "",
     "language": "TypeScript",
     "stars": 0,
     "forks": 0,
-    "url": "https://github.com/nsheaps/cept",
-    "pushed_at": "2026-08-20T02:19:46Z",
+    "url": "https://github.com/nsheaps/cors-proxy",
+    "pushed_at": "2026-08-21T02:06:03Z",
     "private": false,
-    "recent_commits": 105
+    "recent_commits": 44
   },
   {
     "name": "homebrew-devsetup",
@@ -55,9 +43,9 @@
     "stars": 5,
     "forks": 1,
     "url": "https://github.com/nsheaps/homebrew-devsetup",
-    "pushed_at": "2026-08-20T01:00:29Z",
+    "pushed_at": "2026-08-21T01:33:36Z",
     "private": false,
-    "recent_commits": 318
+    "recent_commits": 323
   },
   {
     "name": "claude-utils",
@@ -67,9 +55,69 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/claude-utils",
-    "pushed_at": "2026-08-20T00:59:25Z",
+    "pushed_at": "2026-08-21T01:32:37Z",
     "private": false,
-    "recent_commits": 195
+    "recent_commits": 199
+  },
+  {
+    "name": "agent-kenny",
+    "full_name": "nsheaps/agent-kenny",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/agent-kenny",
+    "pushed_at": "2026-08-21T05:56:01Z",
+    "private": true,
+    "recent_commits": 36
+  },
+  {
+    "name": "renovate-config",
+    "full_name": "nsheaps/renovate-config",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/renovate-config",
+    "pushed_at": "2026-08-21T01:13:29Z",
+    "private": false,
+    "recent_commits": 67
+  },
+  {
+    "name": ".ai-agent-jack",
+    "full_name": "nsheaps/.ai-agent-jack",
+    "description": "Jack Oat \u2014 AI agent built on Claude, operating as a member of the nsheaps org",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/.ai-agent-jack",
+    "pushed_at": "2026-08-20T22:08:37Z",
+    "private": true,
+    "recent_commits": 204
+  },
+  {
+    "name": "git-wt",
+    "full_name": "nsheaps/git-wt",
+    "description": "",
+    "language": "Shell",
+    "stars": 1,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/git-wt",
+    "pushed_at": "2026-08-20T18:31:00Z",
+    "private": false,
+    "recent_commits": 44
+  },
+  {
+    "name": ".ai-agent-henry",
+    "full_name": "nsheaps/.ai-agent-henry",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/.ai-agent-henry",
+    "pushed_at": "2026-08-21T02:12:52Z",
+    "private": true,
+    "recent_commits": 29
   },
   {
     "name": "private-pages",
@@ -79,9 +127,69 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/private-pages",
-    "pushed_at": "2026-08-19T23:51:19Z",
+    "pushed_at": "2026-08-21T06:05:24Z",
     "private": false,
-    "recent_commits": 46
+    "recent_commits": 47
+  },
+  {
+    "name": "cept",
+    "full_name": "nsheaps/cept",
+    "description": "Share your ideas and con-cept-ions with the world",
+    "language": "TypeScript",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/cept",
+    "pushed_at": "2026-08-21T04:41:58Z",
+    "private": false,
+    "recent_commits": 112
+  },
+  {
+    "name": "framework-touchpad-toggle",
+    "full_name": "nsheaps/framework-touchpad-toggle",
+    "description": "Toggle the Framework laptop internal touchpad on Linux (GNOME X11/Wayland)",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/framework-touchpad-toggle",
+    "pushed_at": "2026-08-20T15:56:30Z",
+    "private": false,
+    "recent_commits": 31
+  },
+  {
+    "name": "dotfiles",
+    "full_name": "nsheaps/dotfiles",
+    "description": "",
+    "language": "Shell",
+    "stars": 1,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/dotfiles",
+    "pushed_at": "2026-08-20T15:59:20Z",
+    "private": false,
+    "recent_commits": 37
+  },
+  {
+    "name": "op-exec",
+    "full_name": "nsheaps/op-exec",
+    "description": "Execute commands with 1Password secrets as environment variables",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/op-exec",
+    "pushed_at": "2026-08-20T15:13:39Z",
+    "private": false,
+    "recent_commits": 51
+  },
+  {
+    "name": "nsheaps",
+    "full_name": "nsheaps/nsheaps",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 1,
+    "url": "https://github.com/nsheaps/nsheaps",
+    "pushed_at": "2026-08-20T06:09:16Z",
+    "private": false,
+    "recent_commits": 96
   },
   {
     "name": "iac",
@@ -93,31 +201,19 @@
     "url": "https://github.com/nsheaps/iac",
     "pushed_at": "2026-08-19T23:37:30Z",
     "private": true,
-    "recent_commits": 84
+    "recent_commits": 82
   },
   {
-    "name": "agent-kenny",
-    "full_name": "nsheaps/agent-kenny",
-    "description": "",
+    "name": "gs-stack-status",
+    "full_name": "nsheaps/gs-stack-status",
+    "description": "Terminal dashboard for git-spice stacked branch workflows",
     "language": "Shell",
     "stars": 0,
     "forks": 0,
-    "url": "https://github.com/nsheaps/agent-kenny",
-    "pushed_at": "2026-08-20T05:41:47Z",
-    "private": true,
-    "recent_commits": 34
-  },
-  {
-    "name": "cors-proxy",
-    "full_name": "nsheaps/cors-proxy",
-    "description": "",
-    "language": "TypeScript",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/cors-proxy",
-    "pushed_at": "2026-08-19T23:02:05Z",
+    "url": "https://github.com/nsheaps/gs-stack-status",
+    "pushed_at": "2026-08-20T20:44:10Z",
     "private": false,
-    "recent_commits": 42
+    "recent_commits": 38
   },
   {
     "name": ".ai-agent-qlod",
@@ -132,18 +228,6 @@
     "recent_commits": 17
   },
   {
-    "name": "gs-stack-status",
-    "full_name": "nsheaps/gs-stack-status",
-    "description": "Terminal dashboard for git-spice stacked branch workflows",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/gs-stack-status",
-    "pushed_at": "2026-08-19T23:04:29Z",
-    "private": false,
-    "recent_commits": 38
-  },
-  {
     "name": "brew-meta-formula",
     "full_name": "nsheaps/brew-meta-formula",
     "description": "A repo for brew to use to install meta formula, since brew requires downloading something that contains a file",
@@ -154,18 +238,6 @@
     "pushed_at": "2026-08-19T17:56:41Z",
     "private": false,
     "recent_commits": 18
-  },
-  {
-    "name": "nsheaps",
-    "full_name": "nsheaps/nsheaps",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 1,
-    "url": "https://github.com/nsheaps/nsheaps",
-    "pushed_at": "2026-08-20T00:00:24Z",
-    "private": false,
-    "recent_commits": 96
   },
   {
     "name": "public-scratch",
@@ -192,18 +264,6 @@
     "recent_commits": 113
   },
   {
-    "name": "git-wt",
-    "full_name": "nsheaps/git-wt",
-    "description": "",
-    "language": "Shell",
-    "stars": 1,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/git-wt",
-    "pushed_at": "2026-08-19T23:03:16Z",
-    "private": false,
-    "recent_commits": 42
-  },
-  {
     "name": "farish",
     "full_name": "nsheaps/farish",
     "description": "an app to use AI (BYOK) to generate 3d models for you to print based on your description and parameters.",
@@ -228,18 +288,6 @@
     "recent_commits": 17
   },
   {
-    "name": "dotfiles",
-    "full_name": "nsheaps/dotfiles",
-    "description": "",
-    "language": "Shell",
-    "stars": 1,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/dotfiles",
-    "pushed_at": "2026-08-19T22:54:16Z",
-    "private": false,
-    "recent_commits": 35
-  },
-  {
     "name": "scratch",
     "full_name": "nsheaps/scratch",
     "description": "Scratch repo for ClawHub plugin research",
@@ -250,18 +298,6 @@
     "pushed_at": "2026-08-19T17:56:15Z",
     "private": true,
     "recent_commits": 18
-  },
-  {
-    "name": "framework-touchpad-toggle",
-    "full_name": "nsheaps/framework-touchpad-toggle",
-    "description": "Toggle the Framework laptop internal touchpad on Linux (GNOME X11/Wayland)",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/framework-touchpad-toggle",
-    "pushed_at": "2026-08-19T23:28:33Z",
-    "private": false,
-    "recent_commits": 30
   },
   {
     "name": "claude-daemon-setup",
@@ -343,33 +379,9 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/aitkit",
-    "pushed_at": "2026-08-20T05:00:20Z",
+    "pushed_at": "2026-08-20T15:33:32Z",
     "private": true,
-    "recent_commits": 25
-  },
-  {
-    "name": "op-exec",
-    "full_name": "nsheaps/op-exec",
-    "description": "Execute commands with 1Password secrets as environment variables",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/op-exec",
-    "pushed_at": "2026-08-19T23:39:35Z",
-    "private": false,
-    "recent_commits": 49
-  },
-  {
-    "name": ".ai-agent-henry",
-    "full_name": "nsheaps/.ai-agent-henry",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/.ai-agent-henry",
-    "pushed_at": "2026-08-20T01:55:04Z",
-    "private": true,
-    "recent_commits": 28
+    "recent_commits": 22
   },
   {
     "name": "daemon-agent-template",
@@ -499,21 +511,9 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/.ai-agent-alex",
-    "pushed_at": "2026-08-20T02:03:33Z",
+    "pushed_at": "2026-08-21T05:58:13Z",
     "private": true,
     "recent_commits": 62
-  },
-  {
-    "name": "greasemonkey-scripts",
-    "full_name": "nsheaps/greasemonkey-scripts",
-    "description": "Monorepo for Greasy Fork userscripts",
-    "language": "TypeScript",
-    "stars": 1,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/greasemonkey-scripts",
-    "pushed_at": "2026-08-19T22:02:20Z",
-    "private": false,
-    "recent_commits": 78
   },
   {
     "name": "github-actions",

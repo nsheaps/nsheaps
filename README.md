@@ -278,6 +278,12 @@
           <img src="cards/agent-kenny-light.svg" alt="agent-kenny" width="400">
         </picture>
       </a>
+  <a href="https://github.com/nsheaps/framework-touchpad-toggle">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/framework-touchpad-toggle-dark.svg">
+          <img src="cards/framework-touchpad-toggle-light.svg" alt="framework-touchpad-toggle" width="400">
+        </picture>
+      </a>
   <a href="https://github.com/nsheaps/.ai-agent-qlod">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/.ai-agent-qlod-dark.svg">
@@ -306,12 +312,6 @@
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/claudesh-dark.svg">
           <img src="cards/claudesh-light.svg" alt="claudesh" width="400">
-        </picture>
-      </a>
-  <a href="https://github.com/nsheaps/framework-touchpad-toggle">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/framework-touchpad-toggle-dark.svg">
-          <img src="cards/framework-touchpad-toggle-light.svg" alt="framework-touchpad-toggle" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/claude-daemon-setup">
