@@ -7,9 +7,105 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/.org",
-    "pushed_at": "2026-08-21T05:58:00Z",
+    "pushed_at": "2026-08-22T02:00:45Z",
     "private": true,
-    "recent_commits": 1123
+    "recent_commits": 1127
+  },
+  {
+    "name": "homebrew-devsetup",
+    "full_name": "nsheaps/homebrew-devsetup",
+    "description": "A template for your own homebrew tap. Fork this repo (or copy it) and add your own formula to set up new devices how you want.",
+    "language": "Ruby",
+    "stars": 5,
+    "forks": 1,
+    "url": "https://github.com/nsheaps/homebrew-devsetup",
+    "pushed_at": "2026-08-22T01:59:57Z",
+    "private": false,
+    "recent_commits": 307
+  },
+  {
+    "name": "claude-utils",
+    "full_name": "nsheaps/claude-utils",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/claude-utils",
+    "pushed_at": "2026-08-22T01:58:59Z",
+    "private": false,
+    "recent_commits": 201
+  },
+  {
+    "name": "cept",
+    "full_name": "nsheaps/cept",
+    "description": "Share your ideas and con-cept-ions with the world",
+    "language": "TypeScript",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/cept",
+    "pushed_at": "2026-08-21T23:14:57Z",
+    "private": false,
+    "recent_commits": 117
+  },
+  {
+    "name": "renovate-config",
+    "full_name": "nsheaps/renovate-config",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/renovate-config",
+    "pushed_at": "2026-08-22T04:42:36Z",
+    "private": false,
+    "recent_commits": 67
+  },
+  {
+    "name": "gs-stack-status",
+    "full_name": "nsheaps/gs-stack-status",
+    "description": "Terminal dashboard for git-spice stacked branch workflows",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/gs-stack-status",
+    "pushed_at": "2026-08-21T17:52:37Z",
+    "private": false,
+    "recent_commits": 39
+  },
+  {
+    "name": "agent-kenny",
+    "full_name": "nsheaps/agent-kenny",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/agent-kenny",
+    "pushed_at": "2026-08-22T05:57:35Z",
+    "private": true,
+    "recent_commits": 37
+  },
+  {
+    "name": "private-pages",
+    "full_name": "nsheaps/private-pages",
+    "description": "A git/GitHub client that uses GitHub app/oauth app auth to load and serve static pages from private repos as if they were served as GitHub pages",
+    "language": "TypeScript",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/private-pages",
+    "pushed_at": "2026-08-21T11:01:58Z",
+    "private": false,
+    "recent_commits": 47
+  },
+  {
+    "name": "nsheaps",
+    "full_name": "nsheaps/nsheaps",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 1,
+    "url": "https://github.com/nsheaps/nsheaps",
+    "pushed_at": "2026-08-21T06:09:15Z",
+    "private": false,
+    "recent_commits": 89
   },
   {
     "name": "greasemonkey-scripts",
@@ -21,7 +117,7 @@
     "url": "https://github.com/nsheaps/greasemonkey-scripts",
     "pushed_at": "2026-08-21T05:57:03Z",
     "private": false,
-    "recent_commits": 75
+    "recent_commits": 72
   },
   {
     "name": "cors-proxy",
@@ -33,55 +129,7 @@
     "url": "https://github.com/nsheaps/cors-proxy",
     "pushed_at": "2026-08-21T02:06:03Z",
     "private": false,
-    "recent_commits": 44
-  },
-  {
-    "name": "homebrew-devsetup",
-    "full_name": "nsheaps/homebrew-devsetup",
-    "description": "A template for your own homebrew tap. Fork this repo (or copy it) and add your own formula to set up new devices how you want.",
-    "language": "Ruby",
-    "stars": 5,
-    "forks": 1,
-    "url": "https://github.com/nsheaps/homebrew-devsetup",
-    "pushed_at": "2026-08-21T01:33:36Z",
-    "private": false,
-    "recent_commits": 323
-  },
-  {
-    "name": "claude-utils",
-    "full_name": "nsheaps/claude-utils",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/claude-utils",
-    "pushed_at": "2026-08-21T01:32:37Z",
-    "private": false,
-    "recent_commits": 199
-  },
-  {
-    "name": "agent-kenny",
-    "full_name": "nsheaps/agent-kenny",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/agent-kenny",
-    "pushed_at": "2026-08-21T05:56:01Z",
-    "private": true,
-    "recent_commits": 36
-  },
-  {
-    "name": "renovate-config",
-    "full_name": "nsheaps/renovate-config",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/renovate-config",
-    "pushed_at": "2026-08-21T01:13:29Z",
-    "private": false,
-    "recent_commits": 67
+    "recent_commits": 43
   },
   {
     "name": ".ai-agent-jack",
@@ -93,7 +141,7 @@
     "url": "https://github.com/nsheaps/.ai-agent-jack",
     "pushed_at": "2026-08-20T22:08:37Z",
     "private": true,
-    "recent_commits": 204
+    "recent_commits": 203
   },
   {
     "name": "git-wt",
@@ -105,7 +153,7 @@
     "url": "https://github.com/nsheaps/git-wt",
     "pushed_at": "2026-08-20T18:31:00Z",
     "private": false,
-    "recent_commits": 44
+    "recent_commits": 42
   },
   {
     "name": ".ai-agent-henry",
@@ -115,33 +163,9 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/.ai-agent-henry",
-    "pushed_at": "2026-08-21T02:12:52Z",
+    "pushed_at": "2026-08-22T02:30:10Z",
     "private": true,
-    "recent_commits": 29
-  },
-  {
-    "name": "private-pages",
-    "full_name": "nsheaps/private-pages",
-    "description": "A git/GitHub client that uses GitHub app/oauth app auth to load and serve static pages from private repos as if they were served as GitHub pages",
-    "language": "TypeScript",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/private-pages",
-    "pushed_at": "2026-08-21T06:05:24Z",
-    "private": false,
-    "recent_commits": 47
-  },
-  {
-    "name": "cept",
-    "full_name": "nsheaps/cept",
-    "description": "Share your ideas and con-cept-ions with the world",
-    "language": "TypeScript",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/cept",
-    "pushed_at": "2026-08-21T04:41:58Z",
-    "private": false,
-    "recent_commits": 112
+    "recent_commits": 28
   },
   {
     "name": "framework-touchpad-toggle",
@@ -153,7 +177,7 @@
     "url": "https://github.com/nsheaps/framework-touchpad-toggle",
     "pushed_at": "2026-08-20T15:56:30Z",
     "private": false,
-    "recent_commits": 31
+    "recent_commits": 30
   },
   {
     "name": "dotfiles",
@@ -165,7 +189,7 @@
     "url": "https://github.com/nsheaps/dotfiles",
     "pushed_at": "2026-08-20T15:59:20Z",
     "private": false,
-    "recent_commits": 37
+    "recent_commits": 36
   },
   {
     "name": "op-exec",
@@ -180,18 +204,6 @@
     "recent_commits": 51
   },
   {
-    "name": "nsheaps",
-    "full_name": "nsheaps/nsheaps",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 1,
-    "url": "https://github.com/nsheaps/nsheaps",
-    "pushed_at": "2026-08-20T06:09:16Z",
-    "private": false,
-    "recent_commits": 96
-  },
-  {
     "name": "iac",
     "full_name": "nsheaps/iac",
     "description": "",
@@ -201,19 +213,7 @@
     "url": "https://github.com/nsheaps/iac",
     "pushed_at": "2026-08-19T23:37:30Z",
     "private": true,
-    "recent_commits": 82
-  },
-  {
-    "name": "gs-stack-status",
-    "full_name": "nsheaps/gs-stack-status",
-    "description": "Terminal dashboard for git-spice stacked branch workflows",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/gs-stack-status",
-    "pushed_at": "2026-08-20T20:44:10Z",
-    "private": false,
-    "recent_commits": 38
+    "recent_commits": 72
   },
   {
     "name": ".ai-agent-qlod",
@@ -225,7 +225,7 @@
     "url": "https://github.com/nsheaps/.ai-agent-qlod",
     "pushed_at": "2026-08-19T17:52:33Z",
     "private": true,
-    "recent_commits": 17
+    "recent_commits": 16
   },
   {
     "name": "brew-meta-formula",
@@ -237,7 +237,7 @@
     "url": "https://github.com/nsheaps/brew-meta-formula",
     "pushed_at": "2026-08-19T17:56:41Z",
     "private": false,
-    "recent_commits": 18
+    "recent_commits": 17
   },
   {
     "name": "public-scratch",
@@ -249,7 +249,7 @@
     "url": "https://github.com/nsheaps/public-scratch",
     "pushed_at": "2026-08-19T17:52:41Z",
     "private": false,
-    "recent_commits": 17
+    "recent_commits": 16
   },
   {
     "name": "ai-mktpl",
@@ -261,7 +261,7 @@
     "url": "https://github.com/nsheaps/ai-mktpl",
     "pushed_at": "2026-08-19T17:54:32Z",
     "private": false,
-    "recent_commits": 113
+    "recent_commits": 105
   },
   {
     "name": "farish",
@@ -273,7 +273,7 @@
     "url": "https://github.com/nsheaps/farish",
     "pushed_at": "2026-08-19T17:55:29Z",
     "private": false,
-    "recent_commits": 18
+    "recent_commits": 17
   },
   {
     "name": "claudesh",
@@ -285,7 +285,7 @@
     "url": "https://github.com/nsheaps/claudesh",
     "pushed_at": "2026-08-19T17:52:35Z",
     "private": false,
-    "recent_commits": 17
+    "recent_commits": 16
   },
   {
     "name": "scratch",
@@ -297,7 +297,7 @@
     "url": "https://github.com/nsheaps/scratch",
     "pushed_at": "2026-08-19T17:56:15Z",
     "private": true,
-    "recent_commits": 18
+    "recent_commits": 17
   },
   {
     "name": "claude-daemon-setup",
@@ -321,7 +321,7 @@
     "url": "https://github.com/nsheaps/.ai-old",
     "pushed_at": "2026-08-19T17:52:39Z",
     "private": true,
-    "recent_commits": 17
+    "recent_commits": 16
   },
   {
     "name": "govee-ble-plugs",
@@ -333,7 +333,7 @@
     "url": "https://github.com/nsheaps/govee-ble-plugs",
     "pushed_at": "2026-08-19T17:52:26Z",
     "private": false,
-    "recent_commits": 17
+    "recent_commits": 16
   },
   {
     "name": "n8n",
@@ -345,7 +345,7 @@
     "url": "https://github.com/nsheaps/n8n",
     "pushed_at": "2026-08-19T17:52:18Z",
     "private": true,
-    "recent_commits": 17
+    "recent_commits": 16
   },
   {
     "name": "github2",
@@ -357,7 +357,7 @@
     "url": "https://github.com/nsheaps/github2",
     "pushed_at": "2026-08-19T17:54:32Z",
     "private": true,
-    "recent_commits": 28
+    "recent_commits": 26
   },
   {
     "name": "claude-code-sessions",
@@ -369,7 +369,7 @@
     "url": "https://github.com/nsheaps/claude-code-sessions",
     "pushed_at": "2026-08-19T23:58:43Z",
     "private": true,
-    "recent_commits": 17
+    "recent_commits": 16
   },
   {
     "name": "aitkit",
@@ -381,7 +381,7 @@
     "url": "https://github.com/nsheaps/aitkit",
     "pushed_at": "2026-08-20T15:33:32Z",
     "private": true,
-    "recent_commits": 22
+    "recent_commits": 21
   },
   {
     "name": "daemon-agent-template",
@@ -396,18 +396,6 @@
     "recent_commits": 19
   },
   {
-    "name": "agent-jordan",
-    "full_name": "nsheaps/agent-jordan",
-    "description": "Agent Jordan Goldman - NFA",
-    "language": "",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/agent-jordan",
-    "pushed_at": "2026-08-19T17:52:35Z",
-    "private": true,
-    "recent_commits": 21
-  },
-  {
     "name": "agents",
     "full_name": "nsheaps/agents",
     "description": "Provider-agnostic agent team orchestration",
@@ -417,7 +405,7 @@
     "url": "https://github.com/nsheaps/agents",
     "pushed_at": "2026-08-19T23:52:10Z",
     "private": false,
-    "recent_commits": 116
+    "recent_commits": 114
   },
   {
     "name": ".ai-agent-pamela",
@@ -429,7 +417,7 @@
     "url": "https://github.com/nsheaps/.ai-agent-pamela",
     "pushed_at": "2026-08-19T17:52:31Z",
     "private": true,
-    "recent_commits": 17
+    "recent_commits": 16
   },
   {
     "name": "agent-template",
@@ -441,7 +429,7 @@
     "url": "https://github.com/nsheaps/agent-template",
     "pushed_at": "2026-08-19T17:56:43Z",
     "private": false,
-    "recent_commits": 18
+    "recent_commits": 17
   },
   {
     "name": "obsidian-vaults",
@@ -453,7 +441,7 @@
     "url": "https://github.com/nsheaps/obsidian-vaults",
     "pushed_at": "2026-08-19T17:53:40Z",
     "private": true,
-    "recent_commits": 18
+    "recent_commits": 17
   },
   {
     "name": "tilt",
@@ -465,7 +453,7 @@
     "url": "https://github.com/nsheaps/tilt",
     "pushed_at": "2026-08-19T17:52:26Z",
     "private": false,
-    "recent_commits": 17
+    "recent_commits": 16
   },
   {
     "name": "agent-orchestrators",
@@ -477,7 +465,7 @@
     "url": "https://github.com/nsheaps/agent-orchestrators",
     "pushed_at": "2026-08-19T17:52:20Z",
     "private": false,
-    "recent_commits": 17
+    "recent_commits": 16
   },
   {
     "name": ".github",
@@ -489,7 +477,7 @@
     "url": "https://github.com/nsheaps/.github",
     "pushed_at": "2026-08-19T23:47:41Z",
     "private": true,
-    "recent_commits": 73
+    "recent_commits": 62
   },
   {
     "name": "workspaces",
@@ -501,7 +489,7 @@
     "url": "https://github.com/nsheaps/workspaces",
     "pushed_at": "2026-08-19T17:56:25Z",
     "private": true,
-    "recent_commits": 18
+    "recent_commits": 17
   },
   {
     "name": ".ai-agent-alex",
@@ -511,9 +499,9 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/.ai-agent-alex",
-    "pushed_at": "2026-08-21T05:58:13Z",
+    "pushed_at": "2026-08-22T05:50:42Z",
     "private": true,
-    "recent_commits": 62
+    "recent_commits": 61
   },
   {
     "name": "github-actions",
