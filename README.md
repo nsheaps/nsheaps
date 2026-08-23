@@ -104,16 +104,16 @@
           <img src="cards/ai-mktpl-light.svg" alt="ai-mktpl" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/greasemonkey-scripts">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/greasemonkey-scripts-dark.svg">
-          <img src="cards/greasemonkey-scripts-light.svg" alt="greasemonkey-scripts" width="400">
-        </picture>
-      </a>
   <a href="https://github.com/nsheaps/iac">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/iac-dark.svg">
           <img src="cards/iac-light.svg" alt="iac" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/greasemonkey-scripts">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/greasemonkey-scripts-dark.svg">
+          <img src="cards/greasemonkey-scripts-light.svg" alt="greasemonkey-scripts" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/renovate-config">
