@@ -104,16 +104,16 @@
           <img src="cards/ai-mktpl-light.svg" alt="ai-mktpl" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/greasemonkey-scripts">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/greasemonkey-scripts-dark.svg">
-          <img src="cards/greasemonkey-scripts-light.svg" alt="greasemonkey-scripts" width="400">
-        </picture>
-      </a>
   <a href="https://github.com/nsheaps/iac">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/iac-dark.svg">
           <img src="cards/iac-light.svg" alt="iac" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/greasemonkey-scripts">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/greasemonkey-scripts-dark.svg">
+          <img src="cards/greasemonkey-scripts-light.svg" alt="greasemonkey-scripts" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/renovate-config">
@@ -272,6 +272,12 @@
 ### Other Projects
 
 <p align="center">
+  <a href="https://github.com/nsheaps/agent-kenny">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/agent-kenny-dark.svg">
+          <img src="cards/agent-kenny-light.svg" alt="agent-kenny" width="400">
+        </picture>
+      </a>
   <a href="https://github.com/nsheaps/.ai-agent-alex">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/.ai-agent-alex-dark.svg">
@@ -282,12 +288,6 @@
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/agents-dark.svg">
           <img src="cards/agents-light.svg" alt="agents" width="400">
-        </picture>
-      </a>
-  <a href="https://github.com/nsheaps/agent-kenny">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/agent-kenny-dark.svg">
-          <img src="cards/agent-kenny-light.svg" alt="agent-kenny" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/framework-touchpad-toggle">
