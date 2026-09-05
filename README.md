@@ -110,16 +110,16 @@
           <img src="cards/iac-light.svg" alt="iac" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/greasemonkey-scripts">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/greasemonkey-scripts-dark.svg">
-          <img src="cards/greasemonkey-scripts-light.svg" alt="greasemonkey-scripts" width="400">
-        </picture>
-      </a>
   <a href="https://github.com/nsheaps/renovate-config">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/renovate-config-dark.svg">
           <img src="cards/renovate-config-light.svg" alt="renovate-config" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/greasemonkey-scripts">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/greasemonkey-scripts-dark.svg">
+          <img src="cards/greasemonkey-scripts-light.svg" alt="greasemonkey-scripts" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/private-pages">
@@ -278,6 +278,12 @@
           <img src="cards/agent-kenny-light.svg" alt="agent-kenny" width="400">
         </picture>
       </a>
+  <a href="https://github.com/nsheaps/framework-touchpad-toggle">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/framework-touchpad-toggle-dark.svg">
+          <img src="cards/framework-touchpad-toggle-light.svg" alt="framework-touchpad-toggle" width="400">
+        </picture>
+      </a>
   <a href="https://github.com/nsheaps/.ai-agent-alex">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/.ai-agent-alex-dark.svg">
@@ -288,12 +294,6 @@
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/agents-dark.svg">
           <img src="cards/agents-light.svg" alt="agents" width="400">
-        </picture>
-      </a>
-  <a href="https://github.com/nsheaps/framework-touchpad-toggle">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/framework-touchpad-toggle-dark.svg">
-          <img src="cards/framework-touchpad-toggle-light.svg" alt="framework-touchpad-toggle" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/claude-code-sessions">
