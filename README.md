@@ -80,16 +80,16 @@
           <img src="cards/homebrew-devsetup-light.svg" alt="homebrew-devsetup" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/claude-utils">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/claude-utils-dark.svg">
-          <img src="cards/claude-utils-light.svg" alt="claude-utils" width="400">
-        </picture>
-      </a>
   <a href="https://github.com/nsheaps/cept">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/cept-dark.svg">
           <img src="cards/cept-light.svg" alt="cept" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/claude-utils">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/claude-utils-dark.svg">
+          <img src="cards/claude-utils-light.svg" alt="claude-utils" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/agents">
@@ -110,28 +110,28 @@
           <img src="cards/iac-light.svg" alt="iac" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/renovate-config">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/renovate-config-dark.svg">
-          <img src="cards/renovate-config-light.svg" alt="renovate-config" width="400">
-        </picture>
-      </a>
-  <a href="https://github.com/nsheaps/greasemonkey-scripts">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/greasemonkey-scripts-dark.svg">
-          <img src="cards/greasemonkey-scripts-light.svg" alt="greasemonkey-scripts" width="400">
-        </picture>
-      </a>
   <a href="https://github.com/nsheaps/private-pages">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/private-pages-dark.svg">
           <img src="cards/private-pages-light.svg" alt="private-pages" width="400">
         </picture>
       </a>
+  <a href="https://github.com/nsheaps/renovate-config">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/renovate-config-dark.svg">
+          <img src="cards/renovate-config-light.svg" alt="renovate-config" width="400">
+        </picture>
+      </a>
   <a href="https://github.com/nsheaps/git-wt">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/git-wt-dark.svg">
           <img src="cards/git-wt-light.svg" alt="git-wt" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/agent-kenny">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/agent-kenny-dark.svg">
+          <img src="cards/agent-kenny-light.svg" alt="agent-kenny" width="400">
         </picture>
       </a>
 </p>
