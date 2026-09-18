@@ -7,57 +7,9 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/.org",
-    "pushed_at": "2026-09-17T06:03:06Z",
+    "pushed_at": "2026-09-18T05:37:31Z",
     "private": true,
-    "recent_commits": 780
-  },
-  {
-    "name": "private-pages",
-    "full_name": "nsheaps/private-pages",
-    "description": "A git/GitHub client that uses GitHub app/oauth app auth to load and serve static pages from private repos as if they were served as GitHub pages",
-    "language": "TypeScript",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/private-pages",
-    "pushed_at": "2026-09-17T06:02:03Z",
-    "private": false,
-    "recent_commits": 35
-  },
-  {
-    "name": "cept",
-    "full_name": "nsheaps/cept",
-    "description": "Share your ideas and con-cept-ions with the world",
-    "language": "TypeScript",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/cept",
-    "pushed_at": "2026-09-17T05:12:17Z",
-    "private": false,
-    "recent_commits": 69
-  },
-  {
-    "name": "renovate-config",
-    "full_name": "nsheaps/renovate-config",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/renovate-config",
-    "pushed_at": "2026-09-17T05:59:15Z",
-    "private": false,
-    "recent_commits": 42
-  },
-  {
-    "name": "agent-kenny",
-    "full_name": "nsheaps/agent-kenny",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/agent-kenny",
-    "pushed_at": "2026-09-17T04:58:54Z",
-    "private": true,
-    "recent_commits": 36
+    "recent_commits": 768
   },
   {
     "name": "homebrew-devsetup",
@@ -67,9 +19,69 @@
     "stars": 5,
     "forks": 1,
     "url": "https://github.com/nsheaps/homebrew-devsetup",
-    "pushed_at": "2026-09-16T22:10:08Z",
+    "pushed_at": "2026-09-18T05:37:02Z",
     "private": false,
     "recent_commits": 184
+  },
+  {
+    "name": "framework-touchpad-toggle",
+    "full_name": "nsheaps/framework-touchpad-toggle",
+    "description": "Toggle the Framework laptop internal touchpad on Linux (GNOME X11/Wayland)",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/framework-touchpad-toggle",
+    "pushed_at": "2026-09-18T05:36:00Z",
+    "private": false,
+    "recent_commits": 37
+  },
+  {
+    "name": "agent-kenny",
+    "full_name": "nsheaps/agent-kenny",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/agent-kenny",
+    "pushed_at": "2026-09-18T05:01:04Z",
+    "private": true,
+    "recent_commits": 36
+  },
+  {
+    "name": "renovate-config",
+    "full_name": "nsheaps/renovate-config",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/renovate-config",
+    "pushed_at": "2026-09-18T04:44:05Z",
+    "private": false,
+    "recent_commits": 42
+  },
+  {
+    "name": "gs-stack-status",
+    "full_name": "nsheaps/gs-stack-status",
+    "description": "Terminal dashboard for git-spice stacked branch workflows",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/gs-stack-status",
+    "pushed_at": "2026-09-18T04:54:23Z",
+    "private": false,
+    "recent_commits": 21
+  },
+  {
+    "name": "cept",
+    "full_name": "nsheaps/cept",
+    "description": "Share your ideas and con-cept-ions with the world",
+    "language": "TypeScript",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/cept",
+    "pushed_at": "2026-09-18T02:43:12Z",
+    "private": false,
+    "recent_commits": 67
   },
   {
     "name": "claude-utils",
@@ -79,9 +91,45 @@
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/nsheaps/claude-utils",
-    "pushed_at": "2026-09-16T22:08:55Z",
+    "pushed_at": "2026-09-18T01:15:04Z",
     "private": false,
-    "recent_commits": 74
+    "recent_commits": 72
+  },
+  {
+    "name": "greasemonkey-scripts",
+    "full_name": "nsheaps/greasemonkey-scripts",
+    "description": "Monorepo for Greasy Fork userscripts",
+    "language": "TypeScript",
+    "stars": 1,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/greasemonkey-scripts",
+    "pushed_at": "2026-09-17T17:00:28Z",
+    "private": false,
+    "recent_commits": 28
+  },
+  {
+    "name": "nsheaps",
+    "full_name": "nsheaps/nsheaps",
+    "description": "",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 1,
+    "url": "https://github.com/nsheaps/nsheaps",
+    "pushed_at": "2026-09-17T19:40:12Z",
+    "private": false,
+    "recent_commits": 56
+  },
+  {
+    "name": "private-pages",
+    "full_name": "nsheaps/private-pages",
+    "description": "A git/GitHub client that uses GitHub app/oauth app auth to load and serve static pages from private repos as if they were served as GitHub pages",
+    "language": "TypeScript",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/nsheaps/private-pages",
+    "pushed_at": "2026-09-17T20:02:11Z",
+    "private": false,
+    "recent_commits": 34
   },
   {
     "name": "iac",
@@ -93,7 +141,7 @@
     "url": "https://github.com/nsheaps/iac",
     "pushed_at": "2026-09-16T22:05:35Z",
     "private": true,
-    "recent_commits": 44
+    "recent_commits": 41
   },
   {
     "name": "dotfiles",
@@ -120,18 +168,6 @@
     "recent_commits": 34
   },
   {
-    "name": "framework-touchpad-toggle",
-    "full_name": "nsheaps/framework-touchpad-toggle",
-    "description": "Toggle the Framework laptop internal touchpad on Linux (GNOME X11/Wayland)",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/framework-touchpad-toggle",
-    "pushed_at": "2026-09-16T18:26:31Z",
-    "private": false,
-    "recent_commits": 35
-  },
-  {
     "name": ".ai-agent-henry",
     "full_name": "nsheaps/.ai-agent-henry",
     "description": "",
@@ -144,18 +180,6 @@
     "recent_commits": 10
   },
   {
-    "name": "nsheaps",
-    "full_name": "nsheaps/nsheaps",
-    "description": "",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 1,
-    "url": "https://github.com/nsheaps/nsheaps",
-    "pushed_at": "2026-09-16T13:46:44Z",
-    "private": false,
-    "recent_commits": 56
-  },
-  {
     "name": "aitkit",
     "full_name": "nsheaps/aitkit",
     "description": "",
@@ -165,7 +189,7 @@
     "url": "https://github.com/nsheaps/aitkit",
     "pushed_at": "2026-09-17T06:04:35Z",
     "private": true,
-    "recent_commits": 5
+    "recent_commits": 3
   },
   {
     "name": ".ai-agent-alex",
@@ -180,18 +204,6 @@
     "recent_commits": 9
   },
   {
-    "name": "greasemonkey-scripts",
-    "full_name": "nsheaps/greasemonkey-scripts",
-    "description": "Monorepo for Greasy Fork userscripts",
-    "language": "TypeScript",
-    "stars": 1,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/greasemonkey-scripts",
-    "pushed_at": "2026-09-15T14:32:20Z",
-    "private": false,
-    "recent_commits": 28
-  },
-  {
     "name": "agents",
     "full_name": "nsheaps/agents",
     "description": "Provider-agnostic agent team orchestration",
@@ -201,7 +213,7 @@
     "url": "https://github.com/nsheaps/agents",
     "pushed_at": "2026-09-15T12:29:37Z",
     "private": false,
-    "recent_commits": 38
+    "recent_commits": 34
   },
   {
     "name": "git-wt",
@@ -238,18 +250,6 @@
     "pushed_at": "2026-09-15T11:04:58Z",
     "private": true,
     "recent_commits": 8
-  },
-  {
-    "name": "gs-stack-status",
-    "full_name": "nsheaps/gs-stack-status",
-    "description": "Terminal dashboard for git-spice stacked branch workflows",
-    "language": "Shell",
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/nsheaps/gs-stack-status",
-    "pushed_at": "2026-09-15T05:56:05Z",
-    "private": false,
-    "recent_commits": 19
   },
   {
     "name": "obsidian-vaults",
@@ -393,7 +393,7 @@
     "url": "https://github.com/nsheaps/.ai-agent-jack",
     "pushed_at": "2026-08-28T17:09:17Z",
     "private": true,
-    "recent_commits": 12
+    "recent_commits": 10
   },
   {
     "name": "github2",
