@@ -139,12 +139,6 @@
 ### AI & Agent Tooling
 
 <p align="center">
-  <a href="https://github.com/nsheaps/claude-team">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/claude-team-dark.svg">
-          <img src="cards/claude-team-light.svg" alt="claude-team" width="400">
-        </picture>
-      </a>
   <a href="https://github.com/nsheaps/claude-utils">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/claude-utils-dark.svg">
@@ -272,6 +266,12 @@
 ### Other Projects
 
 <p align="center">
+  <a href="https://github.com/nsheaps/rise-to-power">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/rise-to-power-dark.svg">
+          <img src="cards/rise-to-power-light.svg" alt="rise-to-power" width="400">
+        </picture>
+      </a>
   <a href="https://github.com/nsheaps/agent-kenny">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/agent-kenny-dark.svg">
