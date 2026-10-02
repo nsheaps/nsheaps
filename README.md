@@ -104,16 +104,16 @@
           <img src="cards/iac-light.svg" alt="iac" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/private-pages">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/private-pages-dark.svg">
-          <img src="cards/private-pages-light.svg" alt="private-pages" width="400">
-        </picture>
-      </a>
   <a href="https://github.com/nsheaps/agent-kenny">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/agent-kenny-dark.svg">
           <img src="cards/agent-kenny-light.svg" alt="agent-kenny" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/private-pages">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/private-pages-dark.svg">
+          <img src="cards/private-pages-light.svg" alt="private-pages" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/framework-touchpad-toggle">
@@ -122,16 +122,16 @@
           <img src="cards/framework-touchpad-toggle-light.svg" alt="framework-touchpad-toggle" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/agents">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/agents-dark.svg">
-          <img src="cards/agents-light.svg" alt="agents" width="400">
-        </picture>
-      </a>
   <a href="https://github.com/nsheaps/greasemonkey-scripts">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/greasemonkey-scripts-dark.svg">
           <img src="cards/greasemonkey-scripts-light.svg" alt="greasemonkey-scripts" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/agents">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/agents-dark.svg">
+          <img src="cards/agents-light.svg" alt="agents" width="400">
         </picture>
       </a>
 </p>
@@ -266,16 +266,16 @@
 ### Other Projects
 
 <p align="center">
-  <a href="https://github.com/nsheaps/rise-to-power">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/rise-to-power-dark.svg">
-          <img src="cards/rise-to-power-light.svg" alt="rise-to-power" width="400">
-        </picture>
-      </a>
   <a href="https://github.com/nsheaps/agent-kenny">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/agent-kenny-dark.svg">
           <img src="cards/agent-kenny-light.svg" alt="agent-kenny" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/.ai-agent-alex">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/.ai-agent-alex-dark.svg">
+          <img src="cards/.ai-agent-alex-light.svg" alt=".ai-agent-alex" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/agents">
@@ -284,16 +284,16 @@
           <img src="cards/agents-light.svg" alt="agents" width="400">
         </picture>
       </a>
+  <a href="https://github.com/nsheaps/rise-to-power">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/rise-to-power-dark.svg">
+          <img src="cards/rise-to-power-light.svg" alt="rise-to-power" width="400">
+        </picture>
+      </a>
   <a href="https://github.com/nsheaps/framework-touchpad-toggle">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/framework-touchpad-toggle-dark.svg">
           <img src="cards/framework-touchpad-toggle-light.svg" alt="framework-touchpad-toggle" width="400">
-        </picture>
-      </a>
-  <a href="https://github.com/nsheaps/.ai-agent-alex">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/.ai-agent-alex-dark.svg">
-          <img src="cards/.ai-agent-alex-light.svg" alt=".ai-agent-alex" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/claude-code-sessions">
