@@ -272,6 +272,12 @@
           <img src="cards/agent-kenny-light.svg" alt="agent-kenny" width="400">
         </picture>
       </a>
+  <a href="https://github.com/nsheaps/.ai-agent-alex">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/.ai-agent-alex-dark.svg">
+          <img src="cards/.ai-agent-alex-light.svg" alt=".ai-agent-alex" width="400">
+        </picture>
+      </a>
   <a href="https://github.com/nsheaps/agent-jordan">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/agent-jordan-dark.svg">
@@ -332,12 +338,6 @@
           <img src="cards/.ai-agent-pamela-light.svg" alt=".ai-agent-pamela" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/.ai-agent-alex">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/.ai-agent-alex-dark.svg">
-          <img src="cards/.ai-agent-alex-light.svg" alt=".ai-agent-alex" width="400">
-        </picture>
-      </a>
   <a href="https://github.com/nsheaps/agent-template">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/agent-template-dark.svg">
@@ -362,16 +362,16 @@
           <img src="cards/framework-touchpad-toggle-light.svg" alt="framework-touchpad-toggle" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/agent-orchestrators">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/agent-orchestrators-dark.svg">
-          <img src="cards/agent-orchestrators-light.svg" alt="agent-orchestrators" width="400">
-        </picture>
-      </a>
   <a href="https://github.com/nsheaps/farish">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/farish-dark.svg">
           <img src="cards/farish-light.svg" alt="farish" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/agent-orchestrators">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/agent-orchestrators-dark.svg">
+          <img src="cards/agent-orchestrators-light.svg" alt="agent-orchestrators" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/n8n">
