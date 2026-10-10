@@ -266,6 +266,18 @@
 ### Other Projects
 
 <p align="center">
+  <a href="https://github.com/nsheaps/agent-kenny">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/agent-kenny-dark.svg">
+          <img src="cards/agent-kenny-light.svg" alt="agent-kenny" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/framework-touchpad-toggle">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/framework-touchpad-toggle-dark.svg">
+          <img src="cards/framework-touchpad-toggle-light.svg" alt="framework-touchpad-toggle" width="400">
+        </picture>
+      </a>
   <a href="https://github.com/nsheaps/qontacts">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/qontacts-dark.svg">
@@ -314,12 +326,6 @@
           <img src="cards/claudesh-light.svg" alt="claudesh" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/agent-kenny">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/agent-kenny-dark.svg">
-          <img src="cards/agent-kenny-light.svg" alt="agent-kenny" width="400">
-        </picture>
-      </a>
   <a href="https://github.com/nsheaps/agent-jordan">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/agent-jordan-dark.svg">
@@ -348,18 +354,6 @@
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/agent-template-dark.svg">
           <img src="cards/agent-template-light.svg" alt="agent-template" width="400">
-        </picture>
-      </a>
-  <a href="https://github.com/nsheaps/vscode-structured-data-viewer">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/vscode-structured-data-viewer-dark.svg">
-          <img src="cards/vscode-structured-data-viewer-light.svg" alt="vscode-structured-data-viewer" width="400">
-        </picture>
-      </a>
-  <a href="https://github.com/nsheaps/framework-touchpad-toggle">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/framework-touchpad-toggle-dark.svg">
-          <img src="cards/framework-touchpad-toggle-light.svg" alt="framework-touchpad-toggle" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/farish">
