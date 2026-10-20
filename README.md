@@ -266,16 +266,16 @@
 ### Other Projects
 
 <p align="center">
-  <a href="https://github.com/nsheaps/qontacts">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/qontacts-dark.svg">
-          <img src="cards/qontacts-light.svg" alt="qontacts" width="400">
-        </picture>
-      </a>
   <a href="https://github.com/nsheaps/claude-daemon-setup">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/claude-daemon-setup-dark.svg">
           <img src="cards/claude-daemon-setup-light.svg" alt="claude-daemon-setup" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/qontacts">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/qontacts-dark.svg">
+          <img src="cards/qontacts-light.svg" alt="qontacts" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/.ai-agent-alex">
