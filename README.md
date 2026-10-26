@@ -122,16 +122,16 @@
           <img src="cards/agent-kenny-light.svg" alt="agent-kenny" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/renovate-config">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/renovate-config-dark.svg">
-          <img src="cards/renovate-config-light.svg" alt="renovate-config" width="400">
-        </picture>
-      </a>
   <a href="https://github.com/nsheaps/private-pages">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/private-pages-dark.svg">
           <img src="cards/private-pages-light.svg" alt="private-pages" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/renovate-config">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/renovate-config-dark.svg">
+          <img src="cards/renovate-config-light.svg" alt="renovate-config" width="400">
         </picture>
       </a>
 </p>
@@ -266,16 +266,16 @@
 ### Other Projects
 
 <p align="center">
+  <a href="https://github.com/nsheaps/qontacts">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/qontacts-dark.svg">
+          <img src="cards/qontacts-light.svg" alt="qontacts" width="400">
+        </picture>
+      </a>
   <a href="https://github.com/nsheaps/claude-daemon-setup">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/claude-daemon-setup-dark.svg">
           <img src="cards/claude-daemon-setup-light.svg" alt="claude-daemon-setup" width="400">
-        </picture>
-      </a>
-  <a href="https://github.com/nsheaps/framework-touchpad-toggle">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/framework-touchpad-toggle-dark.svg">
-          <img src="cards/framework-touchpad-toggle-light.svg" alt="framework-touchpad-toggle" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/agent-kenny">
@@ -284,10 +284,10 @@
           <img src="cards/agent-kenny-light.svg" alt="agent-kenny" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/qontacts">
+  <a href="https://github.com/nsheaps/framework-touchpad-toggle">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/qontacts-dark.svg">
-          <img src="cards/qontacts-light.svg" alt="qontacts" width="400">
+          <source media="(prefers-color-scheme: dark)" srcset="cards/framework-touchpad-toggle-dark.svg">
+          <img src="cards/framework-touchpad-toggle-light.svg" alt="framework-touchpad-toggle" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/vscode-structured-data-viewer">
