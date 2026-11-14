@@ -92,22 +92,16 @@
           <img src="cards/claude-utils-light.svg" alt="claude-utils" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/cept">
+  <a href="https://github.com/nsheaps/qontacts">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/cept-dark.svg">
-          <img src="cards/cept-light.svg" alt="cept" width="400">
+          <source media="(prefers-color-scheme: dark)" srcset="cards/qontacts-dark.svg">
+          <img src="cards/qontacts-light.svg" alt="qontacts" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/iac">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/iac-dark.svg">
           <img src="cards/iac-light.svg" alt="iac" width="400">
-        </picture>
-      </a>
-  <a href="https://github.com/nsheaps/qontacts">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/qontacts-dark.svg">
-          <img src="cards/qontacts-light.svg" alt="qontacts" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/agents">
@@ -132,6 +126,12 @@
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/private-pages-dark.svg">
           <img src="cards/private-pages-light.svg" alt="private-pages" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/renovate-config">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/renovate-config-dark.svg">
+          <img src="cards/renovate-config-light.svg" alt="renovate-config" width="400">
         </picture>
       </a>
 </p>
