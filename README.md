@@ -116,16 +116,16 @@
           <img src="cards/ai-mktpl-light.svg" alt="ai-mktpl" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/agent-kenny">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/agent-kenny-dark.svg">
-          <img src="cards/agent-kenny-light.svg" alt="agent-kenny" width="400">
-        </picture>
-      </a>
   <a href="https://github.com/nsheaps/private-pages">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/private-pages-dark.svg">
           <img src="cards/private-pages-light.svg" alt="private-pages" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/agent-kenny">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/agent-kenny-dark.svg">
+          <img src="cards/agent-kenny-light.svg" alt="agent-kenny" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/renovate-config">
