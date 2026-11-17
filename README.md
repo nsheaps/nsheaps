@@ -110,16 +110,16 @@
           <img src="cards/agents-light.svg" alt="agents" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/private-pages">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/private-pages-dark.svg">
-          <img src="cards/private-pages-light.svg" alt="private-pages" width="400">
-        </picture>
-      </a>
   <a href="https://github.com/nsheaps/ai-mktpl">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/ai-mktpl-dark.svg">
           <img src="cards/ai-mktpl-light.svg" alt="ai-mktpl" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/private-pages">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/private-pages-dark.svg">
+          <img src="cards/private-pages-light.svg" alt="private-pages" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/agent-kenny">
@@ -266,6 +266,12 @@
 ### Other Projects
 
 <p align="center">
+  <a href="https://github.com/nsheaps/time-tracker">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/time-tracker-dark.svg">
+          <img src="cards/time-tracker-light.svg" alt="time-tracker" width="400">
+        </picture>
+      </a>
   <a href="https://github.com/nsheaps/claude-code-sessions">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/claude-code-sessions-dark.svg">
@@ -282,12 +288,6 @@
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/agent-kenny-dark.svg">
           <img src="cards/agent-kenny-light.svg" alt="agent-kenny" width="400">
-        </picture>
-      </a>
-  <a href="https://github.com/nsheaps/agent-jordan">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/agent-jordan-dark.svg">
-          <img src="cards/agent-jordan-light.svg" alt="agent-jordan" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/.ai-agent-alex">
