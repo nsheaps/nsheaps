@@ -110,28 +110,28 @@
           <img src="cards/agents-light.svg" alt="agents" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/private-pages">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/private-pages-dark.svg">
-          <img src="cards/private-pages-light.svg" alt="private-pages" width="400">
-        </picture>
-      </a>
   <a href="https://github.com/nsheaps/ai-mktpl">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/ai-mktpl-dark.svg">
           <img src="cards/ai-mktpl-light.svg" alt="ai-mktpl" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/renovate-config">
+  <a href="https://github.com/nsheaps/private-pages">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/renovate-config-dark.svg">
-          <img src="cards/renovate-config-light.svg" alt="renovate-config" width="400">
+          <source media="(prefers-color-scheme: dark)" srcset="cards/private-pages-dark.svg">
+          <img src="cards/private-pages-light.svg" alt="private-pages" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/agent-kenny">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/agent-kenny-dark.svg">
           <img src="cards/agent-kenny-light.svg" alt="agent-kenny" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/renovate-config">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/renovate-config-dark.svg">
+          <img src="cards/renovate-config-light.svg" alt="renovate-config" width="400">
         </picture>
       </a>
 </p>
@@ -276,12 +276,6 @@
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/claude-code-sessions-dark.svg">
           <img src="cards/claude-code-sessions-light.svg" alt="claude-code-sessions" width="400">
-        </picture>
-      </a>
-  <a href="https://github.com/nsheaps/.ai-old">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/.ai-old-dark.svg">
-          <img src="cards/.ai-old-light.svg" alt=".ai-old" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/agent-kenny">
