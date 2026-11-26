@@ -92,12 +92,6 @@
           <img src="cards/claude-utils-light.svg" alt="claude-utils" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/iac">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/iac-dark.svg">
-          <img src="cards/iac-light.svg" alt="iac" width="400">
-        </picture>
-      </a>
   <a href="https://github.com/nsheaps/qontacts">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/qontacts-dark.svg">
@@ -108,6 +102,12 @@
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/agents-dark.svg">
           <img src="cards/agents-light.svg" alt="agents" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/iac">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/iac-dark.svg">
+          <img src="cards/iac-light.svg" alt="iac" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/ai-mktpl">
