@@ -116,16 +116,16 @@
           <img src="cards/ai-mktpl-light.svg" alt="ai-mktpl" width="400">
         </picture>
       </a>
-  <a href="https://github.com/nsheaps/private-pages">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/private-pages-dark.svg">
-          <img src="cards/private-pages-light.svg" alt="private-pages" width="400">
-        </picture>
-      </a>
   <a href="https://github.com/nsheaps/renovate-config">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/renovate-config-dark.svg">
           <img src="cards/renovate-config-light.svg" alt="renovate-config" width="400">
+        </picture>
+      </a>
+  <a href="https://github.com/nsheaps/private-pages">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/private-pages-dark.svg">
+          <img src="cards/private-pages-light.svg" alt="private-pages" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/agent-kenny">
@@ -284,6 +284,12 @@
           <img src="cards/agent-kenny-light.svg" alt="agent-kenny" width="400">
         </picture>
       </a>
+  <a href="https://github.com/nsheaps/agent-jordan">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="cards/agent-jordan-dark.svg">
+          <img src="cards/agent-jordan-light.svg" alt="agent-jordan" width="400">
+        </picture>
+      </a>
   <a href="https://github.com/nsheaps/.ai-agent-alex">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/.ai-agent-alex-dark.svg">
@@ -372,12 +378,6 @@
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="cards/daemon-agent-template-dark.svg">
           <img src="cards/daemon-agent-template-light.svg" alt="daemon-agent-template" width="400">
-        </picture>
-      </a>
-  <a href="https://github.com/nsheaps/vscode-structured-data-viewer">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="cards/vscode-structured-data-viewer-dark.svg">
-          <img src="cards/vscode-structured-data-viewer-light.svg" alt="vscode-structured-data-viewer" width="400">
         </picture>
       </a>
   <a href="https://github.com/nsheaps/ring-creator">
